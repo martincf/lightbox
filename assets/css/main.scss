@@ -1,0 +1,66 @@
+---
+# main.scss
+---
+$red: #f66d6d;
+$black: #222;
+
+body {
+  color: $black;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 160%;
+  margin: 0;
+  padding: 0 30px;
+}
+.wrap-page {
+  max-width: 740px;
+  margin: 100px auto;
+}
+header h1 {
+  margin-bottom: 100px;
+  img {
+    max-width: 112px;
+  }
+}
+strong {
+  font-weight: 600;
+}
+h2 {
+  font-size: 20px;
+  margin: 2.5em 0 0;
+}
+p {
+  margin: 0 0 2em;
+}
+ul {
+  margin-bottom: 2.5em;
+}
+a:link, a:visited {
+  color: $red;
+  font-weight: 600;
+}
+a:hover, a:active {
+  color: darken($red, 20%)
+}
+footer {
+  margin: 100px 0;
+  padding-top: 50px;
+  background: #fff url({{ site.baseurl }}/assets/images/logobreak@3x.png) 0 0 no-repeat;
+  background-size: 112px;
+  p {
+    font-size: 16px;
+  }
+}
+.cta {
+  background-color: $red;
+  padding: 10px 2em;
+  color: white;
+  a {
+    font-weight: 600;
+    color: $black;
+  }
+}
+.photo img {
+  max-width: 100%;
+}
