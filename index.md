@@ -30,7 +30,7 @@ And whilst I have a lot of fantastic equipment to start with (see below), I woul
 ## Learning
 A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Whilst I don't profess to being an expert (yet!) I am very capable at film development, and competent at printing. Get in touch below to let me know if you're interested.
 
-<p class="photo"><img src="/assets/images/photo2.jpg" alt="" /></p>
+<p class="photo"><img src="{{ site.baseurl }}/assets/images/photo2.jpg" alt="" /></p>
 
 ## Darkroom capabilities and equipment 
 The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). Equipment includes:
