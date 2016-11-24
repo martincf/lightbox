@@ -42,5 +42,5 @@ I will also provide scanning facilities. Gotta get these photos on Flickr, Insta
 
 <div class="cta">
   <h1>Get in touch</h1>
-  <p>Interested in using the darkroom, taking a class, or helping out in some way? Email <a href="mailto:info@lightbox.photo">info@lightbox.photo</a> and follow Lightbox on Twitter <a href="https://twitter.com/lightboxdrkroom">@lightboxdrkroom</a>.</p>
+  <p>Are you interested in using the darkroom, taking a class, or helping out in some way? <a href="mailto:info@lightbox.photo">Email me</a>, follow Lightbox on <a href="https://twitter.com/lightboxdrkroom">Twitter</a>, <a href="https://www.facebook.com/Lightbox-Darkroom-1813508102270152/">Facebook</a>, and <a href="https://www.instagram.com/lightbox_darkroom/">Instagram</a>.</p>
 </div>

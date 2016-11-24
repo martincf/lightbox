@@ -56,9 +56,13 @@ footer {
   background-color: $red;
   padding: 10px 2em;
   color: white;
+  font-weight: 400;
   a {
     font-weight: 600;
     color: $black;
+  }
+  a:hover, a:active {
+    color: darken($red, 40%)
   }
 }
 .photo img {
