@@ -1,6 +1,7 @@
 ---
 # main.scss
 ---
+/* Variables */
 $red: #f66d6d;
 $black: #222;
 
@@ -12,6 +13,7 @@ body {
   line-height: 160%;
   margin: 0;
   padding: 0 30px;
+
 }
 .wrap-page {
   max-width: 740px;
@@ -62,4 +64,22 @@ footer {
 }
 .photo img {
   max-width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 18px;
+  }
+  .wrap-page {
+    margin: 75px auto;
+  }
+  header h1 {
+    margin-bottom: 75px;
+  }
+  .cta {
+    padding: 10px 20px;
+  }
+  .cta  h1 {
+    font-size: 30px;
+  }
 }
