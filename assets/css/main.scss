@@ -1,9 +1,15 @@
 ---
 # main.scss
 ---
+
+/* Imports */
+@import "base";
+@import "navigation";
+
 /* Variables */
 $red: #f66d6d;
 $black: #222;
+
 
 body {
   color: $black;
@@ -11,16 +17,24 @@ body {
   font-weight: 300;
   font-size: 19px;
   line-height: 160%;
-  margin: 0;
-  padding: 0 30px;
+  padding: 25px 30px 0;
 
 }
 .wrap-page {
   max-width: 740px;
   margin: 100px auto;
 }
+header:after {
+
+  content: "";
+  display: table;
+  clear: both;
+
+}
 header h1 {
   margin-bottom: 100px;
+  float: left;
+  max-width: 112px;
   img {
     max-width: 112px;
   }
@@ -65,6 +79,9 @@ footer {
 .photo img {
   max-width: 100%;
 }
+
+
+/* Old school media queries */
 
 @media screen and (max-width: 500px) {
   body {
