@@ -74,12 +74,35 @@ footer {
   box-sizing: border-box;
   padding: 10px 2em;
   font-weight: 400;
-
+  h1 {
+    font-size: 36px;
+    margin: 1em 0 1em;
+  }
 }
 .photo img {
   max-width: 100%;
 }
 
+/* Post styles */
+.addthis_inline_share_toolbox {
+  margin: 50px 0 75px;
+}
+.post-content {
+  ul {
+    margin: 1em 0;
+    li {
+      margin: 0 0 .5em;
+      &:before {
+        content: "\2022";
+        float: left;
+        text-align: right;
+        margin-left: -20px;
+        width: 50px;
+        
+      }
+    }
+  }
+}
 
 /* Old school media queries */
 
