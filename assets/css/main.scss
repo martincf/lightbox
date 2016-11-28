@@ -70,13 +70,14 @@ footer {
 }
 .cta {
   background-color: white;
-  border: 10px solid $black;
+  border: 10px solid $red;
   box-sizing: border-box;
   padding: 10px 2em;
   font-weight: 400;
   h1 {
     font-size: 36px;
     margin: 1em 0 1em;
+    color: $red;
   }
 }
 .photo img {
@@ -98,7 +99,7 @@ footer {
         text-align: right;
         margin-left: -20px;
         width: 50px;
-        
+
       }
     }
   }
