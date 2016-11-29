@@ -88,20 +88,42 @@ footer {
 .addthis_inline_share_toolbox {
   margin: 50px 0 75px;
 }
-.post-content {
+.post-list {
+  margin-bottom: 100px;
+  a {
+    font-size: 24px;
+    img {
+      float: left;
+      max-width: 150px;
+      margin: 0 1em 2em 0;
+    }
+  }
+}
+.post-list-item {
+  clear: left;
+
+}
+.post-title {
+  font-size: 36px;
+}
+.post-content, .index-content {
   ul {
     margin: 1em 0;
     li {
-      margin: 0 0 .5em;
+      margin: 0 1.5em 1em;
       &:before {
         content: "\2022";
         float: left;
         text-align: right;
-        margin-left: -20px;
-        width: 50px;
-
+        margin: -1px 0 0 -2.5em;
+        width: 2em;
+        font-size: 24px;
+        color: $red;
       }
     }
+  }
+  h2 {
+    font-size: 24px;
   }
 }
 

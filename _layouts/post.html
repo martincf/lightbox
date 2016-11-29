@@ -1,7 +1,9 @@
     {% include header.html %}
-      <h1>{{ page.title }}</h1>
+      <h1 class="post-title">{{ page.title }}</h1>
       <h2>{{ post.date }}</h2>
       <article class="post-content">
+        <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p>
+
         {{ content }}
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <div class="addthis_inline_share_toolbox"></div>
