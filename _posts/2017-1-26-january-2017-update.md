@@ -21,4 +21,4 @@ As mentioned on the homepage, we are literally building the darkroom from the gr
 
 We've had some promising news of a significant donation possibly coming our way. A stainless steel darkroom wash basin. Fingers crossed.
 
-Currently, we're aiming for a slightly optimistic target of having all but fitting the darkroom done by the end of February. That's next month, 2017.
+Currently, we're aiming for a slightly optimistic target of having all but fitting the darkroom done by the end of February. That's next month, 2017. Now that the roof is all but on, I intend to tweet more about progress with pictures. So, <a href="https://twitter.com/lightboxdrkroom">follow Lightbox on Twitter</a>.
