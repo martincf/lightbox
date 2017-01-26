@@ -70,7 +70,7 @@ footer {
 }
 .cta {
   background-color: white;
-  border: 10px solid $red;
+  border: 5px solid $red;
   box-sizing: border-box;
   padding: 10px 2em;
   font-weight: 400;
@@ -90,6 +90,10 @@ footer {
 }
 .post-list {
   margin-bottom: 100px;
+  a:link, a:visited {
+    border-bottom: 1px solid lighten($red, 20%);
+  }
+
   a {
     font-size: 24px;
     img {
@@ -107,6 +111,9 @@ footer {
   font-size: 36px;
 }
 .content {
+  a:link, a:visited {
+    border-bottom: 1px solid lighten($red, 20%);
+  }
   ul {
     margin: 1em 0;
     li {
@@ -144,5 +151,10 @@ footer {
   }
   .cta  h1 {
     font-size: 30px;
+  }
+  .post-list a img {
+    max-width: 100%;
+    float: none;
+    margin: 0 0 1em;
   }
 }

@@ -16,9 +16,10 @@ I\'m opening the darkroom to initially satisfy my own creative endeavours. In th
 I, Martin Chapman Fromm, am originally a graphic designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have, admittedly in my spare time, decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
 
 ## What\'s the plan?
-Currently being built literally from the ground up, Lightbox will run privately for a few months from early 2017 whilst it\'s bedded in and issues ironed. In Spring, I plan to open the darkroom for wider use.
+Currently being built literally from the ground up, Lightbox will run privately for a few months from early 2017 whilst it\'s bedded in and issues ironed out. In Spring, the plan ids to open the darkroom for wider use.
 
 Lightbox plans to provide a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
+
 
 <!-- ## A call for help, physical and mental
 In terms of what the plan for an open darkroom is, there's only a very loose one. I've a broad idea of costs and open times, but I would love to start discussions with anyone interested in using the facility about how they think they'd use it, how much they'd be willing to pay, and any other opportunities that may present themselves.
