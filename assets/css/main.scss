@@ -1,9 +1,15 @@
 ---
 # main.scss
 ---
+
+/* Imports */
+@import "base";
+@import "navigation";
+
 /* Variables */
 $red: #f66d6d;
 $black: #222;
+
 
 body {
   color: $black;
@@ -11,16 +17,24 @@ body {
   font-weight: 300;
   font-size: 19px;
   line-height: 160%;
-  margin: 0;
-  padding: 0 30px;
+  padding: 25px 30px 0;
 
 }
 .wrap-page {
   max-width: 740px;
   margin: 100px auto;
 }
+header:after {
+
+  content: "";
+  display: table;
+  clear: both;
+
+}
 header h1 {
   margin-bottom: 100px;
+  float: left;
+  max-width: 112px;
   img {
     max-width: 112px;
   }
@@ -56,15 +70,71 @@ footer {
 }
 .cta {
   background-color: white;
-  border: 10px solid $black;
+  border: 5px solid $red;
   box-sizing: border-box;
   padding: 10px 2em;
   font-weight: 400;
-
+  h1 {
+    font-size: 36px;
+    margin: 1em 0 1em;
+    color: $red;
+  }
 }
 .photo img {
   max-width: 100%;
 }
+
+/* Post styles */
+.addthis_inline_share_toolbox {
+  margin: 50px 0 75px;
+}
+.post-list {
+  margin-bottom: 100px;
+  a:link, a:visited {
+    border-bottom: 1px solid lighten($red, 20%);
+  }
+
+  a {
+    font-size: 24px;
+    img {
+      float: left;
+      max-width: 150px;
+      margin: 0 1em 2em 0;
+    }
+  }
+}
+.post-list-item {
+  clear: left;
+
+}
+.post-title {
+  font-size: 36px;
+}
+.content {
+  a:link, a:visited {
+    border-bottom: 1px solid lighten($red, 20%);
+  }
+  ul {
+    margin: 1em 0;
+    li {
+      margin: 0 1.5em 1em;
+      &:before {
+        content: "\2022";
+        float: left;
+        text-align: right;
+        margin: -1px 0 0 -2.5em;
+        width: 2em;
+        font-size: 24px;
+        color: $red;
+      }
+    }
+  }
+  h2 {
+    font-size: 24px;
+  }
+}
+
+/* Old school media queries */
 
 @media screen and (max-width: 500px) {
   body {
@@ -81,5 +151,10 @@ footer {
   }
   .cta  h1 {
     font-size: 30px;
+  }
+  .post-list a img {
+    max-width: 100%;
+    float: none;
+    margin: 0 0 1em;
   }
 }
