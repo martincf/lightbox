@@ -3,8 +3,11 @@ title: Lightbox darkroom - an open darkroom in the Northwest of England
 layout: list
 ---
 
+  <h1 class="content-title">Articles & updates</h1>
+
     <ul class="post-list">
       {% for post in site.posts %}
+      {% if post.tags contains 'blog' %}
         <li class="post-list-item">
           <a href="{{ post.url }}">
             <img src="{{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg" alt="" />
@@ -12,5 +15,6 @@ layout: list
           </a>
           <p>{{ post.excerpt }}</p>
         </li>
+        {% endif %}
       {% endfor %}
     </ul>

@@ -1,8 +1,11 @@
     {% include header.html %}
       <h1 class="post-title">{{ page.title }}</h1>
-      <h2>{{ post.date }}</h2>
+      {% if page.tags contains 'event' %}
+        <h2 class="event-date">{{ page.eventdate }}</h2>
+        <h3 class="event-price"><button class="event-price-book">Book now</button> {{ page.eventprice }}</h3>
+      {% endif %}
       <article class="content">
-        <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p>
+        <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p> -->
         {{ content }}
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <div class="addthis_inline_share_toolbox"></div>

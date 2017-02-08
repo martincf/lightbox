@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: blog
 title: Where to buy film in the UK
 date: 2016-11-25
 published: true
