@@ -5,6 +5,7 @@
 /* Imports */
 @import "base";
 @import "navigation";
+@import "mixins";
 
 /* Variables */
 $red: #f66d6d;
@@ -33,6 +34,11 @@ body {
  background: #fff url(/assets/images/photo1.jpg) 0 -400px no-repeat;
  background-attachment: fixed;
  background-size: cover;
+
+ @include mq(small-smartphone) {
+  background-image: none;
+  }
+
 }
 
 header:after {
@@ -42,6 +48,7 @@ header:after {
   clear: both;
 
 }
+
 header h1 {
   margin-bottom: 100px;
   float: left;
@@ -128,6 +135,10 @@ footer {
   background-color: white;
   padding: 100px;
   margin-top: 0;
+  @include mq(small-smartphone) {
+    padding: 0;
+    }
+
 }
 .content {
   margin-top: 2em;
@@ -222,7 +233,7 @@ footer {
 
 /* Old school media queries */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
   body {
     font-size: 18px;
   }
@@ -245,5 +256,8 @@ footer {
   }
   .post-title {
     font-size: 24px;
+  }
+  .navigation-list-link {
+    background-color: lighten($red, 28%);
   }
 }
