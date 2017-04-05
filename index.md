@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is a private film photography darkroom that will, over the next few months and year,  evolve into an open darkroom available for hire and for learning.**
+**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is a private film photography darkroom that will, over the next few months and years, evolve into an open darkroom available for hire and for learning.**
 
 ## Why open a darkroom?
 Film photography is experiencing something of a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
@@ -16,7 +16,7 @@ I\'m opening the darkroom to initially satisfy my own creative endeavours. In th
 I, Martin Chapman Fromm, am originally a graphic designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have, admittedly in my spare time, decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
 
 ## What\'s the plan?
-Currently being built literally from the ground up, Lightbox will run privately for a few months from early 2017 whilst it\'s bedded in and issues ironed out. In Spring, the plan ids to open the darkroom for wider use.
+Currently being built literally from the ground up, Lightbox will run privately for a few months from early 2017 whilst it\'s bedded in and issues ironed out. In Spring, the plan is to open the darkroom for wider use.
 
 Lightbox plans to provide a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
 
@@ -27,7 +27,7 @@ In terms of what the plan for an open darkroom is, there's only a very loose one
 And whilst I have a lot of fantastic equipment to start with (see below), I would love it if anyone can contribute their old darkroom kit that's going unused (tanks, reels, trays, etc.) -->
 
 ## Learning
-A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Whilst I don\'t profess to being an expert (yet!) I am very capable at film development, and competent at printing. Get in touch below if you\'d like to register interested.
+A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Whilst I don\'t profess to being an expert (yet!) I am very capable at film development, and competent at printing. Get in touch below if you\'d like to register your interest.
 
 <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="" /></p> -->
 
