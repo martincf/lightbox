@@ -5,11 +5,12 @@
 /* Imports */
 @import "base";
 @import "navigation";
+@import "mixins";
 
 /* Variables */
 $red: #f66d6d;
 $black: #222;
-
+$blue: #2857CB;
 
 body {
   color: $black;
@@ -21,9 +22,25 @@ body {
 
 }
 .wrap-page {
-  max-width: 740px;
+  // max-width: 740px;
+  max-width: 960px;
+  box-sizing: border-box;
   margin: 100px auto;
+
 }
+
+// Site bg image
+.default, .list, .post {
+ background: #fff url(/assets/images/photo1.jpg) 0 -400px no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+
+ @include mq(small-smartphone) {
+  background-image: none;
+  }
+
+}
+
 header:after {
 
   content: "";
@@ -31,6 +48,7 @@ header:after {
   clear: both;
 
 }
+
 header h1 {
   margin-bottom: 100px;
   float: left;
@@ -74,6 +92,8 @@ footer {
   box-sizing: border-box;
   padding: 10px 2em;
   font-weight: 400;
+  margin: 50px 0;
+
   h1 {
     font-size: 36px;
     margin: 1em 0 1em;
@@ -90,6 +110,7 @@ footer {
 }
 .post-list {
   margin-bottom: 100px;
+
   a:link span, a:visited span {
     border-bottom: 1px solid lighten($red, 20%);
   }
@@ -110,7 +131,22 @@ footer {
 .post-title {
   font-size: 36px;
 }
+.page-list, .content {
+  background-color: white;
+  padding: 100px;
+  margin-top: 0;
+  @include mq(small-smartphone) {
+    padding: 0;
+    }
+
+}
 .content {
+  margin-top: 2em;
+
+  h1 {
+    margin: 0 0 1em;
+  }
+
   a:link, a:visited {
     border-bottom: 1px solid lighten($red, 20%);
   }
@@ -133,10 +169,71 @@ footer {
     font-size: 24px;
   }
 }
+.content-title {
+  font-size: 36px;
+  margin: 0 0 1em;
+}
+/* Event styles */
+.events-list-item {
+  a {
+    display: block;
+  }
+  p {
+    margin: .5em 0 4em;
+  }
+}
+.event-list-item-dateinfo {
+  display: block;
+  background-color: $black;
+  color: white;
+  width: 150px;
+  float: left;
+  text-align: center;
+  padding: 1.25em .25em;
+  margin: 0 1em 0 0;
+  span {
+    display: block;
+    text-transform: uppercase;
+  }
+}
+.event-list-item-day, .event-list-item-time {
+  font-size: 14px;
+  font-weight: 500;
+}
+.event-list-item-time {
+  letter-spacing: 1px;
+}
+.event-list-item-date {
+  font-weight: 700;
+}
+.event-date {
+  font-size: 24px;
+}
+.event-price {
+  font-size: 24px;
+  font-weight: 300;
+}
+.event-price-book {
+  background-color: $black;
+  font-weight: 700;
+  color: white;
+  font-size: 16px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  &:hover {
+  background-color: darken($red, 20%);
+  }
+}
+
+/* Hire page */
+.schedule {
+  min-height: 750px;
+  margin-bottom: 4em;
+}
 
 /* Old school media queries */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
   body {
     font-size: 18px;
   }
@@ -159,5 +256,8 @@ footer {
   }
   .post-title {
     font-size: 24px;
+  }
+  .navigation-list-link {
+    background-color: lighten($red, 28%);
   }
 }

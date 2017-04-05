@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: blog
 title: January 2017 darkroom progress update
 date: 2017-1-26
 published: true
