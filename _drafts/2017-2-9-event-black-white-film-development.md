@@ -7,9 +7,9 @@ published: true
 permalink: /events/black-and-white-film-development
 excerpt: Learn how to develop your own black and white film and scan the results for printing.
 heroimage: photo-janupdate-2
-eventdate: 12 March 2017
+eventdate: 19 Mar 2017
 eventday: Sunday
-eventtime: 1pm-5.30pm
+eventtime: 1pm-6pm
 eventprice: £25 per person (max 4 people)
 ---
 
@@ -17,7 +17,7 @@ eventprice: £25 per person (max 4 people)
 
 At the end of the day you will have access to a scanner to scan a high resolution version of your images. (Alternatively, you'll be able to hand print them in the darkroom in a few weeks time!)
 
-What you will need: just one thing, a finished roll of black and white 35mm film (24 or 36 exposures). You can buy black and white 35mm film locally from the Open Eye Gallery or Wilkinsons Cameras in Liverpool, or buy it [/posts/where-to-buy-film-uk.html](online here). If you're really desperate, email me and I can sell a small amount from my own collection.
+What you will need: just one thing, a finished roll of black and white 35mm film (24 or 36 exposures). You can buy black and white 35mm film locally from the Open Eye Gallery or Wilkinsons Cameras in Liverpool, or [buy film online](/posts/where-to-buy-film-uk.html). If you're really desperate, email me and I can sell a small amount from my own collection.
 
 What will be supplied on the day: all that you need to successfully develop your film by hand! Chemicals, equipment, film holder sheets, and access to a computer and scanner to scan your favourite shots from your roll*
 

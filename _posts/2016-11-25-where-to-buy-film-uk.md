@@ -25,6 +25,9 @@ When it comes to buying online, I'm normally going for who's selling the cheapes
 * **PhotoUK** (Eastbourne): [http://www.photouk.co.uk](http://www.photouk.co.uk)
 * **AG Photographic** (Birmingham): [http://www.ag-photographic.co.uk](http://www.ag-photographic.co.uk)
 * **Student Photo Store** (Plymouth): [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
+* **Nik & Trick** (Folkstone, Kent): [http://ntphotoworks.com/shop/](http://ntphotoworks.com/shop/)
+* **Mathers of Lancashire** (Bolton, Lancashire): [http://www.mathersoflancashire.co.uk/index.aspx](http://www.mathersoflancashire.co.uk/index.aspx)
+* **Jack the Hat** (Cumbria): [https://www.jackthehat.co.uk](https://www.jackthehat.co.uk)
 
 ## London
 

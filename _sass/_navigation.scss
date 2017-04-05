@@ -5,9 +5,14 @@
 }
 .navigation-list-link {
   display: inline-block;
-  margin: 0 0 0 1.5em;
+  background-color: white;
+  padding: .2em .5em;
+  margin: 0 0 .15em 0;
+  font-weight: 700;
+  font-size: .9em;
+  text-transform: uppercase;
   a:link, a:visited, a:hover, a:active {
-    font-weight: 300;
+    font-weight: 700;
   }
 }
 @media screen and (max-width: 500px) {
