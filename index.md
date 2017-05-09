@@ -27,16 +27,17 @@ In terms of what the plan for an open darkroom is, there's only a very loose one
 And whilst I have a lot of fantastic equipment to start with (see below), I would love it if anyone can contribute their old darkroom kit that's going unused (tanks, reels, trays, etc.) -->
 
 ## Learning
-A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Whilst I don\'t profess to being an expert (yet!) I am very capable at film development, and competent at printing. Get in touch below if you\'d like to register your interest.
+A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Get in touch below if you\'d like to register your interest.
 
 <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="" /></p> -->
 
 ## Darkroom capabilities and equipment
-The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). Equipment includes:
+The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). The plan is to upgrade 5 x 4 large format printing as soon as is financially viable. Current equipment includes:
 
-* two enlargers;
-* a rotary (colour) film developing tank;
-* upright print tanks, and;
-* the usual darkroom paraphernalia (developing tanks, trays, large wash sink).
+* two enlargers: Durst M605 Color and a De Vere 203;
+* a sink large enough to print 24 x 20 prints;
+* a Jobo rotary (colour) film and print developer;
+* Nova upright print tanks, and;
+* the usual darkroom paraphernalia (developing tanks, trays, wash sink).
 
 I will also provide scanning facilities. Gotta get these photos on Flickr, Instagram and Facebook for the likez and favs!
