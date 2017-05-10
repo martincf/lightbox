@@ -2,8 +2,11 @@
       <article class="content">
         <h1 class="post-title">{{ page.title }}</h1>
         {% if page.tags contains 'event' %}
-          <h2 class="event-date">{{ page.eventdate }}</h2>
-          <h3 class="event-price"><button class="event-price-book">Book now</button> {{ page.eventprice }}</h3>
+          <h2 class="event-date">
+            <button class="event-price-book">Book now</button>
+            {{ page.eventdate }}
+            <em class="event-price">{{ page.eventprice }}</em>
+          </h2>
         {% endif %}
 
         <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p>

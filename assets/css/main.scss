@@ -208,21 +208,24 @@ footer {
 }
 .event-date {
   font-size: 24px;
-}
-.event-price {
-  font-size: 24px;
-  font-weight: 300;
   margin-bottom: 1em;
 }
+.event-price {
+  font-weight: 300;
+  font-style: normal;
+  margin-left: .5em;
+}
 .event-price-book {
-  background-color: $black;
+  background-color: darken($red, 20%);
   font-weight: 700;
   color: white;
-  font-size: 16px;
-  border-radius: 2px;
+  font-size: 24px;
+  border-radius: 4px;
+  padding: .25em .75em;
+  margin-right: .5em;
   text-transform: uppercase;
   &:hover {
-  background-color: darken($red, 20%);
+  background-color: darken($red, 30%);
   }
 }
 
