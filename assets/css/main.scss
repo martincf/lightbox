@@ -30,7 +30,7 @@ body {
 }
 
 // Site bg image
-.default, .list, .post {
+.default, .list, .post, .page {
  background: #fff url(/assets/images/photo1.jpg) 0 -400px no-repeat;
  background-attachment: fixed;
  background-size: cover;
@@ -230,6 +230,9 @@ footer {
 }
 
 /* Hire page */
+.page .post-title + p {
+  font-weight: 700;
+}
 .schedule {
   min-height: 750px;
   margin-bottom: 4em;
