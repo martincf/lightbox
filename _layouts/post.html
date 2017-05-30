@@ -3,8 +3,8 @@
         <h1 class="post-title">{{ page.title }}</h1>
         {% if page.tags contains 'event' %}
           <h2 class="event-date">
-            <button class="event-price-book">Book now</button>
-            {{ page.eventdate }}
+            <!-- <button class="event-price-book"><a href="{{ page.booklink }}">Book a date</a></button> -->
+            <!-- {{ page.eventdate }} -->
             <em class="event-price">{{ page.eventprice }}</em>
           </h2>
         {% endif %}
@@ -14,5 +14,6 @@
         {{ content }}
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
         <div class="addthis_inline_share_toolbox"></div>
+        {% include sticker.html %}
       </article>
     {% include footer.html %}

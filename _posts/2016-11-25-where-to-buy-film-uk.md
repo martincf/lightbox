@@ -28,6 +28,7 @@ When it comes to buying online, I'm normally going for who's selling the cheapes
 * **Nik & Trick** (Folkstone, Kent): [http://ntphotoworks.com/shop/](http://ntphotoworks.com/shop/)
 * **Mathers of Lancashire** (Bolton, Lancashire): [http://www.mathersoflancashire.co.uk/index.aspx](http://www.mathersoflancashire.co.uk/index.aspx)
 * **Jack the Hat** (Cumbria): [https://www.jackthehat.co.uk](https://www.jackthehat.co.uk)
+* **Imaging Warehouse** (Stratford-Upon-Avon): [https://www.theimagingwarehouse.com/Products/Film](https://www.theimagingwarehouse.com/Products/Film)
 
 ## London
 

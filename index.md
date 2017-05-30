@@ -9,14 +9,14 @@ layout: default
 ## Why open a darkroom?
 Film photography is experiencing something of a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
 
-I\'m opening the darkroom to initially satisfy my own creative endeavours. In the future, I hope to help others fuel their own creative output through film photography.
+I\'m opening the darkroom to satisfy my own creative endeavours and to help others fuel their own creative output through film photography.
 
 
 ## Who\'s doing this?
-I, Martin Chapman Fromm, am originally a graphic designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have, admittedly in my spare time, decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
+My name is Martin Chapman Fromm, a designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
 
 ## What\'s the plan?
-Currently being built literally from the ground up, Lightbox will run privately for a few months from early 2017 whilst it\'s bedded in and issues ironed out. In Spring, the plan is to open the darkroom for wider use.
+Currently being built literally from the ground up, Lightbox will run privately for a a month or two whilst it\'s bedded in and issues ironed out. In Summer 2017, the plan is to open [the darkroom](darkroom_hire.html) for wider use.
 
 Lightbox plans to provide a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
 
@@ -27,11 +27,17 @@ In terms of what the plan for an open darkroom is, there's only a very loose one
 And whilst I have a lot of fantastic equipment to start with (see below), I would love it if anyone can contribute their old darkroom kit that's going unused (tanks, reels, trays, etc.) -->
 
 ## Learning
-A medium term goal will be to offer darkroom film development and print workshops. It can be daunting doing this stuff without help and guidance. Get in touch below if you\'d like to register your interest.
+There will be darkroom film development and print [workshops](eventslist.html). Further along I hope to offer even more interesting workshops such as medium and large format photography walkabouts, development, and printing; and the odd guest expert workshop for portrait photography on film.
+
+Get in touch below if you\'d like to get involved.
+
+<aside class="sticker">
+  <p>Available from July 2017</p>
+</aside>
 
 <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="" /></p> -->
 
-## Darkroom capabilities and equipment
+<!-- ## Darkroom capabilities and equipment
 The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). The plan is to upgrade 5 x 4 large format printing as soon as is financially viable. Current equipment includes:
 
 * two enlargers: Durst M605 Color and a De Vere 203;
@@ -40,4 +46,4 @@ The darkroom will be capable of developing and printing black & white and colour
 * Nova upright print tanks, and;
 * the usual darkroom paraphernalia (developing tanks, trays, wash sink).
 
-I will also provide scanning facilities. Gotta get these photos on Flickr, Instagram and Facebook for the likez and favs!
+I will also provide scanning facilities. Gotta get these photos on Flickr, Instagram and Facebook for the likez and favs! -->
