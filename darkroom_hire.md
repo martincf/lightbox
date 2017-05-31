@@ -13,7 +13,7 @@ heroimage: photo-janupdate-2
 
 In a world where making photographs now rarely leave a digital screen, why not slow down and create something tangible and permanent with your own hands?
 
-##Availability
+## Availability
 Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you will able to book the darkroom out for a block of 4 hours per session.
 
 <!--

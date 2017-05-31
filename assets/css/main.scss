@@ -81,7 +81,7 @@ a:hover, a:active {
 .footer-site {
   margin: 100px 0;
   padding-top: 50px;
-  background: #fff url({{ site.baseurl }}/assets/images/logobreak@3x.png) 0 0 no-repeat;
+  background: transparent url({{ site.baseurl }}/assets/images/logobreak@3x.png) 0 0 no-repeat;
   background-size: 112px;
   p {
     font-size: 16px;
