@@ -4,7 +4,8 @@
         {% if page.tags contains 'event' %}
           <h2 class="event-date">
             <!-- <button class="event-price-book"><a href="{{ page.booklink }}">Book a date</a></button> -->
-            <!-- {{ page.eventdate }} -->
+            <button class="event-price-book"><a href="mailto:info@lightbox.photo">Register interest</a></button>
+            {{ page.eventdate }}
             <em class="event-price">{{ page.eventprice }}</em>
           </h2>
         {% endif %}

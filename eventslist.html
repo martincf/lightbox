@@ -15,11 +15,10 @@ layout: list
             <span class="event-list-item-date">{{ post.eventdate }}</span>
             <span class="event-list-item-time">{{ post.eventtime }}</span>
           </div> -->
-          <!-- <a href="{{ post.url }}"> -->
-          <a href="#">
+          <a href="{{ post.url }}">
             <img src="{{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg" alt="" />
             <span>{{ post.title }}</span></a>
-          <span>{{ post.eventfreq }} – {{ post.eventprice }}</span>
+          <span>{{ post.eventdate }} – {{ post.eventprice }}</span>
           <span>{{ post.excerpt }}</span>.
         </li>
         {% endif %}

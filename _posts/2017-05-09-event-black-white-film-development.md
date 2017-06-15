@@ -1,14 +1,15 @@
 ---
 layout: post
 tag: event
-title: Coming July – Black and white film development workshop
+title: Black and white film development workshop
 date: 2017-05-09
 published: true
 permalink: /events/black-and-white-film-development-03-june-17
 excerpt: Learn how to develop your own timeless black and white film
-heroimage: photo-janupdate-2
-eventprice:
-eventfreq: Once or twice per week
+heroimage: photo1
+eventprice: £30 per person (max 4 people).
+eventfreq: Twice per week
+eventdate: 01 Jul 2017
 booklink: https://bookwhen.com/lightbox/e/ev-sd7p-20170527093000
 ---
 

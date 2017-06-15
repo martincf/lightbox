@@ -32,12 +32,15 @@ body {
 
 // Site bg image
 .default, .list, .post, .page {
- background: #fff url(/assets/images/photo1.jpg) 0 -400px no-repeat;
+ background: #fff url(/assets/images/darkroom-safelight-wide-large.jpg) 0 -400px no-repeat;
  background-attachment: fixed;
  background-size: cover;
 
  @include mq(small-smartphone) {
-  background-image: none;
+  // background-image: none;
+  background-size: 500px;
+  background-position: top center;
+  background-attachment: local;
   }
 
 }
@@ -232,6 +235,9 @@ a:hover, a:active {
   }
   &:hover {
   background-color: darken($red, 30%);
+  }
+  @include mq(small-smartphone) {
+    display: block;
   }
 }
 

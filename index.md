@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is a private film photography darkroom that will, over the next few months and years, evolve into an open darkroom available for hire and for learning.**
+**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is a film photography darkroom that will, over the next few months, evolve into an open darkroom available for hire and for learning.**
 
 ## Why open a darkroom?
 Film photography is experiencing something of a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
@@ -16,7 +16,7 @@ I\'m opening the darkroom to satisfy my own creative endeavours and to help othe
 My name is Martin Chapman Fromm, a designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
 
 ## What\'s the plan?
-Currently being built literally from the ground up, Lightbox will run privately for a a month or two whilst it\'s bedded in and issues ironed out. In Summer 2017, the plan is to open [the darkroom](darkroom_hire.html) for wider use.
+The darkroom has literally been built from the ground up. Lightbox will run privately for a month whilst it\'s bedded in and issues ironed out. In Summer 2017, the plan is to open [the darkroom](darkroom_hire.html) for wider use.
 
 Lightbox plans to provide a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
 
