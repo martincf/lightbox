@@ -7,9 +7,9 @@ published: true
 permalink: /events/black-and-white-film-development-03-june-17
 excerpt: Learn how to develop your own timeless black and white film
 heroimage: photo1
-eventprice: £30 per person (max 4 people).
+eventprice: £30 pp (max 4 people*).
 eventfreq: Twice per week
-eventdate: 01 Jul 2017
+eventdate: 9.30am, Sat 01 Jul 2017
 booklink: https://bookwhen.com/lightbox/e/ev-sd7p-20170527093000
 ---
 
@@ -33,7 +33,8 @@ Just one thing, a finished roll of black and white 35mm film (24 or 36 exposures
 * Loading your film
 * Develop your film
 * Break for refreshments (whilst your film dries)
-* Assessing, storing your film and scanning*
+* Assessing, storing your film and scanning (due to the length of time it takes to scan film, we'll limit access to the scanner to 5 scans per person on the day. If time allows, you can scan more.)
 * Fin
 
-*Due to the length of time it takes to scan film, we'll limit access to the scanner to 5 scans per person on the day. If time allows, you can scan more.
+
+*Attendees must be over 16 years of age.
