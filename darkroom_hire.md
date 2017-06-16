@@ -1,5 +1,6 @@
 ---
-title: Darkroom hire
+title: Lightbox Darkroom - Darkroom hire
+permalink: /darkroom-hire/
 layout: page
 heroimage: photo-janupdate-2
 ---
