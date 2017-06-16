@@ -26,7 +26,7 @@ booklink: https://bookwhen.com/lightbox/e/ev-sd7p-20170527093000
 
 Just one thing, a finished roll of black and white 35mm film (24 or 36 exposures). You can buy black and white 35mm film locally from the [Open Eye Gallery](https://openeye.org.uk) or [Wilkinsons Cameras](http://www.wilkinson.co.uk/w/storelocation/liverpool/) in Liverpool, or buy it [online here](/posts/where-to-buy-film-uk.html). If you're really desperate, email me and I can sell a small amount from my own collection.
 
-##Schedule for the day
+## Schedule for the day
 
 * Greetings, house rules, and the basics of developing film
 * Calculating your chemicals
