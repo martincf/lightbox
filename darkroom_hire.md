@@ -3,6 +3,7 @@ title: Lightbox Darkroom - Darkroom hire
 permalink: /darkroom-hire/
 layout: page
 heroimage: photo-janupdate-2
+booklink: https://bookwhen.com/darkroom-induction
 ---
 
 <blockquote class="quote">
@@ -17,7 +18,7 @@ In a world where making photographs now rarely leave a digital screen, why not s
 ## Availability
 Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you will able to book the darkroom out for a block of 4 hours per session.
 
-<!--
+
 <div class="timetable-wrap">
   <table class="timetable">
     <tr>
@@ -35,7 +36,7 @@ Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you wil
     <tr>
       <td>Saturday</td>
       <td>Open darkroom</td>
-      <td>13:00-17:00</td>
+      <td>Workshop</td>
       <td>18:30-21:30</td>
     </tr>
     <tr>
@@ -49,11 +50,11 @@ Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you wil
 
 <p class="footnote"><span class="footnote-symbol">* </span>Availability over Saturday, Sunday, and Monday may differ when workshops are running.</p>
 
-<p class="">
+<!-- <p class="">
   <button class="event-price-book">See all sessions</button>
 </p> -->
 
-<!-- <section class="highlight highlight-light" id="induction">
+<section class="highlight highlight-light" id="induction">
 
 <h2 class="highlight-title">First-time bookings</h2>
 <p>First-time bookers will be required to complete a darkroom induction prior to using the darkroom by themselves. We will also need you to provide proof of address (a recent utility bill will do) and ID (driving license or passport) on arrival. Both requirements are to satisfy our insurers.</p>
@@ -64,13 +65,13 @@ Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you wil
 <p>If you are a professional photographer who has never used darkroom equipment before, or need a refresher, we strongly advise that you take a longer <a href="#induction">darkroom induction workshop</a> first.</p>
 
 <h3>Amateur photographer</h3>
-<p>If you are an amateur photographer, you will have to take a <a href="#induction">darkroom induction workshop</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p> -->
+<p>If you are an amateur photographer, you will have to take a <a href="#induction">darkroom induction workshop</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p>
 <!--
 ## Make a booking
 <iframe class="schedule" src="https://bookwhen.com/lightbox/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display: block; border: none; width: 100%; height: 100%;"></iframe> -->
 
-<!-- </section> -->
-<!--
+</section>
+
 <section class="highlight" id="induction">
 
   <h1 class="highlight-title">Darkroom induction</h1>
@@ -88,9 +89,10 @@ Lightbox darkroom will be open 7 days a week, between 9:30am and 9:30pm, you wil
   <p>All you need to bring for the session is a roll of black and white film to develop and print from; your ID, and proof of address.</p>
 
   <p class="">
-    <button class="event-price-book">Book an induction</button>
+    <button class="event-price-book"><a href="{{ page.booklink }}">Book an induction</a></button>
   </p>
-</section> -->
+</section>
+
 
 ## Darkroom capabilities and equipment
 The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). We plan to upgrade to a 5 x 4 large format enlarger as soon as is financially viable. Current equipment includes:

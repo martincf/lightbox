@@ -8,9 +8,9 @@ permalink: /learn/black-and-white-film-development
 excerpt: Learn how to develop your own timeless black and white film
 heroimage: photo1
 eventprice: £30 pp (max 4 people*).
-eventfreq: Twice per week
-eventdate: 9.30am, Sat 01 Jul 2017
-booklink: https://bookwhen.com/lightbox/e/ev-sd7p-20170527093000
+eventfreq: Once per week
+eventdate: 2pm, every Sat, from 1st Jul
+booklink: https://bookwhen.com/lightbox-workshops
 ---
 
 **The easiest process within the world of darkroom processing is the task of developing black and white film. Mostly science with a touch of art (and a dash of luck), there's nothing more exciting than developing your own roll of film.**
