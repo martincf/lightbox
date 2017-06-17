@@ -334,6 +334,9 @@ a:hover, a:active {
   background-color: $black;
   padding: 25px 100px 50px;
   color: white;
+  @include mq(small-smartphone) {
+    padding: 25px 25px 50px;
+  }
   .highlight-title {
     font-size: 36px;
     margin-top: 1em;
