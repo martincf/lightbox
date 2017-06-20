@@ -20,14 +20,6 @@
   a:hover, a:active {
     color: lighten($red, 20%)
   }
-  @include mq(small-smartphone) {
-    a:link, a:visited {
-      color: $red;
-    }
-    a:hover, a:active {
-    }
-   }
-
 }
 @media screen and (max-width: 500px) {
   .navigation {
@@ -38,5 +30,14 @@
   .navigation-list-link {
     display: block;
     margin: 0 0 .5em 0;
+
+    a:link, a:visited {
+      color: $red;
+    }
+    a:hover, a:active {
+      color: darken($red, 20%);
+    }
+   }
+
   }
 }
