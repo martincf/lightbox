@@ -14,7 +14,12 @@
   a:link, a:visited, a:hover, a:active {
     font-weight: 700;
   }
-
+  a:link, a:visited {
+    color: white;
+  }
+  a:hover, a:active {
+    color: lighten($red, 20%)
+  }
 }
 @media screen and (max-width: 500px) {
   .navigation {

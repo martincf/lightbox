@@ -4,14 +4,9 @@
 
 /* Imports */
 @import "base";
+@import "colours";
 @import "navigation";
 @import "mixins";
-
-/* Variables */
-$red: #f66d6d;
-$black: #222;
-$grey: lighten($black, 50%);
-$blue: #2857CB;
 
 body {
   color: $black;
@@ -32,7 +27,7 @@ body {
 
 // Site bg image
 .default, .list, .post, .page {
- background: #fff url(/assets/images/darkroom-safelight-wide-large.jpg) 0 -400px no-repeat;
+ background: #fff url(/assets/images/darkroom-safelight33.jpg) 0 -400px no-repeat;
  background-attachment: fixed;
  background-size: cover;
 
@@ -43,6 +38,9 @@ body {
   background-attachment: local;
   }
 
+}
+.page {
+  background-image: url(/assets/images/darkroom-safelight34.jpg);
 }
 
 header:after {
