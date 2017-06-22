@@ -4,21 +4,20 @@ layout: default
 ---
 
 
-**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is a film photography darkroom that will, over the next few months, evolve into an open darkroom available for hire and for learning.**
+**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is an open film photography darkroom available for hire and for learning.**
 
 ## Why open a darkroom?
 Film photography is experiencing something of a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
 
 I\'m opening the darkroom to satisfy my own creative endeavours and to help others fuel their own creative output through film photography.
 
-
 ## Who\'s doing this?
 My name is Martin Chapman Fromm, a designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
 
 ## What\'s the plan?
-The darkroom has literally been built from the ground up. Lightbox will run privately for a month whilst it\'s bedded in and issues ironed out. In Summer 2017, the plan is to open [the darkroom](darkroom_hire.html) for wider use.
+The darkroom has literally been built from the ground up. Lightbox is running privately for the month of Jine whilst it\'s bedded in and issues ironed out. From July 2017, the plan is to open [the darkroom](/darkroom-hire) for wider use.
 
-Lightbox plans to provide a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
+Lightbox provides a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
 
 
 <!-- ## A call for help, physical and mental
@@ -27,7 +26,7 @@ In terms of what the plan for an open darkroom is, there's only a very loose one
 And whilst I have a lot of fantastic equipment to start with (see below), I would love it if anyone can contribute their old darkroom kit that's going unused (tanks, reels, trays, etc.) -->
 
 ## Learning
-There will be darkroom film development and print [workshops](eventslist.html). Further along I hope to offer even more interesting workshops such as medium and large format photography walkabouts, development, and printing; and the odd guest expert workshop for portrait photography on film.
+There are darkroom film development and print [workshops](/learn). Soon, Lightbox will offer even more interesting workshops such as medium and large format photography, development, and printing; and the occasional guest expert workshop for portrait photography on film.
 
 Get in touch below if you\'d like to get involved.
 
