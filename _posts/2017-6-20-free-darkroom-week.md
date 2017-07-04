@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: blog
-title: Professional Photographer? Use Lightbox for free
+title: Professional? Claim free time!
 date: 2017-6-20
 published: true
 permalink: /posts/free-darkroom-week.html

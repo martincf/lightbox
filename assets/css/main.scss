@@ -7,6 +7,7 @@
 @import "colours";
 @import "navigation";
 @import "mixins";
+@import "cta";
 
 body {
   color: $black;
@@ -26,8 +27,8 @@ body {
 }
 
 // Site bg image
-.default, .list, .post, .page {
- background: #fff url(/assets/images/darkroom-safelight33.jpg) 0 -400px no-repeat;
+.default, .list, .post, .page, .home {
+ background: #fff url(/assets/images/photo1.jpg) 0 -400px no-repeat;
  background-attachment: fixed;
  background-size: cover;
 
@@ -52,7 +53,7 @@ header:after {
 }
 
 header h1 {
-  margin-bottom: 100px;
+  // margin-bottom: 100px;
   float: left;
   max-width: 112px;
   img {
@@ -86,22 +87,21 @@ a:hover, a:active {
   background-size: 112px;
   p {
     font-size: 16px;
+    @include mq(small-smartphone) {
+      b {
+        display: block;
+        margin-top: 25px;
+      }
+      a {
+        display: block;
+      }
+    }
+  }
+  @include mq(small-smartphone) {
+    margin: 25px 0;
   }
 }
-.cta {
-  background-color: white;
-  border: 5px solid $red;
-  box-sizing: border-box;
-  padding: 10px 2em;
-  font-weight: 400;
-  margin: 50px 0;
 
-  h1 {
-    font-size: 36px;
-    margin: 1em 0 1em;
-    color: $red;
-  }
-}
 .photo img {
   max-width: 100%;
 }
@@ -238,7 +238,117 @@ a:hover, a:active {
     display: block;
   }
 }
+/* New homepage 1 Jul 17 */
+.home-intro {
+  clear: both;
+  position: relative;
+  padding: 40px 25px;
+  margin: 50px 0;
+  background-color: transparentize(white, 0.2);
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  p {
+    font-size: 32px;
+    line-height: 1.25;
+    margin: 0;
+  }
+  .sticker {
+    left: -160px;
+    top: 0;
+    @include mq(small-smartphone) {
+      left: 25%;
+      top: 150px;
+      z-index: 1000;
+    }
+  }
+  @include mq(small-smartphone) {
+    padding: 0;
+    margin: 0 0;
+    p {
+      font-size: 24px;
+    }
+    }
 
+}
+.cta-wrap {
+  position: relative;
+  min-height: 300px;
+  margin: 100px auto;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+.cta-item {
+  position: absolute;
+  float: left;
+  width: 40%;
+  height: 100%;
+  margin-right: 5%;
+  background: white url({{ site.baseurl }}/assets/images/devereenlarger.jpg) 0 0 no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  border: 5px solid white;
+  text-align: center;
+  // min-height: 200px;
+  &:first-of-type {
+    left: -15%;
+  }
+  &:nth-of-type(2) {
+    left: 30%;
+  }
+  &:last-of-type {
+    margin-right: 0;
+    right: -15%;
+  }
+  &.learn {
+    background-image: url({{ site.baseurl }}/assets/images/devereenlarger.jpg);
+    .cta-item--header {
+      color: $black;
+    }
+  }
+  &.create {
+    background-image: url({{ site.baseurl }}/assets/images/wash.png);
+    .cta-item--header {
+      color: $black;
+    }
+  }
+  &.latest {
+    background-image: url({{ site.baseurl }}/assets/images/photo-cameras.jpg);
+  }
+  @include mq(small-smartphone) {
+    float: none;
+    width: 100%;
+    margin: 0;
+    position: static;
+    text-align: left;
+    strong {
+      display: block;
+    }
+  }
+}
+
+.cta-item--header {
+  // background-color: transparentize($red,0.05);
+  padding: 10px;
+  margin: 210px 20px 0;
+  color: white;
+  font-size: 28px;
+  font-weight: 300;
+  display: inline-block;
+}
+.cta-item--desc {
+  // background-color: transparentize($black,0.25);
+  padding: 10px;
+  margin: 250px 20px 20px;
+  background-color: transparentize($black,.05);
+  color: white;
+  // display: inline-block;
+}
 /* Hire page */
 .page .post-title + p {
   font-weight: 700;
@@ -363,10 +473,10 @@ a:hover, a:active {
   text-transform: uppercase;
   border-radius: 100%;
   width: 125px;
-  height: 125px;
+  height: 115px;
   overflow: hidden;
   text-align: center;
-  padding: 40px 20px 0;
+  padding: 50px 20px 0;
   -ms-transform: rotate(-11deg); /* IE 9 */
   -webkit-transform: rotate(-11deg); /* Chrome, Safari, Opera */
   transform: rotate(-11deg);
@@ -378,7 +488,7 @@ a:hover, a:active {
 
   @include mq(small-smartphone) {
     left: 140px;
-    top: -575px;
+    top: -600px;
   }
 
 
@@ -394,10 +504,10 @@ a:hover, a:active {
     margin: 75px auto;
   }
   header h1 {
-    margin-bottom: 75px;
+    // margin-bottom: 75px;
   }
   .cta {
-    padding: 10px 20px;
+    // padding: 10px 20px;
   }
   .cta  h1 {
     font-size: 30px;

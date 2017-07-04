@@ -18,7 +18,7 @@
     color: white;
   }
   a:hover, a:active {
-    color: lighten($red, 20%)
+    color: $red;
   }
 }
 @media screen and (max-width: 500px) {
@@ -26,6 +26,7 @@
     clear: left;
     float: none;
     padding-top: 0;
+    padding-top: 100px;
   }
   .navigation-list-link {
     display: block;

@@ -1,0 +1,37 @@
+    {% include header.html %}
+
+    <div class="home-intro">
+      {{ content }}
+      {% include sticker.html %}
+    </div>
+
+
+        <section class="cta-wrap">
+          <aside class="cta-item learn">
+            <p class="cta-item--desc">
+              <strong>Learn</strong>
+              <a href="/learn">Join a photography workshop</a>
+            </p>
+          </aside>
+
+          <aside class="cta-item create">
+            <p class="cta-item--desc">
+              <strong>Create</strong>
+              <a href="/darkroom-hire">Hire the space, make prints</a>
+              </p>
+          </aside>
+
+          {% assign post = site.posts.first %}
+          <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
+            <p class="cta-item--desc">
+              <strong>Latest</strong>
+              <a href="{{ post.url }}">
+                {{ post.title }}
+              </a>
+            </p>
+          </aside>
+
+
+        </section>
+
+    {% include footer.html %}
