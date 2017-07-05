@@ -2,6 +2,16 @@
 .navigation  {
   float: right;
   padding-top: 50px;
+  @include mq(medium) {
+    display: flex;
+    width: 50%;
+    padding-top: 0;
+  }
+  @include mq(small-smartphone) {
+    float: none;
+    width: auto;
+    display: block;
+  }
 }
 .navigation-list-link {
   display: inline-block;
@@ -20,7 +30,11 @@
   a:hover, a:active {
     color: $red;
   }
+  @include mq(medium) {
+    margin-bottom: 5px;
+  }
 }
+
 @media screen and (max-width: 500px) {
   .navigation {
     clear: left;

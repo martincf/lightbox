@@ -3,7 +3,7 @@ layout: post
 tag: event
 title: Black and white film development workshop
 date: 2017-05-15
-published: true
+published: false
 permalink: /learn/black-and-white-film-development
 excerpt: Learn how to develop your own timeless black and white film
 heroimage: photo1

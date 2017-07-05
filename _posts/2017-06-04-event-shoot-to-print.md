@@ -5,15 +5,15 @@ title: Shoot-to-print photography workshop
 date: 2017-06-04
 published: true
 permalink: /learn/shoot-to-print
-excerpt: Don't just shoot film, learn how to print film!
-heroimage: photo1
-eventprice: £70 pp (max 3 people).
+excerpt: Don't just shoot film, learn how to print
+heroimage: darkroom-safelight33
+eventprice: £70pp (max 3 people).
 eventfreq: Once per month
-eventdate: Every last Saturday, from 29th Jul
+eventdate: Last weekend of every month
 booklink: https://bookwhen.com/lightbox-workshops
 ---
 
-**Learn how to shoot, develop and then print your own film photography images. The satisfaction and aesthetic beauty of a silver halide print cannot be beaten. Come and learn how to create some wonderful imagery, and finish the day with your own prints to frame and/or sell.**
+**Learn how to shoot, develop and then print your own film photography images. The satisfaction and aesthetic beauty of a silver gelatin print cannot be beaten. Come and learn how to create some wonderful imagery, and finish the day with your own prints to frame and/or sell.**
 
 ## What to expect on the day
 - A class of up to three people only, of any skill level (from absolute beginners to those refreshing their memory);
