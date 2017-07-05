@@ -3,7 +3,7 @@ layout: post
 tag: blog
 title: Professional? Claim free time!
 date: 2017-6-20
-published: true
+published: false
 permalink: /posts/free-darkroom-week.html
 excerpt: In the interest of fine tuning Lightbox, I'm looking for experience film photographers to run it through its paces in July.
 heroimage: darkroom-safelight34

@@ -7,6 +7,7 @@
 @import "colours";
 @import "navigation";
 @import "mixins";
+@import "cta_home";
 @import "cta";
 
 body {
@@ -134,10 +135,9 @@ a:hover, a:active {
   font-size: 36px;
 }
 .page-list, .content {
-  position: relative;
   background-color: white;
   padding: 100px;
-  margin-top: 0;
+  margin-top: 50px;
   @include mq(small-smartphone) {
     padding: 0;
     }
@@ -272,82 +272,6 @@ a:hover, a:active {
     }
     }
 
-}
-.cta-wrap {
-  position: relative;
-  min-height: 300px;
-  margin: 100px auto;
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-.cta-item {
-  position: absolute;
-  float: left;
-  width: 40%;
-  height: 100%;
-  margin-right: 5%;
-  background: white url({{ site.baseurl }}/assets/images/devereenlarger.jpg) 0 0 no-repeat;
-  background-size: cover;
-  box-sizing: border-box;
-  border: 5px solid white;
-  text-align: center;
-  // min-height: 200px;
-  &:first-of-type {
-    left: -15%;
-  }
-  &:nth-of-type(2) {
-    left: 30%;
-  }
-  &:last-of-type {
-    margin-right: 0;
-    right: -15%;
-  }
-  &.learn {
-    background-image: url({{ site.baseurl }}/assets/images/devereenlarger.jpg);
-    .cta-item--header {
-      color: $black;
-    }
-  }
-  &.create {
-    background-image: url({{ site.baseurl }}/assets/images/wash.png);
-    .cta-item--header {
-      color: $black;
-    }
-  }
-  &.latest {
-    background-image: url({{ site.baseurl }}/assets/images/photo-cameras.jpg);
-  }
-  @include mq(small-smartphone) {
-    float: none;
-    width: 100%;
-    margin: 0;
-    position: static;
-    text-align: left;
-    strong {
-      display: block;
-    }
-  }
-}
-
-.cta-item--header {
-  // background-color: transparentize($red,0.05);
-  padding: 10px;
-  margin: 210px 20px 0;
-  color: white;
-  font-size: 28px;
-  font-weight: 300;
-  display: inline-block;
-}
-.cta-item--desc {
-  // background-color: transparentize($black,0.25);
-  padding: 10px;
-  margin: 250px 20px 20px;
-  background-color: transparentize($black,.05);
-  color: white;
-  // display: inline-block;
 }
 /* Hire page */
 .page .post-title + p {
@@ -506,12 +430,7 @@ a:hover, a:active {
   header h1 {
     // margin-bottom: 75px;
   }
-  .cta {
-    // padding: 10px 20px;
-  }
-  .cta  h1 {
-    font-size: 30px;
-  }
+
   .post-list a img {
     max-width: 100%;
     float: none;

@@ -4,6 +4,7 @@ permalink: /darkroom-hire/
 layout: page
 heroimage: photo-janupdate-2
 booklink: https://bookwhen.com/darkroom-induction
+bgcolour: dark
 ---
 
 <blockquote class="quote">

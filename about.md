@@ -30,10 +30,6 @@ There are darkroom film development and print [workshops](/learn). Soon, Lightbo
 
 Get in touch below if you\'d like to get involved.
 
-<aside class="sticker">
-  <p>Available from July 2017</p>
-</aside>
-
 <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/photo1.jpg" alt="" /></p> -->
 
 <!-- ## Darkroom capabilities and equipment

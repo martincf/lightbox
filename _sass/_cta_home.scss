@@ -1,0 +1,98 @@
+
+.cta-wrap {
+  min-height: 100px;
+  margin: 100px auto;
+  width: 107%;
+  margin-left: -5%;
+  display: flex;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @include mq(medium) {
+    width: 105%;
+    margin-left: -2.5%;
+  }
+  @include mq(small-smartphone) {
+    display: block;
+    overflow: visible;
+  }
+}
+.cta-item {
+  // position: absolute;
+  width: 34%;
+  height: 100%;
+  margin-right: 3%;
+  background: white url(/assets/images/devereenlarger.jpg) 0 0 no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  border: 5px solid white;
+  text-align: center;
+  // min-height: 150px;
+  &:first-of-type {
+    // margin-left: -15%;
+  }
+  &:nth-of-type(2) {
+    // left: 30%;
+  }
+  &:last-of-type {
+    margin-right: 0;
+    // right: -15%;
+  }
+  &.learn {
+    background-image: url(/assets/images/devereenlarger.jpg);
+    .cta-item--header {
+      color: $black;
+    }
+  }
+  &.create {
+    background-image: url(/assets/images/wash.png);
+    .cta-item--header {
+      color: $black;
+    }
+  }
+  &.latest {
+    // background-image: url({{ site.baseurl }}/assets/images/photo-cameras.jpg);
+  }
+  @include mq(medium) {
+    width: 40%;
+  }
+  @include mq(small-smartphone) {
+    float: none;
+    width: 100%;
+    margin: 0;
+    position: inherit;
+    text-align: left;
+    strong {
+      display: block;
+    }
+  }
+}
+//
+// .cta-item--header {
+//   padding: 10px;
+//   margin: 100px 20px 0;
+//   color: white;
+//   font-size: 28px;
+//   font-weight: 300;
+//   display: inline-block;
+//
+// }
+.cta-item--desc {
+  padding: 10px;
+  margin: 200px 10px -20px;
+  background-color: transparentize($black,.05);
+  color: white;
+  overflow: hidden;
+  height: 1.75em;
+  @include mq(medium) {
+    margin-top: 220px;
+    strong {
+      display: block;
+    }
+  }
+  &:after {
+    content: "...";
+  }
+}

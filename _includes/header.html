@@ -36,6 +36,14 @@
   <body class="{{ page.layout }}">
     <main class="wrap-page">
   <header>
-      <h1><a href="/"><img src="{{ baseurl }}/assets/images/logo-lightbox@3x.png" alt="Lightbox darkroom" /></a></h1>
-      {% include navigation.html %}
+    <h1>
+      <a href="/">
+        {% if page.bgcolour == 'dark' %}
+        <img src="{{ baseurl }}/assets/images/logo-lightbox-white@3x.png" alt="Lightbox darkroom" />
+        {% else %}
+        <img src="{{ baseurl }}/assets/images/logo-lightbox@3x.png" alt="Lightbox darkroom" />
+        {% endif %}
+      </a>
+    </h1>
+    {% include navigation.html %}
   </header>
