@@ -22,8 +22,7 @@ url: "http://www.lightbox.photo" # the base hostname & protocol for your site, e
 twitter_username: lightboxdrkroom
 github_username:  martincf
 
-public_key: pk_test_5xNHxZLFcgol6dLmFRw4ibRG
-post_url: /thanks/
+# post_url: /thanks/
 
 # Collections
 collections:

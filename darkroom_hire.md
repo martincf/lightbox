@@ -70,7 +70,7 @@ Both memberships will allow you to use the darkroom for four sessions per months
   <div class="membership-cta">
     <h1 class="membership-cta-title">Annual</h1>
     <ul class="membership-cta-list">
-      <li>&pound;10 per month</li>
+      <li>&pound;10 per month, paid monthly</li>
       <li>12 monthly payments</li>
       <li>Four x 4hr sessions per month</li>
       <li>Equivalent to &pound;120 annually</li>
@@ -85,7 +85,7 @@ Both memberships will allow you to use the darkroom for four sessions per months
 </div>
 
 ## How to book
-Simply <a href="mailto:info@lightbox.photo">contact me by email</a> and let me know when you'd like to hire your first darkroom session. Payment can be arranged on your first visit. Thereafter, you'll have access to an online calendar to book your remaining sessions. If this is your first time using Lightbox Darkroom, please read <a href="#firsttimebooking">First-time bookings</a> below.
+Simply <a class="highlight-inline" href="mailto:info@lightbox.photo">contact me by email</a> and let me know when you'd like to hire your first darkroom session. Payment can be taken on your first visit. Thereafter, you'll have access to an online calendar to book your remaining sessions. If this is your first time using Lightbox Darkroom, please read <a href="#firsttimebooking">First-time bookings</a> below.
 
 
 ## Availability
@@ -158,7 +158,7 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
   <p>All you need to bring for the session is a roll of black and white film to develop and print from; your ID, proof of address (a recent household bill), and payment.</p>
 
   <h2>Booking an induction</h2>
-  To arrange an induction (or to attend an already schedule induction), please <a href="mailto:info@lightbox.photo">email me</a> and I'll get back to you to organise your visit.
+  To arrange an induction (or to attend an already schedule induction), please <a class="highlight-inline" href="mailto:info@lightbox.photo">email me</a> and I'll get back to you to organise your visit.
 
 <!--
   <p class="">

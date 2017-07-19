@@ -188,6 +188,10 @@ a:hover, a:active {
     font-weight: 900;
   }
 }
+.highlight-inline {
+  background-color: lighten($red,25%);
+  padding: 0 .25em;
+}
 .content-title {
   font-size: 36px;
   margin: 0 0 1em;
