@@ -8,6 +8,8 @@ permalink: /posts/darkroom-subscription.html
 excerpt: Don't pay per session, subscribe to Lightbox Darkroom instead!
 heroimage: darkroom01
 ---
+# Darkroom hire subscription
+
 
 **Over the past few months I've been thinking long and hard about how the darkroom should be hired out. It doesn't need to make much money but, it does need to pay its way (rent, insurance, consumables, repairs, etc).**
 
@@ -23,23 +25,25 @@ Crucially, I didn't set up the darkroom to spend my time marketing it for hire. 
 
 Therefore, I've decided on a different model for others to hire out the darkroom; a model which is closer to an online service subscription.
 
-## Monthly subscriptions
-I like the idea of a subscription model in much the same way you'd pay for [Netflix](http://www.netflix.com) or [Spotify](http://www.spotify.com). It's convenient for the user because they get access to a wider choice at a lower price. Local video store versus Netflix? We know the winner. Radio station versus Spotify? Check out Spotify's latest valuation ([it's $13bn](http://www.reuters.com/article/us-spotify-ipo-idUSKBN18821T), very close to the value of the global music industry in total!) Basically, subscriptions can work.
+## Membership
+I like the idea of a membership model in much the same way you'd pay for [Netflix](http://www.netflix.com) or [Spotify](http://www.spotify.com) subscriptions. It's convenient for the user because they get access to a wider choice at a lower price. Local video store versus Netflix? We know the winner. Radio station versus Spotify? Check out Spotify's latest valuation ([it's $13bn](http://www.reuters.com/article/us-spotify-ipo-idUSKBN18821T), very close to the value of the global music industry in total!) Basically, subscriptions can work.
 
 ### How does this benefit you?
-Back down to earth and the darkroom: with a subscription model, the wider choice and lower price will be more sessions for less money. **To be precise, I've decided to offer four sessions per month for the price of just over one session in the original model, £20 per month.** Which equates to £5 per session in the standard way of charging; or, 16 hours of darkroom use per month at £1.25 per hour (beat that, Max Spielmann!)
+Back down to earth and the darkroom: with a membership model, the wider choice and lower price will be more sessions for less money. **To be precise, I've decided to offer four sessions per month for the price of just over one session in the original model, £20 per month.** Which equates to £5 per 4 hour session in the standard way of charging; or, 16 hours of darkroom use per month at £1.25 per hour (beat that, Max Spielmann!)
 
-#### Who's the subscription good for?
+If you're willing to commit to an annual membership, I'm happy to make it £15 per month.
+
+#### Who's the membership scheme good for?
 Anyone wanting to spend some quality time developing and/or printing their own work to a high standard. And equally, someone who would like to invest in a local initiative that can develop into a community around traditional photography.
 
-#### Who's the subscription not good for?
+#### Who's the membership scheme not good for?
 People who only want to try darkroom developing or printing just the once. If you are looking to just give it a go, once, I'll be running the occasional [weekend workshop](/learn), which is a great way to dabble in darkroom techniques without too much commitment.
 
 ## How will this benefit Lightbox?
 
-First and foremost, only a limited number of subscriptions will be available per month (I'm currently thinking a total of 10 users per month). This means Lightbox only needs to find 10 users per month. Ideally, regulars will sign-up longer than just one month, but we'll see how it goes first.
+First and foremost, only a limited number of sessions will be available per month (I'm currently thinking a total of 10 members per month maximum). Ideally, members will sign-up longer than just one month, but we'll see how it goes first.
 
-Over time, I'd like to think the more regular users will form into a group of artists and photographers who maybe interested in exhibiting their work, talking and attending events about photography (we are located in the wonderful Arts Centre West Kirby after all), and gelling together as a community under Lightbox, however formal or informal that may be. Of course, if you just want to develop, print, and be done, that's also fine!
+Over time, I'd like to think the more regular users will form into a membership group of artists and photographers who are interested in exhibiting their work, talking and attending events about art and photography (we are located in the wonderful Arts Centre West Kirby after all), and gelling together as a community under Lightbox, however formal or informal that may be. Of course, if you just want to develop, print, and be done, that's also fine!
 
 (Concerning talks, I'll publish more later, but there's plenty of ideas floating around about guest speakers and topics.)
 
@@ -49,7 +53,7 @@ I plan to keep Monday daytime available for my own darkroom work (but my arm may
 Since the day can be split into three sessions, there will be approximately 18 slots available each week for you to choose from. Additionally, sessions can be grouped together if you want to spend a whole day at the darkroom. So, book the whole day in, with a session spare for later in the month (or the next morning to pop in and finish off). Or, book in one session per week, or two sessions together every two weeks. Whatever fits your pattern.
 
 ## So, to spell the offer out:
-- £20 per month gets you 4 sessions per calendar month
+- £20 per month membership gets you 4 sessions per calendar month
 - Each session is 4 hours long
 - You can use the sessions up however you like, all together, or, spread over a week or month
 - Unused sessions will not be transferable to the following month
@@ -59,9 +63,9 @@ Since the day can be split into three sessions, there will be approximately 18 s
 So, if your reasonably serious to very serious about developing and printing your film photography for either your own collection or for selling, give this new subscription offer a go! I'll be publishing an updated [darkroom hire page](/darkroom-hire) in the next few days to reflect this new offer. Stay tuned.
 
 ## Other offers
-- I will discount the cost if you want to book 3, 6, or 12 months in advance (3 months will be £55 instead of £60; 6 months £110 instead of £120, 12 months will be £200 instead of £240)
-- If there's time left over near the end of the month (time not purchased after all user sessions have been scheduled in), I will offer out free time to paid subscribers, at my own discretion (on a first-come-first served basis).
-- If and when we set-up events and talks, darkroom subscription users will get a discount if ticketed.
+- I will discount the cost if you want to book 12 months in advance (£15 per month, payable monthly)
+- If there's time left over near the end of the month (time not purchased after all user sessions have been scheduled in), I will offer out free time to members of that month, at my own discretion (on a first-come-first served basis).
+- If and when we set-up events and talks, members will get a discount if ticketed.
 
 ## Caveats
 - Professional photographers who have darkroom experience need only to prove their current address and bring photo ID for their first session. This is for insurance requirements only.
