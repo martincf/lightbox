@@ -9,33 +9,7 @@ bgcolour: dark
 
 <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p>
 
-
-<!-- # Products test -->
-{% for product in site.products == "membership-monthly" %}
-<!-- <ul>
-  <li>Name: {{ product.name }}</li>
-  <li>Price: {{ product.price }}</li>
-  <li>Key: {{ site.public_key }}</li>
-  <li>Post URL: <a href="{{ site.post_url }}">{{ site.post_url }}</a></li>
-</ul> -->
-
-<!-- <form id="stripe" action="{{ site.post_url }}" method="POST">
-  <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="{{ site.public_key }}"
-    data-amount="{{ product.price | remove: '.' }}"
-    data-name="{{ product.name }}"
-    data-description="{{ product.description }}"
-    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-    data-locale="auto"
-    data-currency="gbp">
-  </script>
-  <input name="amount" value="{{ product.price | remove: '.' }}" type="hidden">
-  <input name="description" value="{{ product.description }}" type="hidden">
-</form>
-{% endfor %} -->
 <!--
-
 <blockquote class="quote">
   <p class="quote-quote">You don't take a photograph, you make it.</p>
   <footer class="quote-attribution">

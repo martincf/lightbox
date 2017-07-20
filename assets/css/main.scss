@@ -359,13 +359,16 @@ a:hover, a:active {
   font-weight: 700;
 }
 /* Darkroom timetable */
+.timetable-wrap {
+  overflow-x: auto;
+}
 .timetable {
   border: 5px solid $red;
   border-collapse: collapse;
   text-align: left;
   margin: 1em 0;
   width: 100%;
-  
+
   th,td {
     border: 1px solid $red;
     padding: .2em .5em;
