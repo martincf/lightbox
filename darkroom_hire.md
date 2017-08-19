@@ -102,12 +102,12 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 <p>First-time bookers will be required to complete a darkroom induction prior to using the darkroom by themselves. We will also need you to provide proof of address (a recent utility bill will do) and ID (driving license or passport) on arrival. Both requirements are to satisfy our insurers.</p>
 
 <h3>Professional photographer induction</h3>
-<p>If you are a professional photographer, there are no restrictions to hiring the darkroom and the induction will simply cover room and building safety and familiarisation, lasting approximately 15 mins. We can do this before you start using the darkroom for the first time. There will be no extra charge for the familiarisation.</p>
+<p>If you are a professional photographer, there are no restrictions to hiring the darkroom and the induction will simply cover room and building safety and familiarisation, lasting approximately 15-20 mins. We can do this before you start using the darkroom for the first time. There will be no extra charge for the familiarisation.</p>
 
-<p>If you are a professional photographer who has never used darkroom equipment before, or need a refresher, we strongly advise that you take a longer <a href="#induction">darkroom induction workshop</a> first.</p>
+<p>If you are a professional photographer who has never used darkroom equipment before, or need a refresher, we strongly advise that you take a longer <a href="#induction">film development and print workshops</a> first.</p>
 
 <h3>Amateur photographer</h3>
-<p>If you are an amateur photographer, you will have to take a <a href="#induction">darkroom induction workshop</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p>
+<p>If you are an amateur photographer, you will have to take the <a href="#induction">darkroom film and print development workshops</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p>
 <!--
 ## Make a booking
 <iframe class="schedule" src="https://bookwhen.com/lightbox/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display: block; border: none; width: 100%; height: 100%;"></iframe> -->
@@ -117,9 +117,9 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 <section class="highlight" id="induction">
 
   <h1 class="highlight-title">Darkroom induction</h1>
-  <p>If you are paying for a monthly or annual membership to the darkroom and need an induction, we can arrange a convenient time depending on darkroom and personal availability.
+  <p>An induction is made up of two workshops, <a href="/learn/black-and-white-film-development">film development</a>, and <a href="/learn/print-development">film printing</a>; and can be booked on the <a href="/learn/">Workshop & Events</a> page. Each induction session can accommodate a maximum of three attendees.</p>
 
-  An induction costs £15 (plus the cost of the darkroom membership) and will last approximately 2 hours. Each induction can accommodate a maximum of three attendees.</p>
+  <p>Both workshops are &pound;20 each. If booking them together, the price is &pound;30 for both.</p>
 
   <p>During the induction we'll cover:</p>
   <ul>

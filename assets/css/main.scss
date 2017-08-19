@@ -209,7 +209,7 @@ a:hover, a:active {
   display: block;
   background-color: $black;
   color: white;
-  width: 150px;
+  width: 140px;
   float: left;
   text-align: center;
   padding: 1.25em .25em;
@@ -257,6 +257,12 @@ a:hover, a:active {
   @include mq(small-smartphone) {
     display: block;
   }
+}
+.events-list-item .event-price-book {
+  display: block;
+}
+.events-list-item .event-price-book a {
+    font-size: 18px !important;
 }
 /* New homepage 1 Jul 17 */
 .home-intro {
