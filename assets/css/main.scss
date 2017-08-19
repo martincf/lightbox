@@ -218,6 +218,11 @@ a:hover, a:active {
     display: block;
     text-transform: uppercase;
   }
+  @include mq(small-smartphone) {
+    width: 100%;
+    float: none;
+    margin-bottom: .5em;
+  }
 }
 .event-list-item-day, .event-list-item-time {
   font-size: 14px;
