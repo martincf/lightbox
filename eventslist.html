@@ -5,25 +5,25 @@ layout: list
 ---
 
   <h1 class="content-title">Workshops & events</h1>
-  <p>Lightbox will be a place to learn the art and craft of film photography. We'll run regular workshops every month.</p>
-
+  <!-- {% assign events = site.data.calendar %} -->
+  {% for event in site.data.calendar %} <!-- Get everything in the calendar file -->
+    <h3>{{ event.month }}</h3> <!-- print the month -->
     <ul class="post-list events-list">
-      {% for post in site.posts reversed %}
-      {% if post.tags contains 'event' %}
-        <li class="post-list-item events-list-item">
-          <!-- <div class="event-list-item-dateinfo">
-            <span class="event-list-item-day">{{ post.eventday }}</span>
-            <span class="event-list-item-date">{{ post.eventdate }}</span>
-            <span class="event-list-item-time">{{ post.eventtime }}</span>
-          </div> -->
-          <a href="{{ post.url }}">
-            <img src="{{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg" alt="" />
-            <span>{{ post.title }}</span></a>
-          <span>{{ post.eventdate }} – {{ post.eventprice }}</span>
-          <span>{{ post.excerpt }}</span>.
-        </li>
-        {% endif %}
-      {% endfor %}
+      <li class="post-list-item events-list-item">
+        <div class="event-list-item-dateinfo">
+          <span class="event-list-item-day">{{ event.day }}</span>
+          <span class="event-list-item-date">{{ event.date }}</span>
+          <span class="event-list-item-time">{{ event.event.time }}</span>
+        </div>
+        <a href="{{ event.event.link }}">
+          <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
+          <span>{{ event.event.title }}</span>
+        </a>
+        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }} spaces)</strong>
+      </li>
     </ul>
 
-    <p>More events to be announced later in the year. <a href="mailto:info@lightbox.photo">Email me</a> if you have a suggestion for a workshop.</p>
+  {% endfor %}
+
+
+<p>More events to be announced later in the year. <a href="mailto:info@lightbox.photo">Email me</a> if you have a suggestion for a workshop.</p>

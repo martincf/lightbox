@@ -3,7 +3,7 @@ layout: post
 tag: event
 title: Shoot-to-print photography workshop
 date: 2017-06-04
-published: true
+published: false
 permalink: /learn/shoot-to-print
 excerpt: Don't just shoot film, learn how to print
 heroimage: darkroom-safelight33

@@ -2,24 +2,24 @@
 layout: post
 tag: event
 title: Black and white film development workshop
-date: 2017-05-15
-published: false
+date: 2017-08-17
+published: true
 permalink: /learn/black-and-white-film-development
-excerpt: Learn how to develop your own timeless black and white film
+excerpt: Learn how to develop your own black and white film
 heroimage: photo1
-eventprice: £30 pp (max 4 people*).
-eventfreq: Once per week
-eventdate: 2pm, every Sat, from 1st Jul
+eventprice: £20 per session (max 3 people per session).
+eventfreq: Usually twice per month
+eventdate: 10am, 4th Sep; 10am, 25th Sep
 booklink: https://bookwhen.com/lightbox-workshops
 ---
 
 **The easiest process within the world of darkroom processing is the task of developing black and white film. Mostly science with a touch of art (and a dash of luck), there's nothing more exciting than developing your own roll of film.**
 
 ## What to expect on the day
-- A class of up to four people only, of any skill level (from absolute beginners to those refreshing their memory);
+- A class of up to three people only, of any skill level (from absolute beginners to those refreshing their memory);
 - lights are on all of the time! No darkroom darkness required. You'll use a dark bag to load your film into a light-tight canister;
 - a relaxed, fun atmosphere where making mistakes is expected (I still ruin the odd roll of film from time to time);
-- all chemicals, equipment, film sleeves will be provided; and access to a computer and scanner to scan your favourite shots from your roll*;
+- all chemicals, equipment, film sleeves will be provided; and access to a computer and scanner to scan your favourite shots from your roll;
 - a sense of pride at having used science to create art.
 
 ## What you will need

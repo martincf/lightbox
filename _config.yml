@@ -25,9 +25,7 @@ github_username:  martincf
 # post_url: /thanks/
 
 # Collections
-collections:
-  products:
-    output: true
+
 
 # Build settings
 markdown: kramdown
