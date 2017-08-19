@@ -4,7 +4,7 @@
     time: 9:30am-12:30pm
     title: Black and white film development
     link: /learn/black-and-white-film-development
-    price: 25
+    price: 20
     spaces: 3
 
 - date: 4th Sep
@@ -22,7 +22,7 @@
     time: 1:30pm-5:30pm
     title: Colour film development
     link: /learn/colour-film-development
-    price: 20
+    price: 25
     spaces: 2
 
 - date: 25th Sep
@@ -49,5 +49,5 @@
     time: 1:30pm-5:30pm
     title: Colour film development
     link: /learn/colour-film-development
-    price: 20
+    price: 25
     spaces: 2
