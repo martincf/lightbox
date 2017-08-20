@@ -269,6 +269,17 @@ a:hover, a:active {
 .events-list-item .event-price-book a {
     font-size: 18px !important;
 }
+.soldout {
+  display: block;
+  background-color: lighten($black,80%);
+  font-weight: 700;
+  color: lighten($black,60%);
+  border-radius: 4px;
+  padding: .25em .75em;
+  margin-right: .5em;
+  text-transform: uppercase;
+
+}
 /* New homepage 1 Jul 17 */
 .home-intro {
   clear: both;

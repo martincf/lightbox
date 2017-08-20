@@ -19,8 +19,12 @@ layout: list
           <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
           <span>{{ event.event.title }}</span>
         </a>
-        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }} spaces)</strong>
-        <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
+        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }} spaces left)</strong>
+        {% if event.event.spaces == 0 %}
+          <button class="soldout">All booked up!</button>
+          {% else event.event.spaces > 0 %}
+          <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
+          {% endif %}
       </li>
     </ul>
 
