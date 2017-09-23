@@ -70,3 +70,11 @@
     link: /learn/print-development
     price: 20
     spaces: 3
+- date: 25th Nov
+  day: Saturday
+  event:
+    time: 9:30pm-12:30pm
+    title: Colour film development
+    link: /learn/colour-film-development
+    price: 25
+    spaces: 2
