@@ -6,7 +6,7 @@ date: 2017-06-04
 published: true
 permalink: /learn/print-development
 excerpt: Don't just shoot film, learn how to print
-heroimage: darkroom-safelight33
+heroimage: darkroom01
 eventprice: £20 per session (max 3 people).
 eventfreq: Usually twice per month
 eventdate: 1:30pm, 4th Sep; 1:30pm, 25th Sep

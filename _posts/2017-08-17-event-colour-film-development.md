@@ -6,7 +6,7 @@ date: 2017-08-17
 published: true
 permalink: /learn/colour-film-development
 excerpt: Learn how to develop your own colour film
-heroimage: photo2
+heroimage: photo-tanks
 eventprice: £20 per session (max 3 people per session).
 eventfreq: Usually twice per month
 eventdate: 1:30pm, 11th Sep; 1:30pm, 1st Oct
