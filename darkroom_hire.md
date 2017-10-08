@@ -142,12 +142,12 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 
 
 ## Darkroom capabilities and equipment
-The darkroom will be capable of developing and printing black & white and colour 35mm and medium format photographs (up to 6 x 9). We plan to upgrade to a 5 x 4 large format enlarger as soon as is financially viable. Current equipment includes:
+The darkroom is capable of developing and printing black & white and colour 35mm, medium format, and 4x5 large format photographs. Current equipment includes:
 
-* two enlargers: Durst M605 Color and a De Vere 203 with Ilford Multigrade head (both capable of 35mm - medium format);
+* two enlargers: a De Vere 504 with Ilford 500H Multigrade head (4x5 large format, medium format,  35mm); and a De Vere 203 with Dichromat colour head (35mm, medium format);
 * trays for 20 x 16 print size;
 * a Jobo rotary (colour) film and print developer (can process up to 4 x 35mm films in one go);
 * Nova upright print tanks, and;
-* the usual darkroom paraphernalia (developing tanks, trays, wash sink).
+* the usual darkroom paraphernalia (developing tanks inc. 4x5 Mod54 frames for Paterson tanks, trays, wash sink).
 
 Scanning facilities will also be provided. Gotta get these photos on Flickr, Instagram and Facebook for the likez and favs!
