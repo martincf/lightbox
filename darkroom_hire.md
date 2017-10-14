@@ -46,7 +46,7 @@ Both memberships will allow you to use the darkroom for four sessions per months
     <ul class="membership-cta-list">
       <li>&pound;10 per month, paid monthly</li>
       <li>12 monthly payments</li>
-      <li>Four x 4hr sessions per month</li>
+      <li>As much reasonable access as you need</li>
       <li>Equivalent to &pound;120 annually</li>
     </ul>
     <!-- <button class="membership-cta-book">

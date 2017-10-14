@@ -13,7 +13,7 @@
     title: Black and white film development
     link: /learn/black-and-white-film-development
     price: 20
-    spaces: 2
+    spaces: 1
 - date: 28th Oct
   day: Saturday
   event:
@@ -21,7 +21,7 @@
     title: Black and white printing
     link: /learn/print-development
     price: 20
-    spaces: 2
+    spaces: 1
 - date: 2nd Nov
   day: Thursday
   event:
@@ -29,7 +29,7 @@
     title: Black and white film development
     link: /learn/black-and-white-film-development
     price: 20
-    spaces: 1
+    spaces: 2
 - date: 11th Nov
   day: Saturday
   event:
@@ -37,7 +37,7 @@
     title: Black and white film development
     link: /learn/black-and-white-film-development
     price: 20
-    spaces: 3
+    spaces: 2
 - date: 11th Nov
   day: Saturday
   event:
@@ -45,7 +45,7 @@
     title: Black and white printing
     link: /learn/print-development
     price: 20
-    spaces: 3
+    spaces: 2
 - date: 25th Nov
   day: Saturday
   event:

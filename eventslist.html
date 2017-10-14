@@ -21,7 +21,14 @@ layout: list
           <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
           <span>{{ event.event.title }}</span>
         </a>
-        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }} spaces left)</strong>
+        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }}
+
+          {% if event.event.spaces == 1 %}
+            space left)</strong>
+          {% else %}
+            spaces left)</strong>
+          {% endif %}
+          
         {% if event.event.spaces == 0 %}
           <button class="soldout">All booked up!</button>
           {% else event.event.spaces > 0 %}
