@@ -1,19 +1,4 @@
-- date: 28th Oct
-  day: Saturday
-  event:
-    time: 9:30am-12:30pm
-    title: Black and white film development
-    link: /learn/black-and-white-film-development
-    price: 20
-    spaces: 1
-- date: 28th Oct
-  day: Saturday
-  event:
-    time: 1:30pm-4:30pm
-    title: Black and white printing
-    link: /learn/print-development
-    price: 20
-    spaces: 1
+
 - date: 2nd Nov
   day: Thursday
   event:
