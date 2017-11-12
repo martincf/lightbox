@@ -517,6 +517,22 @@ a:hover, a:active {
   font-size: 15px;
   font-weight: 500;
 }
+
+/* Confirm page highlight */
+.confirm {
+  background-color: $red;
+  padding: 1.5em 1.5em .5em;
+  color: white;
+  h1 {
+    font-size: 28px;
+  }
+  p {
+    font-weight: 500;
+
+  }
+}
+
+
 /* Old school media queries */
 
 @media screen and (max-width: 480px) {
