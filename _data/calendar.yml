@@ -13,7 +13,7 @@
     title: Black and white film development
     link: /learn/black-and-white-film-development
     price: 20
-    spaces: 1
+    spaces: 0
 - date: 2nd Dec
   day: Saturday
   event:
@@ -21,4 +21,4 @@
     title: Black and white printing
     link: /learn/print-development
     price: 20
-    spaces: 1
+    spaces: 0
