@@ -28,14 +28,14 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 ## Those I’ve bought from online
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve recently bought a Contax ST body (mid Nov 2016) from them, in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
-* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I've only bought some filters from MW, but the experience has been a lovely one (long story!) Not a high street shop, so visiting is generally out of the question. [http://mwclassic.com](http://mwclassic.com)
+* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. Unfortunately, my experience was of a very disorganised company (lost orders, no delivery for months, refusal to respond to emails). [http://mwclassic.com](http://mwclassic.com)
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
+* **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
 
 # Those I regular check for kit but haven’t bought from (yet!)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
 * **The Real Camera Company (Manchester):** [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
-* **Mifsuds (Devon):** [http://mifsuds.com](http://mifsuds.com)
 * **Rocky Cameras (Dorset):** a pretty big online collection. However, apparently something of a ‘sold as seen’ shop. Some pretty good prices; quality may or may not match. [http://www.rockycameras.com](http://www.rockycameras.com)
 * **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection. [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
 * **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. Quite a varied collection on the website. [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
@@ -46,5 +46,6 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **JK Cameras (London):** Exclusively Leica by the looks of it, and not much of it, but seems to pride themselves on quality. [http://www.jkcameras.co.uk](http://www.jkcameras.co.uk)
 * **Peter Loy (London):** An afternoon can be spent just browsing the collection of stock on this website. Lots of rarities. Seems to be mail/tel order only. [http://www.peterloy.com](http://www.peterloy.com)
 * **Richard Caplan (Pall Mall, London):** Another mainly Leica, but also Hasselblad and FujiFilm. Another well respected 'red dot' dealer. [http://www.richardcaplan.co.uk](http://www.richardcaplan.co.uk)
+* **The Vintage & Classic Camera Co. (Hayling Island, nr Portsmouth):** A large collection of 35mm, medium format, and large format cameras and lenses. [http://vintageclassiccamera.com](http://vintageclassiccamera.com)
 
 I would love it if anyone has any others to share.
