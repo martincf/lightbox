@@ -532,6 +532,30 @@ a:hover, a:active {
   }
 }
 
+/* Standard cta button - first used on gift voucher blog post */
+.cta--button {
+  background-color: darken($red, 20%);
+  border: none;
+  font-family: "Source Sans Pro";
+  font-weight: 700;
+  color: white;
+  font-size: 24px;
+  border-radius: 4px;
+  padding: .25em .75em;
+  margin-right: .5em;
+  text-transform: uppercase;
+  a:link, a:visited, a:hover, a:active {
+    color: white;
+    border-bottom: none;
+  }
+  &:hover {
+  background-color: darken($red, 30%);
+  }
+  @include mq(small-smartphone) {
+    display: block;
+    width: 100%;
+  }
+}
 
 /* Old school media queries */
 
