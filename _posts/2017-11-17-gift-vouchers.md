@@ -18,6 +18,8 @@ There's a limited number of vouchers so be quick! They cost £40 each and can ei
 * Voucher recipient name
 * Voucher recipient email and telephone number
 
+All vouchers are A6 in size and come in a blank white envelope.
+
 <p>
   <button class="cta--button">
     <a href="mailto:info@lightbox.photo?subject=Gift%20voucher">Request a voucher</a>
