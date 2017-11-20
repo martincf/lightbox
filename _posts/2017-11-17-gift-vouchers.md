@@ -32,4 +32,4 @@ I'll send you a payment link online to pay for the voucher once I've received th
 ## About the day
 A darkroom day will be similar to the already established Lightbox Darkroom [film development](/learn/black-and-white-film-development/) and [printing workshop](/learn/print-development/) except, we'll also spend an hour or so at the beginning of the day taking photos on our film cameras (around West Kirby, whatever the weather) before we process and print them back at the darkroom.
 
-The days can be arranged for a Saturday, Sunday, or Monday throughout 2018, and here will usually be two attendees.
+The days can be arranged for a Saturday, Sunday, or Monday throughout 2018, and there will usually be two attendees.
