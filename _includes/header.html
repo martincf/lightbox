@@ -7,6 +7,7 @@
     <link rel="stylesheet" media="all" href="{{ site.baseurl }}/assets/css/main.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
+    <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="http://lightbox.photo/assets/images/apple-touch-icon.png?v=XBrW5GoQ28">
     <link rel="icon" type="image/png" href="http://lightbox.photo/assets/images/favicon-32x32.png?v=XBrW5GoQ28" sizes="32x32">
     <link rel="icon" type="image/png" href="http://lightbox.photo/assets/images/favicon-16x16.png?v=XBrW5GoQ28" sizes="16x16">
@@ -15,6 +16,9 @@
     <link rel="shortcut icon" href="http://lightbox.photo/assets/images/favicon.ico?v=XBrW5GoQ28">
     <meta name="msapplication-config" content="http://lightbox.photo/assets/images/browserconfig.xml?v=XBrW5GoQ28">
     <meta name="theme-color" content="#ffffff">
+    <!-- Facebook tags -->
+    <meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg"/>
+    <!-- Scroll js -->
     <script type="text/javascript">
       $(function() {
         $('a[href*="#"]:not([href="#"])').click(function() {
@@ -33,7 +37,6 @@
     </script>
     <!-- MC -->
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/eb0723c8dc0a1dccea67fc0d5/adff5b8ca158b011e2fa6e541.js");</script>
-
   </head>
   <body class="{{ page.layout }}">
     <main class="wrap-page">
