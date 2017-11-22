@@ -5,7 +5,7 @@ title: Gift vouchers
 date: 2017-11-17
 published: true
 permalink: /gift_vouchers
-excerpt: Christmas is coming so buy someone special a day in the darkroom!
+excerpt: You can now gift someone special a day in our traditional photographic darkroom learning how to shoot, develop and print photographic images.
 heroimage: giftvouchers
 ---
 
