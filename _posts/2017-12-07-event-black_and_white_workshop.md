@@ -31,7 +31,7 @@ Just one thing, a finished roll of black and white 35mm film (24 or 36 exposures
 * Meet at The Arts Centre: greetings and house rules
 * Go over the basics of developing film
 * Calculating your chemicals, loading your film, develop your film
-* Break for lunch (whilst your film dries). Bring your own lunch or visit one of West Kirby's many cafés.
+* Break for lunch (whilst your film dries). Bring your own lunch or visit one of [West Kirby's many cafés](https://goo.gl/maps/z3CppWT847r).
 * Assessing, storing your film, choosing an exposure for printing
 * The basics of printing
 * Printing and finishing your film
