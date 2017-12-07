@@ -23,15 +23,15 @@ In a world where making photographs now rarely leave a digital screen, why not s
 
 To use the darkroom you will need to pay for a monthly membership. You can pay for a single month, at £15. Or, if you commit to 12 months membership, it's £10 per month (effectively giving you 3 months for free!)
 
-Both memberships will allow you to use the darkroom for four sessions per months. Each session is four hours long; see the table below for availability.
+Both memberships will allow you to use the darkroom when it's available. General availability is listed in the table below.
 
 <div class="membership-cta-wrap">
   <div class="membership-cta">
     <h1 class="membership-cta-title">Monthly</h1>
     <ul class="membership-cta-list">
       <li>&pound;15 per month</li>
-      <li>Pay by the month</li>
-      <li>Four x 4hr sessions per month</li>
+      <li>Pay by the month via <a href="http://www.gocardless.com">GoCardless</a></li>
+      <li>As much reasonable access as you need and is available</li>
       <li>Equivalent to &pound;180 annually</li>
     </ul>
     <!-- <button class="membership-cta-book">
@@ -45,8 +45,8 @@ Both memberships will allow you to use the darkroom for four sessions per months
     <h1 class="membership-cta-title">Annual</h1>
     <ul class="membership-cta-list">
       <li>&pound;10 per month, paid monthly</li>
-      <li>12 monthly payments</li>
-      <li>As much reasonable access as you need</li>
+      <li>12 monthly payments setup via <a href="http://www.gocardless.com">GoCardless</a></li>
+      <li>As much reasonable access as you need and is available</li>
       <li>Equivalent to &pound;120 annually</li>
     </ul>
     <!-- <button class="membership-cta-book">
@@ -59,7 +59,9 @@ Both memberships will allow you to use the darkroom for four sessions per months
 </div>
 
 ## How to book
-Simply <a class="highlight-inline" href="mailto:info@lightbox.photo">contact me by email</a> and let me know when you'd like to hire your first darkroom session. Payment can be taken on your first visit. Thereafter, you'll have access to an online calendar to book your remaining sessions. If this is your first time using Lightbox Darkroom, please read <a href="#firsttimebooking">First-time bookings</a> below.
+If this is your first time using Lightbox Darkroom, please read <a href="#firsttimebooking">First-time bookings</a> below – you will need to complete an induction workshop.
+
+Once you have completed an induction, simply <a class="highlight-inline" href="mailto:info@lightbox.photo">contact me by email</a> and let me know when you'd like to hire your first darkroom session. A payment link will be sent before your first visit. Thereafter, you'll have access to an online calendar to book your remaining sessions.
 
 
 ## Availability
@@ -99,15 +101,18 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 <section class="highlight highlight-light" id="induction">
 
 <h2 class="highlight-title" id="firsttimebooking">First-time bookings</h2>
-<p>First-time bookers will be required to complete a darkroom induction prior to using the darkroom by themselves. We will also need you to provide proof of address (a recent utility bill will do) and ID (driving license or passport) on arrival. Both requirements are to satisfy our insurers.</p>
+<p>First-time bookers will be required to complete a darkroom induction prior to using the darkroom by themselves.</p>
 
 <h3>Professional photographer induction</h3>
 <p>If you are a professional photographer, there are no restrictions to hiring the darkroom and the induction will simply cover room and building safety and familiarisation, lasting approximately 15-20 mins. We can do this before you start using the darkroom for the first time. There will be no extra charge for the familiarisation.</p>
 
-<p>If you are a professional photographer who has never used darkroom equipment before, or need a refresher, we strongly advise that you take a longer <a href="#induction">film development and print workshops</a> first.</p>
+<p>If you are a professional photographer who has never used darkroom equipment before, or need a refresher, we strongly advise that you take a longer <a href="/learn/">film development and print workshops</a> first.</p>
 
 <h3>Amateur photographer</h3>
-<p>If you are an amateur photographer, you will have to take the <a href="#induction">darkroom film and print development workshops</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p>
+<p>If you are an amateur photographer, you will have to take the <a href="/learn/">darkroom film and print development workshops</a> before hiring the room. This is both a requirement for insurance purposes, and is also the safest way of ensuring you optimise your time in the darkroom as safely as possible.</p>
+
+<h3>Induction day requirements</h3>
+<p>On the day of your workshop or first use of the darkroom, we will need you to provide proof of address (a recent utility bill will do) and ID (driving license or passport) on arrival. Both requirements are to satisfy our insurers.</p>
 <!--
 ## Make a booking
 <iframe class="schedule" src="https://bookwhen.com/lightbox/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display: block; border: none; width: 100%; height: 100%;"></iframe> -->
@@ -117,11 +122,11 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 <section class="highlight" id="induction">
 
   <h1 class="highlight-title">Darkroom induction</h1>
-  <p>An induction is made up of two workshops, <a href="/learn/black-and-white-film-development">film development</a>, and <a href="/learn/print-development">film printing</a>; and can be booked on the <a href="/learn/">Workshop & Events</a> page. Each induction session can accommodate a maximum of three attendees.</p>
+  <p>An induction is simply our <a href="/learn/black-and-white-workshop">black and white development and printing workshop</a> and can be booked on the <a href="/learn/">Workshop & Events</a> page. Each workshop session can accommodate a maximum of two attendees.</p>
 
-  <p>Both workshops are &pound;20 each. If booking them together, the price is &pound;30 for both.</p>
+  <p>The workshop is &pound;40 per person.</p>
 
-  <p>During the induction we'll cover:</p>
+  <p>During the workshop we'll cover:</p>
   <ul>
     <li>darkroom and building safety procedures;</li>
     <li>how to use chemicals to develop film;</li>
@@ -132,7 +137,7 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
   <p>All you need to bring for the session is a roll of black and white film to develop and print from; your ID, proof of address (a recent household bill), and payment.</p>
 
   <h2>Booking an induction</h2>
-  To arrange an induction (or to attend an already schedule induction), please <a class="highlight-inline" href="mailto:info@lightbox.photo">email me</a> and I'll get back to you to organise your visit.
+  To attend a workshop, please book on the <a href="/learn/">events page</a>.
 
 <!--
   <p class="">
@@ -144,10 +149,12 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
 ## Darkroom capabilities and equipment
 The darkroom is capable of developing and printing black & white and colour 35mm, medium format, and 4x5 large format photographs. Current equipment includes:
 
-* two enlargers: a De Vere 504 with Ilford 500H Multigrade head (4x5 large format, medium format,  35mm); and a De Vere 203 with Dichromat colour head (35mm, medium format);
+* two enlargers: a De Vere 504 with Ilford 500H Multigrade head (4x5 large format, medium format,  35mm); and a Durst M605 colour head (35mm, medium format);
 * trays for 20 x 16 print size;
 * a Jobo rotary (colour) film and print developer (can process up to 4 x 35mm films in one go);
-* Nova upright print tanks, and;
+* Patterson archival print washer for fibre paper up to 12 x 16, and;
 * the usual darkroom paraphernalia (developing tanks inc. 4x5 Mod54 frames for Paterson tanks, trays, wash sink).
+
+<p><b>Please note:</b> to be able to develop colour film in the Jobo rotary processor, you will be required to complete a separate <a href="/learn/colour-film-development">colour film development workshop</a> first.</p>
 
 Scanning facilities will also be provided. Gotta get these photos on Flickr, Instagram and Facebook for the likez and favs!
