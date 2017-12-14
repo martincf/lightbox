@@ -2,7 +2,7 @@
 layout: post
 tag: event
 title: Black & white development and printing workshop
-date: 2017-12-07
+date: 2017-01-01
 published: true
 permalink: /learn/black-and-white-workshop
 excerpt: Learn how to develop and print black and white photography in a day
