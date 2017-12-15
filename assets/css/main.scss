@@ -48,6 +48,11 @@ body {
   background: #fff url(/assets/images/bg-red-01.jpg) 0 0 no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  @include mq(small-smartphone) {
+   background-size: 500px;
+   background-position: top center;
+   background-attachment: local;
+   }
 }
 
 header:after {
