@@ -6,7 +6,7 @@ date: 2016-11-25
 published: true
 permalink: /posts/where-to-buy-film-uk.html
 excerpt: An even less comprehensive list of places to buy film in the UK.
-heroimage: photo-tanks
+heroimage: bg-white-01
 ---
 
 My local city of Liverpool is, unfortunately, lacking in a decent supply chain for both 35mm and medium format film. Only the city's flagship photography gallery, [Open Eye](https://openeye.org.uk), and Wilkinson Cameras stock a small selection of the decent stuff, at a pretty price. Otherwise, it's the stock £1-a-roll Agfa Vista 200 from Poundland. (What? You didn't know!?)
