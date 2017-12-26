@@ -4,4 +4,4 @@ layout: home
 bgcolour: dark
 ---
 
-Located in the The Arts Centre West Kirby, Lightbox Darkroom is an open film photography darkroom available for learning and for hire.
+Located in Merseyside, UK – an open film photography darkroom available for learning and for hire.

@@ -1,10 +1,46 @@
+/* New homepage 1 Jul 17 */
+.home-intro {
+  clear: both;
+  position: relative;
+  padding: 40px 25px;
+  margin: 50px 0;
+  color: white;
+  background-color: transparentize($black, 0.9);
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  p {
+    font-size: 32px;
+    line-height: 1.25;
+    margin: 0;
+  }
+  .sticker {
+    left: -160px;
+    top: 0;
+    @include mq(small-smartphone) {
+      left: 25%;
+      top: 150px;
+      z-index: 1000;
+    }
+  }
+  @include mq(small-smartphone) {
+    padding: 1em;
+    margin: 0 0;
+    p {
+      font-size: 24px;
+      color: $black;
+    }
+    }
 
+}
 .cta-wrap {
   min-height: 100px;
   margin: 100px auto;
-  width: 107%;
-  margin-left: -5%;
-  display: flex;
+  // width: 107%;
+  // margin-left: -5%;
+  // display: flex;
   &:after {
     content: "";
     display: table;
@@ -20,21 +56,27 @@
   }
 }
 .cta-item {
-  // position: absolute;
-  width: 34%;
-  height: 100%;
-  margin-right: 3%;
+  position: relative;
+  float: left;
+  margin-right: 5%;
+  margin-bottom: 1em;
+  width: 47.5%;
+
+  // height: 100%;
   background: white url(/assets/images/devereenlarger.jpg) 0 0 no-repeat;
   background-size: cover;
   box-sizing: border-box;
   border: 5px solid white;
-  text-align: center;
-  // min-height: 150px;
+  // text-align: center;
+  // display: none;
   &:first-of-type {
     // margin-left: -15%;
   }
   &:nth-of-type(2) {
     // left: 30%;
+  }
+  &:nth-of-type(even) {
+    margin-right: 0;
   }
   &:last-of-type {
     margin-right: 0;
@@ -56,7 +98,7 @@
     // background-image: url({{ site.baseurl }}/assets/images/photo-cameras.jpg);
   }
   @include mq(medium) {
-    width: 40%;
+    // width: 40%;
   }
   @include mq(small-smartphone) {
     float: none;
@@ -79,15 +121,27 @@
 //   display: inline-block;
 //
 // }
-.cta-item--desc {
+.cta-item--link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 325px;
   padding: 10px;
-  margin: 200px 10px -20px;
+
+}
+.cta-item--desc {
+  position: absolute;
+  // bottom: 0;
+  // margin: 200px 10px -20px;
   background-color: transparentize($black,.05);
   color: white;
   overflow: hidden;
-  height: 1.75em;
+  strong {
+    display: block;
+  }
+  // height: 1.75em;
   @include mq(medium) {
-    margin-top: 220px;
+    // margin-top: 220px;
     strong {
       display: block;
     }
@@ -97,6 +151,6 @@
     height: auto;
   }
   &:after {
-    content: "...";
+    content: " ...";
   }
 }

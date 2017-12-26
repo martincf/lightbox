@@ -290,41 +290,7 @@ a:hover, a:active {
   text-transform: uppercase;
 
 }
-/* New homepage 1 Jul 17 */
-.home-intro {
-  clear: both;
-  position: relative;
-  padding: 40px 25px;
-  margin: 50px 0;
-  background-color: transparentize(white, 0.2);
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  p {
-    font-size: 32px;
-    line-height: 1.25;
-    margin: 0;
-  }
-  .sticker {
-    left: -160px;
-    top: 0;
-    @include mq(small-smartphone) {
-      left: 25%;
-      top: 150px;
-      z-index: 1000;
-    }
-  }
-  @include mq(small-smartphone) {
-    padding: 0;
-    margin: 0 0;
-    p {
-      font-size: 24px;
-    }
-    }
 
-}
 /* Hire page */
 .page .post-title + p {
   font-weight: 700;
