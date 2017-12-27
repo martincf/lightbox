@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: blog
-title: Parallax Photographic
+title: Discounts with Parallax Photographic
 date: 2017-10-14
 published: true
 permalink: /parallax

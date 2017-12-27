@@ -6,7 +6,7 @@ date: 2017-11-17
 published: true
 permalink: /gift_vouchers
 excerpt: You can now gift someone special a day in our traditional photographic darkroom learning how to shoot, develop and print photographic images.
-heroimage: giftvouchers
+heroimage: giftvouchers2
 ---
 
 **It's close to Christmas so, I've decided to get some vouchers printed if you'd like to gift a day's workshop shooting, developing, and printing film photography to a friend or family member.**

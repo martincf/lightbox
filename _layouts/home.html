@@ -18,7 +18,8 @@
             </a>
           </aside>
 
-          {% assign post = site.posts.first %}
+          {% for post in site.posts limit:4 %}
+          {% if post.tags contains 'blog' %}
           <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
             <a class="cta-item--link" href="{{ post.url }}">
               <strong>
@@ -26,15 +27,8 @@
               </strong>
             </a>
           </aside>
-          {% assign post = site.posts.last %}
-          <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
-              <a class="cta-item--link" href="{{ post.url }}">
-                <strong>
-                {{ post.title }}
-                </strong>
-              </a>
-          </aside>
-
+          {% endif %}
+          {% endfor %}
         </section>
 
     {% include footer.html %}

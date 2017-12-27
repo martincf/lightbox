@@ -2,7 +2,7 @@
 layout: post
 tag: blog
 title: New workshops
-date: 2017-8-19
+date: 2017-08-19
 published: true
 permalink: /posts/workshop-announcements-sep-2017.html
 excerpt: Check out the new list of workshops
