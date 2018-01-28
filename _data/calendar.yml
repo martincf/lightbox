@@ -48,6 +48,15 @@
     link: /learn/colour-film-development
     price: 25
     spaces: 1
+- date: 17th Mar 2018
+  day: Saturday
+  event:
+    time: 9:30am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 40
+    spaces: 2
+
 - date: 24th Mar 2018
   day: Saturday
   event:
