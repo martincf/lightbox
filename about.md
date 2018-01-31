@@ -13,10 +13,10 @@ Film photography is experiencing something of a resurgence. A generation who hav
 I\'m opening the darkroom to satisfy my own creative endeavours and to help others fuel their own creative output through film photography.
 
 ## Who\'s doing this?
-My name is Martin Chapman Fromm, a designer (London College of Printing being my alma mater). Having been a creative director for many years, I now run the successful digital agency, [Error](http://www.error.agency). I have decide to do something with a passion of mine, photography, and specifically film photography, and create Lightbox.
+My name is Martin Chapman Fromm, a designer (London College of Printing being my alma mater). Having been a creative director for many years I now run the successful digital agency, [Error](http://www.error.agency). Photography – specifically film photography – is one of my passions, so I've decided to create Lightbox to channel my energies into something that can be shared with others.
 
 ## What\'s the plan?
-The darkroom has literally been built from the ground up. Lightbox is running privately for the month of Jine whilst it\'s bedded in and issues ironed out. From July 2017, the plan is to open [the darkroom](/darkroom-hire) for wider use.
+The darkroom has literally been built from the ground up from December 2016 to June 2017. From July 2017, Lightbox opened [the darkroom](/darkroom-hire) for wider use.
 
 Lightbox provides a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
 
