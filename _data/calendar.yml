@@ -31,23 +31,24 @@
 #     link: /learn/black-and-white-workshop
 #     price: 40
 #     spaces: 0
+#
+# - date: 17th Feb 2018
+#   day: Saturday
+#   event:
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 40
+#     spaces: 0
+# - date: 24th Feb 2018
+#   day: Saturday
+#   event:
+#     time: 9:30pm-12:30pm
+#     title: Colour film development
+#     link: /learn/colour-film-development
+#     price: 25
+#     spaces: 0
 
-- date: 17th Feb 2018
-  day: Saturday
-  event:
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 40
-    spaces: 0
-- date: 24th Feb 2018
-  day: Saturday
-  event:
-    time: 9:30pm-12:30pm
-    title: Colour film development
-    link: /learn/colour-film-development
-    price: 25
-    spaces: 0
 - date: 17th Mar 2018
   day: Saturday
   event:
@@ -56,7 +57,6 @@
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 0
-
 - date: 24th Mar 2018
   day: Saturday
   event:
@@ -73,6 +73,14 @@
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 2
+- date: 28th Apr 2018
+  day: Saturday
+  event:
+    time: 2:30pm-5:30pm
+    title: Colour film development
+    link: /learn/colour-film-development
+    price: 25
+    spaces: 2
 - date: 12th May 2018
   day: Saturday
   event:
@@ -80,4 +88,12 @@
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 40
+    spaces: 2
+- date: 19th May 2018
+  day: Saturday
+  event:
+    time: 2:30pm-5:30pm
+    title: Colour film development
+    link: /learn/colour-film-development
+    price: 25
     spaces: 2
