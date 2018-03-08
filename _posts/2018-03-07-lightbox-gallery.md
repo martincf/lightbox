@@ -17,7 +17,7 @@ The gallery has been created by a group of creatives who have a love for photogr
 
 ## Long term aims of the gallery
 
-The gallery is looking to create a network of project-based photographers, artists, and creators who value traditional film and darkroom processes. It will bring new, exciting and provocative work to a wide audience and be some part of the revival of traditional photographic practices.
+The gallery is looking to create a network of project-based photographers, artists, and creators who value traditional film and darkroom processes. It will bring new, exciting and provocative work to a wide audience and be part of the revival of traditional photographic practices.
 
 ## Submissions
 
