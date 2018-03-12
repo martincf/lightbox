@@ -30,4 +30,4 @@ Lightbox is actively seeking submissions for bodies of photographic work to exhi
 - Since Lightbox runs a darkroom, we have the facilities to print your work for the exhibit – this could form part of our collaboration together
 - Exhibits will likely last around 6 weeks
 
-Over the next few weeks we'll update this website to reflect more details and progress. If you think you've got something worth working together on then [email us](mailto:info@lightbox.photo) and we'll get talking.
+Over the next few weeks we'll update this website to reflect more details and progress. If you think you've got something worth working together on then [email me](mailto:info@lightbox.photo) and we'll get talking.
