@@ -11,7 +11,7 @@ heroimage: gallery-grey
 
 **Coming soon to Liverpool, Lightbox Gallery will be a place to showcase new or as yet unseen bodies of photographic work exclusively developed using traditional film and darkroom techniques.**
 
-Located on one of Liverpool's hippest and busiest high streets (full location to be revealed soon), the gallery will run a year-round programme of exhibits and occasional talks and workshops.
+Located on [Bold Street](https://goo.gl/maps/Q6SePdeYNH42), one of Liverpool's hippest and busiest high streets, the gallery will run a year-round programme of exhibits and occasional talks and workshops.
 
 The gallery has been created by a group of creatives who have a love for photography and particularly film photography. We hope to build a community around this passion and engage with those who are purveyors, masters, or fresh to the practice of this visual form.
 
