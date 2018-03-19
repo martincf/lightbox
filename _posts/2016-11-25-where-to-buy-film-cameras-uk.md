@@ -29,13 +29,14 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 
 ## Those I’ve bought from online
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
-* **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve recently bought a Contax ST body (mid Nov 2016) from them, in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
-* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. Unfortunately, my experience was of a very disorganised company (lost orders, no delivery for months, refusal to respond to emails). [http://mwclassic.com](http://mwclassic.com)
+* **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
+* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. Unfortunately, my experience was of a very disorganised company (lost orders, no delivery for months, refusal to respond to emails). [http://mwclassic.com](http://mwclassic.com)
 
 # Those I regular check for kit but haven’t bought from (yet!)
+* **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
 * **The Real Camera Company (Manchester):** [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
