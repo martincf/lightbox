@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 09 Feb 2018
+### Last updated 19 Mar 2018
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
