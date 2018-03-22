@@ -32,6 +32,7 @@ When it comes to buying online, I'm normally going for who's selling the cheapes
 * **Silverprint** (Poole, Dorset): [https://www.silverprint.co.uk](https://www.silverprint.co.uk)
 * **First Call Photographic** (Taunton, Somerset): [https://www.firstcall-photographic.co.uk/](https://www.firstcall-photographic.co.uk/)
 * **7DayShop.com**: [https://www.7dayshop.com/camera-film-supplies/filter/show/all](https://www.7dayshop.com/camera-film-supplies/filter/show/all)
+* **Morco** (Newark, Nottinghamshire): [http://www.morco.uk.com](http://www.morco.uk.com)
 
 ## London
 * **Parallax Photographic (Brixton):** Parallax have made themselves the cool choice for film enthusiasts and publish useful articles about shooting and developing film. I love everything about the way Parallax pitch themselves. Importantly, they sell single rolls of 120 film (as opposed to boxes of five at a time), sell Japan Camera Hunter JCH Streetpan 400 (lovely), and other hard to find film. Lightbox Darkroom [members also get a discount!](/parallax/) [https://parallaxphotographic.coop](https://parallaxphotographic.coop)
