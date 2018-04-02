@@ -81,6 +81,16 @@
     link: /learn/colour-film-development
     price: 25
     spaces: 2
+
+- date: 6th May 2018
+  day: Sunday
+  event:
+    time: 1:00pm-6:00pm
+    title: Colour printing workshop
+    link: /learn/colour-printing-workshop
+    price: 40
+    spaces: 2
+
 - date: 12th May 2018
   day: Saturday
   event:
