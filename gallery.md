@@ -1,5 +1,5 @@
 ---
-title: Lightbox gallery and darkroom - Gallery
+title: Gallery
 permalink: /gallery/
 heroimage: gallery-grey
 layout: default

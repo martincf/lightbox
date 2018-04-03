@@ -1,5 +1,5 @@
 ---
-title: Lightbox Darkroom - an open darkroom in the Northwest of England
+title: An open darkroom in the Northwest of England
 layout: home
 bgcolour: dark
 ---

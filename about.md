@@ -1,5 +1,5 @@
 ---
-title: Lightbox Darkroom - About
+title: About
 permalink: /about/
 heroimage: bg-white-01
 layout: default

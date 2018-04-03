@@ -1,5 +1,5 @@
 ---
-title: Lightbox Darkroom - membership & hire
+title: Membership & hire
 permalink: /darkroom-hire/
 layout: page
 heroimage: darkroom01
