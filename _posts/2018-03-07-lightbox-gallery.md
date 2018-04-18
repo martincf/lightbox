@@ -3,7 +3,7 @@ layout: post
 tag: blog
 title: Lightbox Gallery – submissions welcome
 date: 2018-03-07
-published: true
+published: false
 permalink: /lightbox-gallery
 excerpt: We're opening a gallery in central Liverpool! A place to showcase traditionally made prints.
 heroimage: gallery-grey

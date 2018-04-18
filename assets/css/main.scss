@@ -54,7 +54,9 @@ body {
    background-attachment: local;
    }
 }
-
+.gallery {
+  background-image: url(/assets/images/bg-gallery.png);
+}
 header:after {
 
   content: "";
@@ -508,7 +510,29 @@ a:hover, a:active {
 
   }
 }
-
+/* Gallery page 'sign' styles */
+.sign {
+    float: left;
+    color: white;
+    font-weight: 900;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    background-color: $red;
+    border-radius: 100%;
+    margin-top: -150px;
+    position: relative;
+    left: -30px;
+    transform: rotate(-11deg);
+    span {
+      position: absolute;
+      display: block;
+      left: 15px;
+      top: 70px;
+      transform: translateY(-50%);
+      width: 110px;
+    }
+}
 /* Standard cta button - first used on gift voucher blog post */
 .cta--button {
   background-color: darken($red, 20%);
