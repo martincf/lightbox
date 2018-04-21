@@ -6,7 +6,7 @@ date: 2018-04-19
 published: true
 permalink: /black-and-white-film-basics
 excerpt: Find out the basics of choosing and using black and white film
-heroimage: blog-bwfilmbasics1
+heroimage: blog-bwfilmbasics-hero1
 ---
 
 **If you're starting out at shooting with black and white film, delving into internet forums and social media could expose you to too much detail. A lot of it is good (most of the time), but a lot of it is particularly elementary.**
@@ -40,18 +40,26 @@ Of all the brands, how do you choose which film to purchase? Types of B&W film c
 
 ### The magic ISO numbers
 
-![ISO dial](/assets/images/isodial.jpg)
+![ISO dial](/assets/images/blog-bwfilmbasics-isodial1.jpg)
 
 A film's ISO number is an indication as to how sensitive to light the manufacturers have made the film. The lower the number, the less sensitive to light the film is. An ISO 50 film is going to need more light to create a correctly exposed image, compared to an ISO 400 film. Additionally, as a general rule, a lower ISO film will have a smaller grain (the silver halide crystals that form the image) size than a higher ISO film.
 
 ### Low to medium speed ISO film
+
+![Ilford Pan F Plus 50](/assets/images/blog-bwfilmbasics-colour4.jpg)
+
+
 Photographers like to use low ISO films (ISO 20 to ISO 50) for landscapes, portrait work work where they have decent control of the subject lighting, architecture, etc. Basically, for situations where speed isn't of the essence or where there's plenty of sun light (or flash is used). Likewise, the same could be said for medium speed films (ISO 80 to ISO 200), perhaps used where the photographer has a little less control or availability of light.
 
-Popular low ISO films include [Ilford Pan F 50](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=ilford&filter_film-sensitivity=50-iso), [Rollei RPX 25](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=rollei&filter_film-sensitivity=25-iso), and [Adox CMS 20 II](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=adox&filter_film-sensitivity=20-iso). Popular medium speed ISO films include [Ilford FP4 Plus 125](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=ilford&filter_film-sensitivity=125-iso), [Fujifilm Neopan ACROS 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=fuji&filter_film-sensitivity=100-iso) (soon to be discontinued), [Kodak TMax 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=kodak&filter_film-sensitivity=100-iso), and [Fomapan 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=foma&filter_film-sensitivity=100-iso) and [200](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=foma&filter_film-sensitivity=200-iso).
+Popular low ISO films include [Ilford Pan F Plus 50](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=ilford&filter_film-sensitivity=50-iso), [Rollei RPX 25](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=rollei&filter_film-sensitivity=25-iso), and [Adox CMS 20 II](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=adox&filter_film-sensitivity=20-iso).
+
+![Ilford FP4 Plus 125](/assets/images/blog-bwfilmbasics-colour5.jpg)
+
+Popular medium speed ISO films include [Ilford FP4 Plus 125](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=ilford&filter_film-sensitivity=125-iso), [Fujifilm Neopan ACROS 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=fuji&filter_film-sensitivity=100-iso) (soon to be discontinued), [Kodak TMax 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=kodak&filter_film-sensitivity=100-iso), and [Fomapan 100](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=foma&filter_film-sensitivity=100-iso) and [200](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_brand=foma&filter_film-sensitivity=200-iso).
 
 ### Higher ISO films
 
-![Kodak Tri-X 400](/assets/images/blog-trixfilm.jpg)
+![Kodak Tri-X 400](/assets/images/blog-bwfilmbasics-colour6.jpg)
 
 Anything from ISO 400 and above is considered a high ISO film with more sensitivity to light. Photographers will use these films when there's either little light available (dull days, evenings or night time), or the amount of light available is very unpredictable or unknown; or, as is often my case, it's the only film in your fridge!
 
@@ -62,6 +70,8 @@ The trade off when doing this is higher contrast and chunkier or more apparent g
 As an example, Kodak Tri-X 400 was the staple diet of press photographers for many decades. ISO 400 would be a very useable film speed during the day[^1], and a roll of the same film could be rated ISO 1600 if light became limited. A one-film-fits-all-purposes. Press photographers were never looking for gallery quality fine art prints from their work, so the trade off of higher contrast and more apparent grain was acceptable if it meant getting the shot.
 
 The most renowned high ISO 400 films are [Kodak Tri-X 400](https://parallaxphotographic.coop/shop/kodak-tri-x-400-35mm-film/) and [Ilford HP5 Plus 400](https://parallaxphotographic.coop/shop/ilford-hp5-plus-400-35mm-film/) (Ilford's competitor to Kodak Tri-X). [Fomapan 400](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_film-sensitivity=400-iso&filter_brand=foma), [Kodak TMax 400](https://parallaxphotographic.coop/shop/kodak-t-max-400-35mm-film/), [Ilford Delta 400](https://parallaxphotographic.coop/shop/ilford-delta-400-35mm-film/), [Rollei RPX 400](https://parallaxphotographic.coop/shop/rollei-rpx-400-35mm-film-36-exposures/) are some other well known ISO 400 films.
+
+![Ilford Delta 3200](/assets/images/blog-bwfilmbasics-colour3.jpg)
 
 That leaves us with ISO 3200 films. There are two on the market.  [Ilford Delta 3200](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_film-sensitivity=3200-iso&filter_brand=ilford), and the recently reintroduced [Kodak TMax 3200](https://parallaxphotographic.coop/shop/kodak-t-max-p3200-35mm-film-36-exposures/). These films are a good choice if you know for certain there'll be little light available – night time, concerts – or other applications where you'd rather favour a high ISO on your film for specific camera settings (like being able to shoot with a wide open aperture in okay light).
 
@@ -97,7 +107,7 @@ Most of the time, I rate HP5 at a higher ISO. I'm not even sure if I've ever sho
 
 More recently, I've tried [Bergger Pancro 400](http://bergger.com/bergger-pancro-400-plans-films.html?___store=bergger_en&___from_store=bergger_fr), at ISO 400. It printed beautifully and remind me a little of the qualities of my next favourite film...
 
-For medium to low ISO films, I love Ilford FP4 Plus 125 - especially in medium format (a larger film format). Most of my favourite prints have been shot on FP4. The tonal range is gorgeous, and its contrast is also beautifully balanced. I don't often shoot much lower than FP4's ISO 125. I'm not a massive fan of Ilford Pan F, but appreciate it's quality.
+For medium to low ISO films, I love Ilford FP4 Plus 125 - especially in medium format (a larger film format). Most of my favourite prints have been shot on FP4. The tonal range is gorgeous, and its contrast is also beautifully balanced. I don't often shoot much lower than FP4's ISO 125. I'm not a massive fan of Ilford Pan F Plus 50, but appreciate it's quality.
 
 ## In closing
 If you find this useful, let me know. If you think I need to add to it or amend it, also let me know; I'll keep it a living document.
