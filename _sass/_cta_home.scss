@@ -94,6 +94,12 @@
       color: $black;
     }
   }
+  &.gallery {
+    background-image: url(/assets/images/gallery-grey.jpg);
+    .cta-item--header {
+      color: $black;
+    }
+  }
   &.latest {
     // background-image: url({{ site.baseurl }}/assets/images/photo-cameras.jpg);
   }
