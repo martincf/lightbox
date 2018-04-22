@@ -67,7 +67,7 @@ Typically with B&W film, off the shelf, brands fall squarely into the ISO 400 ca
 
 The trade off when doing this is higher contrast and chunkier or more apparent grain visible in the image.
 
-As an example, Kodak Tri-X 400 was the staple diet of press photographers for many decades. ISO 400 would be a very useable film speed during the day[^1], and a roll of the same film could be rated ISO 1600 if light became limited. A one-film-fits-all-purposes. Press photographers were never looking for gallery quality fine art prints from their work, so the trade off of higher contrast and more apparent grain was acceptable if it meant getting the shot.
+As an example, Kodak Tri-X 400 was the staple diet of press photographers for many decades. ISO 400 would be a very useable film speed during the day, and a roll of the same film could be rated ISO 1600 if light became limited. A one-film-fits-all-purposes. Press photographers were never looking for gallery quality fine art prints from their work, so the trade off of higher contrast and more apparent grain was acceptable if it meant getting the shot.
 
 The most renowned high ISO 400 films are [Kodak Tri-X 400](https://parallaxphotographic.coop/shop/kodak-tri-x-400-35mm-film/) and [Ilford HP5 Plus 400](https://parallaxphotographic.coop/shop/ilford-hp5-plus-400-35mm-film/) (Ilford's competitor to Kodak Tri-X). [Fomapan 400](https://parallaxphotographic.coop/product-category/film/black-and-white-film/?filter_film-sensitivity=400-iso&filter_brand=foma), [Kodak TMax 400](https://parallaxphotographic.coop/shop/kodak-t-max-400-35mm-film/), [Ilford Delta 400](https://parallaxphotographic.coop/shop/ilford-delta-400-35mm-film/), [Rollei RPX 400](https://parallaxphotographic.coop/shop/rollei-rpx-400-35mm-film-36-exposures/) are some other well known ISO 400 films.
 
@@ -101,7 +101,10 @@ Of course, you can manipulate a scan to mimic a more traditional  print feel –
 Since opening Lightbox, I've become less and less reliant on scanning because I much prefer the qualities of a print (and I have free access to the darkroom.) But what you want the final image for will dictate how you produce it. To get images on Instagram, Flickr etc, a scan can be quicker. Maybe even for publishing zines, a scan will be faster (though I'd argue that scanning a darkroom print would be more rewarding). For prints, the darkroom may be better. For gallery or sale prints, I must insist that darkroom prints are best, of course.
 
 ## My personal preference
-Since I live in the UK, Ilford film is generally the cheapest here. Fomapan once was, but has since become more expensive than Ilford, just. I buy Ilford HP5 Plus 400 by the bulk roll. A 17 metre roll will get you about 20 rolls of film compared to about 10 ready made films of the same stuff. You do have to make it into 35mm film cassettes, but that's pretty easy with the right kit. If money were no object, I would prefer to shoot Kodak Tri-X 400. I generally prefer the contrast and tone of Tri-X over HP5, but it becomes less apparent in a darkroom print than in a scan.
+
+![Ilford HP5 Plus 400](/assets/images/blog-bwfilmbasics-hp5.jpg)
+
+Since I live in the UK, Ilford film is generally the cheapest here. Fomapan once was, but has since become more expensive than Ilford, just. I buy Ilford HP5 Plus 400 by the bulk roll. A 17 metre roll will get you about 12 rolls of film (for roughly the same price of 7 ready made). You do have to make it into 35mm film cassettes, but that's pretty easy with the right kit. If money were no object, I would prefer to shoot Kodak Tri-X 400. I generally prefer the contrast and tone of Tri-X over HP5, but it becomes less apparent in a darkroom print than in a scan.
 
 Most of the time, I rate HP5 at a higher ISO. I'm not even sure if I've ever shot a roll at ISO 400 in the past few years!
 
@@ -112,13 +115,10 @@ For medium to low ISO films, I love Ilford FP4 Plus 125 - especially in medium f
 ## In closing
 If you find this useful, let me know. If you think I need to add to it or amend it, also let me know; I'll keep it a living document.
 
-Depending where you are in the world may dictate what film is affordable to you. All I will say is, don't get too caught up in the world of film and their respective pros and cons, it's a means to getting a good print or image on your screen. Find a film or pair of films you like and shoot as much of it as you can!
+Depending where you are in the world may dictate what film is affordable to you. Don't get too caught up in the world of film and their respective pros and cons, it's a means to getting a good print or image on your screen. Find a film or pair of films you like, and shoot as much of it as you can!
 
 ## Where to buy film
 Check out one of the first articles I wrote for this website, [Where to buy film in the UK](/posts/where-to-buy-film-uk). I do keep it up-to-date so it's safe to bookmark.
 
 ## Final pro tip
 Did you know that the 'HP' in Ilford HP5 Plus means Hypersensitive Panchromatic? (The 5 being version 5 of the emulsion). And, did you know that the 'FP' in Ilford FP4 Plus means Fine grain Panchromatic? (I'll let you figure out what the 4 is for.) Keep that for parties – the perfect chat up lines.
-
-## Footnotes
-[^1] High ISO films can also be shoot (rated) at a lower ISO speed and 'pulled' when processing – using a shorter development time to achieve the correct results.
