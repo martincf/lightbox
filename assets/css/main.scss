@@ -152,12 +152,15 @@ a:hover, a:active {
   margin-top: 50px;
   @include mq(small-smartphone) {
     padding: 0;
+    margin-top: 5em;
     }
 
 }
 .content {
   margin-top: 2em;
-
+  @include mq(small-smartphone) {
+    margin-top: 5em;
+    }
   h1 {
     margin: 0 0 1em;
   }
@@ -524,6 +527,11 @@ a:hover, a:active {
     position: relative;
     left: -30px;
     transform: rotate(-11deg);
+    @include mq(small-smartphone) {
+      left: inherit;
+      right: 0 !important;
+      float: right;
+    }
     span {
       position: absolute;
       display: block;
