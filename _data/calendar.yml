@@ -116,6 +116,14 @@
 #     link: /learn/black-and-white-workshop
 #     price: 40
 #     spaces: 2
+- date: 21st June 2018
+  day: Thursday
+  event:
+    time: 6:30pm-8:30pm
+    title: Colour film development workshop
+    link: /learn/colour-film-development
+    price: 20
+    spaces: 2
 - date: 23rd June 2018
   day: Saturday
   event:
@@ -124,6 +132,14 @@
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 0
+- date: 5th July 2018
+  day: Thurday
+  event:
+    time: 6:30pm-9:30pm
+    title: Colour printing workshop
+    link: /learn/colour-printing-workshop
+    price: 30 (£20 if booked with 21st June workshop)
+    spaces: 2
 - date: 14th July 2018
   day: Saturday
   event:
