@@ -9,7 +9,7 @@ excerpt: You can now gift someone special a day in our traditional photographic 
 heroimage: giftvouchers2
 ---
 
-**It's close to Christmas so, I've decided to get some vouchers printed if you'd like to gift a day's workshop shooting, developing, and printing film photography to a friend or family member.**
+**Gift a day's workshop shooting, developing, and printing film photography for a friend or family member.**
 
 ## How to buy a voucher
 There's a limited number of vouchers so be quick! They cost £40 each and can either be picked up at the darkroom in the West Kirby Arts Centre, or posted out to you. Simply click the button below and make sure you send me the following information:

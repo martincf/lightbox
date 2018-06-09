@@ -5,9 +5,9 @@ heroimage: gallery-grey
 layout: default
 ---
 
-<div class="sign">
-  <span>Opening May 2018!</span>
-</div>
+<!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/galleryshot.jpg" alt="" /></p> -->
+
+
 **Lightbox Gallery showcases photographic work exclusively developed using traditional film and darkroom techniques.**
 
 Located at [Ropes & Twines, Bold Street](https://goo.gl/maps/Q6SePdeYNH42), one of Liverpool's hippest and busiest high streets, the gallery will run a year-round programme of exhibits and occasional talks and workshops.
