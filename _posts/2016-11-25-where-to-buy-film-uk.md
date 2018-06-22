@@ -9,6 +9,8 @@ excerpt: An even less comprehensive list of places to buy film in the UK.
 heroimage: bg-white-01
 ---
 
+### Last updated 22 June 2018
+
 My local city of Liverpool is, unfortunately, lacking in a decent supply chain for both 35mm and medium format film. Only the city's flagship photography gallery, [Open Eye](https://openeye.org.uk), and Wilkinson Cameras stock a small selection of the decent stuff, at a pretty price. Otherwise, it's the stock £1-a-roll Agfa Vista 200 from Poundland. (What? You didn't know!?)
 
 Luckily, work takes me to the capital on a regular basis, in which I am often found handing over my halfpennies to the film peddlers of London town.
@@ -19,6 +21,7 @@ So, here's a list of online and London-based film sellers. Assume each entry cov
 
 When it comes to buying online, I'm normally going for who's selling the cheapest and delivery cost. These are the sites I've ordered from at good prices, and received good customer service and delivery.
 
+* **Analogue Wonderland**: (UK somewhere!): [https://analoguewonderland.co.uk](https://analoguewonderland.co.uk)
 * **Parallax Photographic** (Brixton, London): [https://parallaxphotographic.coop](https://parallaxphotographic.coop)
 * **RK Photographic** (Potter's Bar, Hertfordshire): [http://www.thedarkroom.co.uk](http://www.thedarkroom.co.uk)
 * **Discount Films Direct** (dunno where they are): [http://www.discountfilmsdirect.co.uk](http://www.discountfilmsdirect.co.uk)
