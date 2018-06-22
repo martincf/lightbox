@@ -11,6 +11,7 @@ heroimage: photo-cameras
 
 ### Last updated 22 June 2018
 
+
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
 ## Those I’ve visited in London
@@ -34,8 +35,8 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
 * **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. Unfortunately, my experience was of a very disorganised company (lost orders, no delivery for months, refusal to respond to emails). [http://mwclassic.com](http://mwclassic.com)
-* **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com
-  )
+* **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
+
 # Those I regular check for kit but haven’t bought from (yet!)
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
