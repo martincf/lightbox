@@ -38,6 +38,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
 # Those I regular check for kit but haven’t bought from (yet!)
+* **Camley Photographic (Hove):** A good collection of some decent kit – a website I check often (if you're after a Nikon F3, this is the first place I would always look). They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
@@ -46,7 +47,6 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection. [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
 * **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. Quite a varied collection on the website. [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
 * **Camtech Photographic (Cambridge):** Seem to have a decent used film collection of used gear with condition stated, but no specific images to view. [http://www.camtechuk.com/index.php](http://www.camtechuk.com/index.php)
-* **Camley Photographic (Hove):** Apart from an awful search results list, they have some decent kit (especially some well priced Bronica stuff). Looks like a lot of their selling is done on Ebay as well. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **The Camera House (West Yorkshire):** An old looking website with a lot of lists of used kit. Some choice stuff by the looks of things. [http://www.the-camera-house.co.uk](http://www.the-camera-house.co.uk)
 * **Commercial Cameras (Shropshire):** High spec professional camera sellers with a small but tidy used section on their website (Leicas, Mamiya, Hasselblad, large format, etc.) [http://www.commercialcameras.co.uk](http://www.commercialcameras.co.uk)
 * **JK Cameras (London):** Exclusively Leica by the looks of it, and not much of it, but seems to pride themselves on quality. [http://www.jkcameras.co.uk](http://www.jkcameras.co.uk)
