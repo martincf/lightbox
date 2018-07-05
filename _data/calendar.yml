@@ -116,35 +116,48 @@
 #     link: /learn/black-and-white-workshop
 #     price: 40
 #     spaces: 2
-- date: 21st June 2018
-  day: Thursday
-  event:
-    time: 6:30pm-8:30pm
-    title: Colour film development workshop
-    link: /learn/colour-film-development
-    price: 20
-    spaces: 1
-- date: 23rd June 2018
-  day: Saturday
-  event:
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 40
-    spaces: 0
+# - date: 21st June 2018
+#   day: Thursday
+#   event:
+#     time: 6:30pm-8:30pm
+#     title: Colour film development workshop
+#     link: /learn/colour-film-development
+#     price: 20
+#     spaces: 1
+# - date: 23rd June 2018
+#   day: Saturday
+#   event:
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 40
+#     spaces: 0
 - date: 5th July 2018
   day: Thurday
   event:
+    type: workshop
     time: 6:30pm-9:30pm
     title: Colour printing workshop
     link: /learn/colour-printing-workshop
     price: 30 (£20 if booked with 21st June workshop)
-    spaces: 1
+    spaces: 0
 - date: 14th July 2018
   day: Saturday
   event:
+    type: workshop
     time: 9:30am-5:00pm
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 1
+- date: 19th July 2018
+  day: Thurday
+  event:
+    type: exhibition
+    time: 6:30pm
+    title: Simon Gabriel, On Ground exhibition
+    link: /gallery/simon-gabriel-gallery-exhibition
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, Bold Street, Liverpool"
+    enddate: 30th August 2018

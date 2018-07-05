@@ -19,23 +19,36 @@ layout: list
           <span class="event-list-item-date">{{ event.date }}</span>
           <span class="event-list-item-time">{{ event.event.time }}</span>
         </div>
+        <strong class="event-type">{{ event.event.type }}</strong>
+
         <a href="{{ event.event.link }}">
           <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
           <span>{{ event.event.title }}</span>
         </a>
+        {% if event.event.type == "exhibition" %}
+        <strong>{{ event.event.location }}</strong>
+        {% else %}
         <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }}
+        {% endif %}
 
-          {% if event.event.spaces == 1 %}
+
+          {% if event.event.spaces == 1 and event.event.spaces !="na" %}
             space left)</strong>
-          {% else %}
+          {% elsif event.event.spaces !="na" %}
             spaces left)</strong>
           {% endif %}
 
-        {% if event.event.spaces == 0 %}
+        {% if event.event.spaces == "na" %}
+          <em class="event-enddate">Until {{ event.event.enddate }}
+        {% elsif event.event.spaces == 0 %}
           <button class="soldout">All booked up!</button>
-          {% else event.event.spaces > 0 %}
+        {% elsif event.event.spaces > 0 %}
           <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
-          {% endif %}
+        {% endif %}
+
+
+
+
       </li>
     </ul>
 

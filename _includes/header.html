@@ -47,7 +47,7 @@
     <!-- MC -->
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/eb0723c8dc0a1dccea67fc0d5/adff5b8ca158b011e2fa6e541.js");</script>
   </head>
-  <body class="{{ page.layout }} {% if page.title == "Gallery" %}gallery{% endif %}">
+  <body class="{{ page.layout }} {% if page.title == "Gallery" %}gallery{% elsif page.tags contains "exhibition" %}gallery{% endif %}">
     <main class="wrap-page">
   <header>
     <h1>
@@ -55,6 +55,8 @@
         {% if page.bgcolour == 'dark' %}
         <img src="{{ baseurl }}/assets/images/logo-lightbox-white2@3x.png" alt="Lightbox darkroom" />
         {% elsif page.title == 'Gallery' %}
+        <img src="{{ baseurl }}/assets/images/logo-gallery-black@3x.png" alt="Lightbox Gallery" />
+        {% elsif page.tags contains 'exhibition' %}
         <img src="{{ baseurl }}/assets/images/logo-gallery-black@3x.png" alt="Lightbox Gallery" />
         {% else %}
         <img src="{{ baseurl }}/assets/images/logo-lightbox@3x.png" alt="Lightbox darkroom" />

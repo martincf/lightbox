@@ -259,6 +259,14 @@ a:hover, a:active {
   font-style: normal;
   margin-left: .5em;
 }
+.event-type {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.event-enddate {
+  font-style: normal;
+  display: block;
+}
 .event-price-book {
   background-color: darken($red, 20%);
   font-weight: 700;
