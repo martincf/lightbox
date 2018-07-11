@@ -22,7 +22,11 @@
               <strong>Gallery</strong>
             </a>
           </aside>
-
+          <aside class="cta-item sgabriel">
+            <a class="cta-item--link" href="/gallery/simon-gabriel-gallery-exhibition">
+              <strong>Exhibition</strong>
+            </a>
+          </aside>
           {% for post in site.posts limit:4 %}
           {% if post.tags contains 'blog' %}
           <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
