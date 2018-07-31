@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 22 June 2018
+### Last updated 31 July 2018
 
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
@@ -34,7 +34,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
-* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. Unfortunately, my experience was of a very disorganised company (lost orders, no delivery for months, refusal to respond to emails). [http://mwclassic.com](http://mwclassic.com)
+* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had a few problems with them a years or two ago when ordering. However, a recent lens purchase was top marks – great price, excellent condition, and very fast delivery. [http://mwclassic.com](http://mwclassic.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
 # Those I regular check for kit but haven’t bought from (yet!)
