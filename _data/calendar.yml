@@ -141,15 +141,15 @@
 #     link: /learn/colour-printing-workshop
 #     price: 30 (£20 if booked with 21st June workshop)
 #     spaces: 0
-- date: 14th July 2018
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 40
-    spaces: 0
+# - date: 14th July 2018
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 40
+#    spaces: 0
 - date: 19th July 2018
   day: Thurday
   event:
@@ -161,7 +161,7 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: 30th August 2018
-- date: 18th August 2018
+- date: 18th Aug 2018
   day: Saturday
   event:
     type: workshop
@@ -169,4 +169,24 @@
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 40
-    spaces: 2
+    spaces: 1
+- date: 12th Aug 2018
+  day: Sunday
+  event:
+    type: exhibition
+    time: 10.00am – 5.00pm
+    title: A year in the dark
+    link: /gallery/west-kirby-arts-centre-exhibition
+    price: 0
+    spaces: na
+    location: "West Kirby Arts Centre, CH48 4EL"
+    enddate: mid-Sep 2018
+- date: 29th Sep 2018
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Black & white printing workshop
+    link: /learn/print-development
+    price: 40
+    spaces: 1
