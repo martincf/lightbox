@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: event exhibition
-title: Mark Elmore, Screens
+title: Elmore, Screens
 date: 2018-09-08
 published: true
 permalink: /gallery/mark-elmore-gallery-exhibition
@@ -10,7 +10,9 @@ heroimage: exhibition-melmore
 
 ---
 
-An exploration into our interlaced relationship with screens today.
+**An exploration into our interlaced relationship with screens today.**
+
+## From 28th Sep – 9th Nov 2018
 
 The work stemmed from my own feelings of being more and more coddled into keeping the world and other people at arms’ length. Why do I need to explore when everything is neatly and exhaustively presented to me? How can I explore?
 
@@ -18,11 +20,11 @@ The subject covered is the experience that each screen purports to give to its v
 
 ![](/assets/images/exhibition-melmore2.jpg)
 
-An informal opening at 6.30pm in [Ropes & Twines](https://goo.gl/maps/A4zKscwVLc52) will kick off the exhibition, including a free drink on arrival. All are welcome!
+An informal opening at 6.30pm, Friday 28th September in [Ropes & Twines](https://goo.gl/maps/A4zKscwVLc52) will kick off the exhibition, including a free drink on arrival. All are welcome!
 
-## About Mark Elmore
+## About Elmore
 
-Mark is most successful when taking photos quickly and reacting to the moment, then spending more time later crafting an image with his hands under dull red light.
+Elmore is most successful when taking photos quickly and reacting to the moment, then spending more time later crafting an image with his hands under dull red light.
 
 His work has been commissioned and published by a diverse list of publications including Rolling Stone, NME, Sunday Times Style Magazine, and the The Psychologist.
 

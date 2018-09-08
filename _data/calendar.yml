@@ -181,12 +181,12 @@
 #     spaces: na
 #     location: "West Kirby Arts Centre, CH48 4EL"
 #     enddate: mid-Sep 2018
-- date: 27th Sep 2018
-  day: Thurday
+- date: 28th Sep 2018
+  day: Friday
   event:
     type: exhibition
     time: 6:30pm
-    title: Mark Elmore, Screens
+    title: Elmore, Screens
     link: /gallery/mark-elmore-gallery-exhibition
     price: 0
     spaces: na
