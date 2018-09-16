@@ -201,6 +201,15 @@
     link: /learn/print-development
     price: 40
     spaces: 0
+- date: 30th Sep 2018
+  day: Sunday
+  event:
+    type: workshop
+    time: 1:30pm-5:30pm
+    title: Lith printing workshop
+    link: /learn/lith-printing
+    price: 35
+    spaces: 2
 - date: 13th Oct 2018
   day: Saturday
   event:
