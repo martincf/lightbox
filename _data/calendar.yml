@@ -210,15 +210,15 @@
 #     link: /learn/lith-printing
 #     price: 35
 #     spaces: 0
-- date: 13th Oct 2018
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 40
-    spaces: 0
+# - date: 13th Oct 2018
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 40
+#     spaces: 0
 - date: 27th Oct 2018
   day: Saturday
   event:
