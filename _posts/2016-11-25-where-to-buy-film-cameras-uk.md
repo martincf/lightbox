@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 31 July 2018
+### Last updated 26 October 2018
 
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
@@ -38,6 +38,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
 # Those I regular check for kit but haven’t bought from (yet!)
+* **Nicholas Cameras (Camden, London):** A wide range of film camera kit at decent looking prices. [https://nicholascamera.com](https://nicholascamera.com)]
 * **Camley Photographic (Hove):** A good collection of some decent kit – a website I check often (if you're after a Nikon F3, this is the first place I would always look). They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
