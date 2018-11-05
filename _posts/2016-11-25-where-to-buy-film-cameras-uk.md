@@ -44,7 +44,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had a few problems with them a years or two ago when ordering. However, a recent lens purchase was top marks – great price, excellent condition, and very fast delivery. [https://www.mwclassic.com](https://www.mwclassic.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
-# Those I regular check for kit but haven’t bought from (yet!)
+# Those I check for kit but haven’t bought from (yet!)
 * **Filtr (North Yorkshire):** Dan and Jack have started an online camera sales business catering for beginners  and 35mm cameras at the less expensive end of the price range. The site looks great and they're super eager to help newcomers experience the wonders of film photography. [https://www.filtrfilmcameras.co.uk](https://www.filtrfilmcameras.co.uk)   
 * **Nicholas Cameras (Camden, London):** A wide range of film camera kit at decent looking prices. [https://nicholascamera.com](https://nicholascamera.com)
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
