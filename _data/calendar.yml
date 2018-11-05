@@ -237,6 +237,17 @@
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 0
+- date: 10th Nov 2018
+  day: Saturday
+  event:
+    type: exhibition
+    time: 6:30pm
+    title: Peter Bromley – 1968 Film Group, The Somme Project
+    link: /gallery/peter-bromley-gallery-exhibition
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: 14th December 2018
 - date: 24th Nov 2018
   day: Saturday
   event:
