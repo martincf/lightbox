@@ -9,28 +9,34 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 26 October 2018
+### Last updated 5th November 2018
 
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
-## Those I’ve visited in London
+## My top picks
+
+These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
+
+* **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
+* **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com)
+* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
+* **London Camera Exchange, Strand, London:** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
+
+## Some others I’ve visited in London (if they're not in the list above)
 
 All of the below are easy to get to over a couple of hours. Very useful if you’re in the city hunting for a particular item.
 
-* **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com)
 * **Mr Cad, nr Victoria Station, London:** Worth the visit if only to speak to Alex, Mr Cad, himself. A wonderfully knowledgeable owner with an amazing collection. [http://www.mrcad.co.uk](http://www.mrcad.co.uk)
 * **Camera World, nr Oxford Rd, London:** A small collection, but worth a look. Friendly helpful staff as well. [https://www.cameraworld.co.uk](https://www.cameraworld.co.uk)
 * **Teamwork, nr Tottenham Court Rd, London:** mainly high spec large and medium format kit. A shop mainly catering for pro photographers. Nice staff. [http://www.teamworkphoto.com](http://www.teamworkphoto.com)
 * **Camera City, nr British Museum, London:** A shop I chanced across, but has a really impressive collection of mainly 35mm film cameras. Priced high though. [http://cameracity.co.uk](http://cameracity.co.uk)
-* **London Camera Exchange, Strand, London:** Mainly a regular digital reseller with a decent sized 2nd hand film collection. Their website covers user equipment across the many stores they have across the UK. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
 * **Sendean Cameras, Clerkenwell, London:** A short walk from Farringdon station. Sendean has a very tidy collection of used film cameras, some hard to find examples. They also have what looks like a very active repair team busying away in the shop. Priced high too. [http://www.sendeancameras.co.uk](http://www.sendeancameras.co.uk)
 * **Red Dot Cameras, Clerkenwell nr Barbican station, London:** I recently bought a very reasonably priced lens from Red Dot. I can't say service was particularly warm though. Visit clued up about what you want, help doesn't seem too forthcoming. [http://www.reddotcameras.co.uk](http://www.reddotcameras.co.uk)
 * **The Classic Camera, nr British Museum, London:** Mainly Leica but sell other brands too. Some decent priced bodies that look well chosen. I previously bought a Leica M4-2 and lens from these guys. Service was great, so was the Leica! [http://theclassiccamera.com](http://theclassiccamera.com)
 
 ## Those I’ve bought from online
-* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
-* **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
+
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Camley Photographic (Hove):** A good collection of some decent kit – a website I check often (if you're after a Nikon F3, this is the first place I would always look). They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
