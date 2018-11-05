@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: blog
+tags: [blog, pinned]
 title: Where to buy film in the UK
 date: 2016-11-25
 published: true
