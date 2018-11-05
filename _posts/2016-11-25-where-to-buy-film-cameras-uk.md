@@ -21,7 +21,7 @@ These are the camera sales companies I've bought from a few times and trust very
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com)
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
-* **London Camera Exchange, Strand, London:** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
+* **London Camera Exchange, (UK-wide):** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
 
 ## Some others I’ve visited in London (if they're not in the list above)
 
