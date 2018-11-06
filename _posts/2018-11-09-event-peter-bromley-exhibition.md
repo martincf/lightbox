@@ -18,7 +18,7 @@ The Somme Project is about memory, landscape and the sense of absence which domi
 
 ![](/assets/images/somme2.png)
 
-The Project attempts to create a series of metaphors for these complex experiences through the contemporary use of photography, text and sound, alongside a walking of the 'Somme' as it exists in the present-day landscape. Find out more information on the project at [www.thesomme.net](www.thesomme.net).
+The Project attempts to create a series of metaphors for these complex experiences through the contemporary use of photography, text and sound, alongside a walking of the 'Somme' as it exists in the present-day landscape. Find out more information on the project at [www.thesomme.net](http://www.thesomme.net).
 
 ![](/assets/images/somme3.png)
 
