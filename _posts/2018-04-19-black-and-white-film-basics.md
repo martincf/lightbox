@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [blog, pinned]
+tags: [blog]
 title: The basics of black and white film
 date: 2018-04-19
 published: true

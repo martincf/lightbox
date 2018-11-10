@@ -26,11 +26,6 @@
               <strong>Exhibition</strong>
             </a>
           </aside>
-          <aside class="cta-item melmore">
-            <a class="cta-item--link" href="/gallery/mark-elmore-gallery-exhibition">
-              <strong>Exhibition</strong>
-            </a>
-          </aside>
           {% for post in site.posts %}
           {% if post.tags contains 'pinned' %}
           <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
