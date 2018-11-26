@@ -248,15 +248,15 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: 14th December 2018
-- date: 24th Nov 2018
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 40
-    spaces: 1
+# - date: 24th Nov 2018
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 40
+#     spaces: 1
 - date: 8th Dec 2018
   day: Saturday
   event:
@@ -266,3 +266,73 @@
     link: /learn/black-and-white-workshop
     price: 40
     spaces: 0
+- date: 13th January 2019
+  day: Sunday
+  event:
+    time: 1:30pm-6:00pm
+    title: Colour printing workshop
+    link: /learn/colour-printing-workshop
+    price: 35
+    spaces: 2
+- date: 19th Jan 2019
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 16th Feb 2019
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 9th Mar 2019
+  day: Sunday
+  event:
+    time: 1:30pm-6:00pm
+    title: Colour printing workshop
+    link: /learn/colour-printing-workshop
+    price: 35
+    spaces: 2
+- date: 23rd Mar 2019
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 27th Apr 2019
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 11th May 2019
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Lith printing workshop
+    link: /learn/lith-printing-workshop
+    price: 50
+    spaces: 2
+- date: 12th May 2019
+  day: Sunday
+  event:
+    type: workshop
+    time: 9:30am-5:00pm
+    title: Lith printing workshop
+    link: /learn/lith-printing-workshop
+    price: 50
+    spaces: 2
