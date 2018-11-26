@@ -22,7 +22,7 @@ eventprice: £50 per session (max 2 people).
 
 ## What you will need
 
-Just one thing; a fully developed roll of 35mm or medium format black and white film ready to print from.
+Just one thing; a fully developed roll of 35mm or medium format black and white film ready to print from. Paper will be provided on the day.
 
 ## Schedule for the day
 
