@@ -21,7 +21,7 @@ In a world where making photographs now rarely leave a digital screen, why not s
 
 ## Membership
 
-To use the darkroom you will need to pay for a monthly membership. You can pay for a single month, at £15. Or, if you commit to 12 months membership, it's £10 per month (effectively giving you 3 months for free!)
+To use the darkroom you will need to pay for a monthly membership. You can pay for a single month, at £20. Or, if you commit to 12 months membership, it's £10 per month (effectively giving you 6 months for free!)
 
 Both memberships will allow you to use the darkroom when it's available. General availability is listed in the table below.
 
@@ -29,10 +29,10 @@ Both memberships will allow you to use the darkroom when it's available. General
   <div class="membership-cta">
     <h1 class="membership-cta-title">Monthly</h1>
     <ul class="membership-cta-list">
-      <li>&pound;15 per month</li>
+      <li>&pound;20 per month</li>
       <li>Pay by the month via <a href="http://www.gocardless.com">GoCardless</a></li>
       <li>As much reasonable access as you need and is available</li>
-      <li>Equivalent to &pound;180 annually</li>
+      <li>Equivalent to &pound;240 annually</li>
     </ul>
     <!-- <button class="membership-cta-book">
       <a href="#">£15 per month</a>
@@ -124,7 +124,7 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 10:00pm, you wi
   <h1 class="highlight-title">Darkroom induction</h1>
   <p>An induction is simply our <a href="/learn/black-and-white-workshop">black and white development and printing workshop</a> and can be booked on the <a href="/learn/">Workshop & Events</a> page. Each workshop session can accommodate a maximum of two attendees.</p>
 
-  <p>The workshop is &pound;40 per person.</p>
+  <p>The workshop is &pound;45 per person.</p>
 
   <p>During the workshop we'll cover:</p>
   <ul>
