@@ -269,6 +269,7 @@
 - date: 13th January 2019
   day: Sunday
   event:
+    type: workshop
     time: 1:30pm-6:00pm
     title: Colour printing workshop
     link: /learn/colour-printing-workshop
@@ -295,6 +296,7 @@
 - date: 10th Mar 2019
   day: Sunday
   event:
+    type: workshop
     time: 1:30pm-6:00pm
     title: Colour printing workshop
     link: /learn/colour-printing-workshop
