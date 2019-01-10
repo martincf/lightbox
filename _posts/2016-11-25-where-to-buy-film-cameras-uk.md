@@ -11,7 +11,7 @@ heroimage: photo-cameras
 
 ### Last updated 10th January 2019
 
-In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece. 
+In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
 ## My top picks
 
@@ -63,6 +63,6 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 
 ## Stores abroad who are worth checking out
 
-* **Kamerastore (Finland)** I'm always a bit confused by how many different sites these guys have, but Kamerastore are very active in the film camera world for repairs and sales. They main one linked here has an extensive range of kit, well described. I've bought Pentax 6x7 extension tubes from them and they arrived pretty fast, for a reasonable delivery price. [https://kameratori.fi/en](https://kameratori.fi/en)
+* **Kamerastore (Finland)** I'm always a bit confused by how many different sites these guys have, but Kamerastore are very active in the film camera world for repairs and sales. The main one linked here has an extensive range of kit, well described. I've bought Pentax 6x7 extension tubes from them and they arrived pretty fast, for a reasonable delivery price. [https://kameratori.fi/en](https://kameratori.fi/en)
 
 I would love it if anyone has any others to share.
