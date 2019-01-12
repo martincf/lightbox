@@ -9,11 +9,20 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 10th January 2019
+### Last updated 12th January 2019 {#top}
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
-## My top picks
+#### Quick links
+
+- [My top picks](#toppicks)
+- [Other sellers in London](#londonothers)
+- [Those I've bought from online](#haveused)
+- [Those I haven't bought from yet](#notused)
+- [Online stores abroad](#abroad)
+{: .nobullets}
+
+## My top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
 
@@ -22,7 +31,7 @@ These are the camera sales companies I've bought from a few times and trust very
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
 * **London Camera Exchange, (UK-wide):** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
 
-## Some others I’ve visited in London (if they're not in the list above)
+## Some others I’ve visited in London (if they're not in the list above) {#londonothers}
 
 All of the below are easy to get to over a couple of hours. Very useful if you’re in the city hunting for a particular item.
 
@@ -34,7 +43,10 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Red Dot Cameras, Clerkenwell nr Barbican station, London:** I recently bought a very reasonably priced lens from Red Dot. I can't say service was particularly warm though. Visit clued up about what you want, help doesn't seem too forthcoming. [http://www.reddotcameras.co.uk](http://www.reddotcameras.co.uk)
 * **The Classic Camera, nr British Museum, London:** Mainly Leica but sell other brands too. Some decent priced bodies that look well chosen. I previously bought a Leica M4-2 and lens from these guys. Service was great, so was the Leica! [http://theclassiccamera.com](http://theclassiccamera.com)
 
-## Those I’ve bought from online
+[Back to top](#top)
+{: .backtotop}
+
+## Those I’ve bought from online {#haveused}
 
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Camley Photographic (Hove):** A good collection of some decent kit – a website I check often (if you're after a Nikon F3, this is the first place I would always look). They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
@@ -43,7 +55,10 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had a few problems with them a years or two ago when ordering. However, a recent lens purchase was top marks – great price, excellent condition, and very fast delivery. [https://www.mwclassic.com](https://www.mwclassic.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
-## Those I check for kit but haven’t bought from (yet!)
+[Back to top](#top)
+{: .backtotop}
+
+## Those I check for kit but haven’t bought from (yet!) {#notused}
 * **Filtr (North Yorkshire):** Dan and Jack have started an online camera sales business catering for beginners  and 35mm cameras at the less expensive end of the price range. The site looks great and they're super eager to help newcomers experience the wonders of film photography. [https://www.filtrfilmcameras.co.uk](https://www.filtrfilmcameras.co.uk)   
 * **Nicholas Cameras (Camden, London):** A wide range of film camera kit at decent looking prices. [https://nicholascamera.com](https://nicholascamera.com)
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
@@ -61,8 +76,14 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Richard Caplan (Pall Mall, London):** Another mainly Leica, but also Hasselblad and FujiFilm. Another well respected 'red dot' dealer. [http://www.richardcaplan.co.uk](http://www.richardcaplan.co.uk)
 * **The Vintage & Classic Camera Co. (Hayling Island, nr Portsmouth):** A large collection of 35mm, medium format, and large format cameras and lenses. [http://vintageclassiccamera.com](http://vintageclassiccamera.com)
 
-## Stores abroad who are worth checking out
+[Back to top](#top)
+{: .backtotop}
+
+## Stores abroad who are worth checking out {#abroad}
 
 * **Kamerastore (Finland)** I'm always a bit confused by how many different sites these guys have, but Kamerastore are very active in the film camera world for repairs and sales. The main one linked here has an extensive range of kit, well described. I've bought Pentax 6x7 extension tubes from them and they arrived pretty fast, for a reasonable delivery price. [https://kameratori.fi/en](https://kameratori.fi/en)
+
+[Back to top](#top)
+{: .backtotop}
 
 I would love it if anyone has any others to share.

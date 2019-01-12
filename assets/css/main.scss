@@ -192,6 +192,17 @@ a:hover, a:active {
       }
     }
   }
+  ul.nobullets {
+    list-style-type: none;
+    li {
+      margin: 0 1.5em 0;
+      &:before {
+        // content: none;
+        // float: none;
+      }
+    }
+
+  }
   h2 {
     font-size: 24px;
     margin-bottom: 1em;
@@ -221,6 +232,25 @@ a:hover, a:active {
   font-size: 36px;
   margin: 0 0 1em;
 }
+
+.backtotop {
+  text-transform: uppercase;
+  font-size: 14px;
+  margin: 2em 0 1em;
+  position: relative;
+
+  &:before {
+    content: "^";
+    width: 25px;
+    position: absolute;
+    left: -15px;
+    top: 2px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    color: $red;
+  }
+}
+
 /* Event styles */
 .events-list-item {
   a {
