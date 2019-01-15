@@ -14,9 +14,14 @@ layout: list
 
   <!-- {% assign events = site.data.calendar %} -->
   {% for event in site.data.calendar %} <!-- Get everything in the calendar file -->
-    <h3>{{ event.month }}</h3> <!-- print the month -->
+    <h3 class="event-list-month">{{ event.month }}</h3> <!-- print the month -->
     <ul class="post-list events-list">
+
+      {% if event.event.type == "exhibition" %}
+      <li class="post-list-item events-list-item events-list-item-exhibition">
+        {% else %}
       <li class="post-list-item events-list-item">
+        {% endif %}
         <div class="event-list-item-dateinfo">
           <span class="event-list-item-day">{{ event.day }}</span>
           <span class="event-list-item-date">{{ event.date }}</span>

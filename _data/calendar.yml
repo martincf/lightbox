@@ -237,17 +237,17 @@
 #     link: /learn/black-and-white-workshop
 #     price: 40
 #     spaces: 0
-- date: 10th Nov 2018
-  day: Saturday
-  event:
-    type: exhibition
-    time: 6:30pm
-    title: Peter Bromley – 1968 Film Group, The Somme Project
-    link: /gallery/peter-bromley-gallery-exhibition
-    price: 0
-    spaces: na
-    location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 30th January 2019
+# - date: 10th Nov 2018
+#   day: Saturday
+#   event:
+#     type: exhibition
+#     time: 6:30pm
+#     title: Peter Bromley – 1968 Film Group, The Somme Project
+#     link: /gallery/peter-bromley-gallery-exhibition
+#     price: 0
+#     spaces: na
+#     location: "Ropes & Twines, 70 Bold Street, Liverpool"
+#     enddate: 30th January 2019
 # - date: 24th Nov 2018
 #   day: Saturday
 #   event:
@@ -266,17 +266,18 @@
 #     link: /learn/black-and-white-workshop
 #     price: 40
 #     spaces: 0
-- date: 13th Jan 2019
-  day: Sunday
-  event:
-    type: workshop
-    time: 1:30pm-6:00pm
-    title: Colour printing workshop
-    link: /learn/colour-printing-workshop
-    price: 35
-    spaces: 0
+# - date: 13th Jan 2019
+#   day: Sunday
+#   event:
+#     type: workshop
+#     time: 1:30pm-6:00pm
+#     title: Colour printing workshop
+#     link: /learn/colour-printing-workshop
+#     price: 35
+#     spaces: 0
 - date: 19th Jan 2019
   day: Saturday
+  month: January
   event:
     type: workshop
     time: 9:30am-5:00pm
@@ -284,6 +285,18 @@
     link: /learn/black-and-white-workshop
     price: 45
     spaces: 0
+- date: 7th Feb 2019
+  day: Thursday
+  month: February
+  event:
+    type: exhibition
+    time: 6:30pm
+    title: "Dan King – Twentieth Century Modern: Places of Worship"
+    link: /gallery/dan-king-gallery-exhibition
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: 21st March 2019
 - date: 16th Feb 2019
   day: Saturday
   event:
@@ -295,6 +308,7 @@
     spaces: 0
 - date: 10th Mar 2019
   day: Sunday
+  month: March
   event:
     type: workshop
     time: 1:30pm-6:00pm
@@ -313,6 +327,7 @@
     spaces: 2
 - date: 27th Apr 2019
   day: Saturday
+  month: April
   event:
     type: workshop
     time: 9:30am-5:00pm
@@ -322,6 +337,7 @@
     spaces: 2
 - date: 11th May 2019
   day: Saturday
+  month: May
   event:
     type: workshop
     time: 9:30am-5:00pm

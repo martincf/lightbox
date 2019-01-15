@@ -66,6 +66,9 @@ body {
 .pbromley {
   background-image: url(/assets/images/somme1.jpg);
 }
+.danking {
+  background-image: url(/assets/images/danking1.jpg);
+}
 header:after {
 
   content: "";
@@ -133,7 +136,7 @@ a:hover, a:active {
   margin: 50px 0 75px;
 }
 .post-list {
-  margin-bottom: 100px;
+  // margin-bottom: 100px;
 
   a:link span, a:visited span {
     border-bottom: 1px solid lighten($red, 20%);
@@ -278,6 +281,13 @@ a:hover, a:active {
     float: none;
     margin-bottom: .5em;
   }
+}
+.events-list-item-exhibition .event-list-item-dateinfo {
+  background-color: $red;
+}
+.event-list-month {
+  margin: 0 0 1em;
+  color: $grey;
 }
 .event-list-item-day, .event-list-item-time {
   font-size: 14px;
