@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 12th January 2019 {#top}
+### Last updated 21st January 2019 {#top}
 
 In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
 
@@ -52,7 +52,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Camley Photographic (Hove):** A good collection of some decent kit – a website I check often (if you're after a Nikon F3, this is the first place I would always look). They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
-* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had a few problems with them a years or two ago when ordering. However, a recent lens purchase was top marks – great price, excellent condition, and very fast delivery. [https://www.mwclassic.com](https://www.mwclassic.com)
+* **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had variable service from MW Classic, mostly not good. It appears I'm not the only one if you read Google reviews, too. Consider purchasing from MW with caution. [https://www.mwclassic.com](https://www.mwclassic.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 
 [Back to top](#top)
@@ -75,6 +75,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Peter Loy (London):** An afternoon can be spent just browsing the collection of stock on this website. Lots of rarities. Seems to be mail/tel order only. [http://www.peterloy.com](http://www.peterloy.com)
 * **Richard Caplan (Pall Mall, London):** Another mainly Leica, but also Hasselblad and FujiFilm. Another well respected 'red dot' dealer. [http://www.richardcaplan.co.uk](http://www.richardcaplan.co.uk)
 * **The Vintage & Classic Camera Co. (Hayling Island, nr Portsmouth):** A large collection of 35mm, medium format, and large format cameras and lenses. [http://vintageclassiccamera.com](http://vintageclassiccamera.com)
+* **Soperfect Images (Portsmouth):** A film camera shop based in Portsmouth dealing in anything from 35mm to large format. [https://www.soperfectimages.co.uk](https://www.soperfectimages.co.uk)
 
 [Back to top](#top)
 {: .backtotop}
