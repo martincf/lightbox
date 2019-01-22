@@ -75,7 +75,7 @@ All of the below are easy to get to over a couple of hours. Very useful if youâ€
 * **Peter Loy (London):** An afternoon can be spent just browsing the collection of stock on this website. Lots of rarities. Seems to be mail/tel order only. [http://www.peterloy.com](http://www.peterloy.com)
 * **Richard Caplan (Pall Mall, London):** Another mainly Leica, but also Hasselblad and FujiFilm. Another well respected 'red dot' dealer. [http://www.richardcaplan.co.uk](http://www.richardcaplan.co.uk)
 * **The Vintage & Classic Camera Co. (Hayling Island, nr Portsmouth):** A large collection of 35mm, medium format, and large format cameras and lenses. [http://vintageclassiccamera.com](http://vintageclassiccamera.com)
-* **Soperfect Images (Plymouth):** A film camera shop based in Portsmouth dealing in anything from 35mm to large format. [https://www.soperfectimages.co.uk](https://www.soperfectimages.co.uk)
+* **Soperfect Images (Plymouth):** A film camera shop based in Plymouth dealing in anything from 35mm to large format. [https://www.soperfectimages.co.uk](https://www.soperfectimages.co.uk)
 
 [Back to top](#top)
 {: .backtotop}
