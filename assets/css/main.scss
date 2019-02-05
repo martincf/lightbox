@@ -9,7 +9,7 @@
 @import "navigation";
 @import "cta_home";
 @import "cta";
-
+@import "events";
 body {
   color: $black;
   font-family: 'Source Sans Pro', sans-serif;
@@ -252,106 +252,6 @@ a:hover, a:active {
     font-weight: 900;
     color: $red;
   }
-}
-
-/* Event styles */
-.events-list-item {
-  a {
-    display: block;
-  }
-  p {
-    margin: .5em 0 4em;
-  }
-}
-.event-list-item-dateinfo {
-  display: block;
-  background-color: $black;
-  color: white;
-  width: 140px;
-  float: left;
-  text-align: center;
-  padding: 1.25em .25em;
-  margin: 0 1em 0 0;
-  span {
-    display: block;
-    text-transform: uppercase;
-  }
-  @include mq(small-smartphone) {
-    width: 100%;
-    float: none;
-    margin-bottom: .5em;
-  }
-}
-.events-list-item-exhibition .event-list-item-dateinfo {
-  background-color: $red;
-}
-.event-list-month {
-  margin: 0 0 1em;
-  color: $grey;
-}
-.event-list-item-day, .event-list-item-time {
-  font-size: 14px;
-  font-weight: 500;
-}
-.event-list-item-time {
-  letter-spacing: 1px;
-}
-.event-list-item-date {
-  font-weight: 700;
-}
-.event-date {
-  font-size: 24px;
-  margin-bottom: 1em;
-}
-.event-price {
-  font-weight: 300;
-  font-style: normal;
-  margin-left: .5em;
-}
-.event-type {
-  text-transform: uppercase;
-  font-size: 14px;
-}
-.event-enddate {
-  font-style: normal;
-  display: block;
-}
-.event-price-book {
-  background-color: darken($red, 20%);
-  font-weight: 700;
-  color: white;
-  font-size: 24px;
-  border-radius: 4px;
-  padding: .25em .75em;
-  margin-right: .5em;
-  text-transform: uppercase;
-  a:link, a:visited, a:hover, a:active {
-    color: white;
-    border-bottom: none;
-  }
-  &:hover {
-  background-color: darken($red, 30%);
-  }
-  @include mq(small-smartphone) {
-    display: block;
-  }
-}
-.events-list-item .event-price-book {
-  display: block;
-}
-.events-list-item .event-price-book a {
-    font-size: 18px !important;
-}
-.soldout {
-  display: block;
-  background-color: lighten($black,80%);
-  font-weight: 700;
-  color: lighten($black,60%);
-  border-radius: 4px;
-  padding: .25em .75em;
-  margin-right: .5em;
-  text-transform: uppercase;
-
 }
 
 /* Hire page */
