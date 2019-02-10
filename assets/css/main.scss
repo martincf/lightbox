@@ -9,7 +9,7 @@
 @import "navigation";
 @import "cta_home";
 @import "cta";
-
+@import "events";
 body {
   color: $black;
   font-family: 'Source Sans Pro', sans-serif;
@@ -68,6 +68,10 @@ body {
 }
 .danking {
   background-image: url(/assets/images/danking1.jpg);
+}
+
+header {
+  position: relative;
 }
 header:after {
 
@@ -471,37 +475,84 @@ a:hover, a:active {
   background-color: lighten($red, 25%);
   color: $black;
 }
+
+.cta-buy {
+  padding: 2em;
+  background-color: lighten($grey,30%);
+  border: 1px solid lighten($grey,25%);
+  // background-image: url({{ site.baseurl }}/assets/images/book-danking1.jpg);
+  // background-position: center center;
+  // background-size: cover;
+  h2 {
+    margin-top: 1em;
+  }
+  .cta--button {
+    // float: right;
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
+  }
+}
+.cta-buy--hero {
+  display: block;
+  float: left;
+  max-width: 45%;
+  margin: 0 1em 2em 0;
+  @include mq(smartphone) {
+    float: none;
+    max-width: 100%;
+    margin: 0 0 1em;
+  }
+}
+
 /* Sticker */
+.cta-exhibition {
+  position: relative;
+}
+
 .sticker {
   position: absolute;
-  left: -95px;
-  top: 40px;
+  right: 10px;
+  top: -35px;
   background-color: white;
   color: $red;
   border: 5px solid $red;
-  font-weight: 700;
-  text-transform: uppercase;
   border-radius: 100%;
-  width: 125px;
-  height: 115px;
+  width: 150px;
+  height: 150px;
   overflow: hidden;
   text-align: center;
-  padding: 50px 20px 0;
-  -ms-transform: rotate(-11deg); /* IE 9 */
-  -webkit-transform: rotate(-11deg); /* Chrome, Safari, Opera */
-  transform: rotate(-11deg);
+  padding: 0;
+  -ms-transform: rotate(7.5deg); /* IE 9 */
+  -webkit-transform: rotate(7.5deg); /* Chrome, Safari, Opera */
+  transform: rotate(7.5deg);
+  @include transition();
 
   @include mq(lower-medium) {
-    left: -20px;
-    top: -90px;
+    // left: -20px;
+    // top: -90px;
   }
-
   @include mq(small-smartphone) {
-    left: 140px;
-    top: -600px;
+    right: -10px;
   }
-
-
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+.sticker-content {
+  height: 100%;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.2;
+  font-size: 16px;
+  p {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    a {
+      display: block;
+    }
+  }
 }
 /* Membership CTA */
 

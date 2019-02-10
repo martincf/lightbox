@@ -7,8 +7,8 @@ published: true
 permalink: /gallery/dan-king-gallery-exhibition
 excerpt: "Twentieth Century Modern: Places of Worship highlights the broad diversity and common themes across the architecture  commissioned by various denominations throughout the latter part of last century."
 heroimage: danking1
+gumroad: true
 ---
-
 
 ## From 7th Feb to 21st Mar 2019
 
@@ -18,4 +18,6 @@ heroimage: danking1
 
 Twentieth Century Modern: Places of Worship highlights the broad diversity and common themes across the architecture  commissioned by various denominations throughout the latter part of last century. The collection provides a photographic record of some of these buildings before they are altered or lost forever.  
 
-The exhibition will display 18 of the church photographs. A booklet  of all 40 images will also be available to purchase for £10.
+The exhibition will display 18 of the church photographs. A booklet of all 40 images will also be available to purchase for £10.
+
+{% include gumroad-embed.html id="" %}

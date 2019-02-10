@@ -2,7 +2,6 @@
 
     <div class="home-intro">
       {{ content }}
-      <!-- {% include sticker.html %} -->
     </div>
 
         <section class="cta-wrap">
@@ -11,6 +10,14 @@
                 <strong>Join a workshop</strong>
               </a>
             </aside>
+
+            <aside class="cta-item danking cta-exhibition">
+              <a class="cta-item--link" href="/gallery/dan-king-gallery-exhibition">
+                <strong>Exhibition</strong>
+              </a>
+              {% include sticker.html %}
+            </aside>
+
           <aside class="cta-item create">
             <a class="cta-item--link" href="/darkroom-hire">
               <strong>Hire the darkroom</strong>
@@ -19,11 +26,6 @@
           <aside class="cta-item gallery">
             <a class="cta-item--link" href="/gallery">
               <strong>Gallery</strong>
-            </a>
-          </aside>
-          <aside class="cta-item danking">
-            <a class="cta-item--link" href="/gallery/dan-king-gallery-exhibition">
-              <strong>Exhibition</strong>
             </a>
           </aside>
           {% for post in site.posts %}
