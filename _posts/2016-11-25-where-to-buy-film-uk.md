@@ -19,8 +19,6 @@ So, here's a list of online and London-based film sellers. Assume each entry cov
 
 ## Online
 
-[![Parallax Photographic](/assets/images/banner-parallax.png)](https://parallaxphotographic.coop)
-
 When it comes to buying online, I'm normally going for who's selling the cheapest and delivery cost. These are the sites I've ordered from at good prices, and received good customer service and delivery.
 
 * **Parallax Photographic** (Brixton, London): [https://parallaxphotographic.coop](https://parallaxphotographic.coop)
