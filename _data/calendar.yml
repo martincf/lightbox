@@ -316,15 +316,15 @@
 #     link: /learn/colour-printing-workshop
 #     price: 35
 #     spaces: 0
-- date: 23rd Mar 2019
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 45
-    spaces: 0
+# - date: 23rd Mar 2019
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 45
+#     spaces: 0
 - date: 6th Apr 2019
   day: Saturday
   month: April
