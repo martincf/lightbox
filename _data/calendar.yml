@@ -349,16 +349,7 @@
   month: May
   event:
     type: workshop
-    time: 9:30am-5:00pm
-    title: Lith printing workshop
-    link: /learn/lith-printing-workshop
-    price: 50
-    spaces: 0
-- date: 12th May 2019
-  day: Sunday
-  event:
-    type: workshop
-    time: 9:30am-5:00pm
+    time: 10:00am-5:00pm
     title: Lith printing workshop
     link: /learn/lith-printing-workshop
     price: 50
@@ -368,7 +359,7 @@
   month: June
   event:
     type: workshop
-    time: 9:30am-5:00pm
+    time: 10:00am-5:00pm
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 45
@@ -378,7 +369,7 @@
   month: July
   event:
     type: workshop
-    time: 9:30am-5:00pm
+    time: 10:00am-5:00pm
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 45
