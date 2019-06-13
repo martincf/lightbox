@@ -285,18 +285,18 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
-- date: 7th Feb 2019
-  day: Thursday
-  month: February
-  event:
-    type: exhibition
-    time: 6:30pm
-    title: "Dan King – Twentieth Century Modern: Places of Worship"
-    link: /gallery/dan-king-gallery-exhibition
-    price: 0
-    spaces: na
-    location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 21st March 2019
+# - date: 7th Feb 2019
+#   day: Thursday
+#   month: February
+#   event:
+#     type: exhibition
+#     time: 6:30pm
+#     title: "Dan King – Twentieth Century Modern: Places of Worship"
+#     link: /gallery/dan-king-gallery-exhibition
+#     price: 0
+#     spaces: na
+#     location: "Ropes & Twines, 70 Bold Street, Liverpool"
+#     enddate: 21st March 2019
 # - date: 16th Feb 2019
 #   day: Saturday
 #   event:
@@ -344,26 +344,38 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
-- date: 11th May 2019
-  day: Saturday
-  month: May
-  event:
-    type: workshop
-    time: 10:00am-5:00pm
-    title: Lith printing workshop
-    link: /learn/lith-printing-workshop
-    price: 50
-    spaces: 0
-- date: 1st Jun 2019
-  day: Saturday
+# - date: 11th May 2019
+#   day: Saturday
+#   month: May
+#   event:
+#     type: workshop
+#     time: 10:00am-5:00pm
+#     title: Lith printing workshop
+#     link: /learn/lith-printing-workshop
+#     price: 50
+#     spaces: 0
+# - date: 1st Jun 2019
+#   day: Saturday
+#   month: June
+#   event:
+#     type: workshop
+#     time: 10:00am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 45
+#     spaces: 0
+- date: 27th Jun 2019
+  day: Thursday
   month: June
   event:
-    type: workshop
-    time: 10:00am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 45
-    spaces: 0
+    type: exhibition
+    time: 6:30pm
+    title: "Nicholas Wynne – Beyond the American Dream"
+    link: /gallery/nick-wynne-gallery-exhibition
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: 31st July 2019
 - date: 13th Jul 2019
   day: Saturday
   month: July
