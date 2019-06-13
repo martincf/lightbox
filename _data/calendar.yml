@@ -386,3 +386,53 @@
     link: /learn/black-and-white-workshop
     price: 45
     spaces: 0
+- date: 31st Aug 2019
+  day: Saturday
+  month: August
+  event:
+    type: workshop
+    time: 10:00am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 28th Sep 2019
+  day: Saturday
+  month: September
+  event:
+    type: workshop
+    time: 10:00am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 19th Oct 2019
+  day: Saturday
+  month: October
+  event:
+    type: workshop
+    time: 10:00am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 23rd Nov 2019
+  day: Saturday
+  month: November
+  event:
+    type: workshop
+    time: 10:00am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
+- date: 7th Dec 2019
+  day: Saturday
+  month: December
+  event:
+    type: workshop
+    time: 10:00am-5:00pm
+    title: Black & white development and printing workshop
+    link: /learn/black-and-white-workshop
+    price: 45
+    spaces: 2
