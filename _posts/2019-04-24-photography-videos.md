@@ -19,3 +19,4 @@ I love hunting for inspirational (and mostly well dated) videos of the photograp
 * **[Alfred Eisenstaedt – BBC Master Photographers (1983)](https://youtu.be/xdfOo4yh6c0)**
 * **[Ansel Adams – Ansel Adams' Home and Darkroom](https://youtu.be/qZlovMptjyQ)**
 * **[William Klein – William Klein: In Pictures](https://youtu.be/7g9IksGqiUM)**
+* **[Do Not Bend: The Photographic Life of Bill Jay](https://youtu.be/wd47549knOU)**
