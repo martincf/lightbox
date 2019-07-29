@@ -386,9 +386,20 @@
     link: /learn/black-and-white-workshop
     price: 45
     spaces: 0
+- date: 1st Aug 2019
+  day: Thursday
+  month: August
+  event:
+    type: exhibition
+    time: 7:30pm
+    title: "Sixteen"
+    link: /gallery/sixteen-exhibition
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: 18th September 2019
 - date: 31st Aug 2019
   day: Saturday
-  month: August
   event:
     type: workshop
     time: 10:00am-5:00pm
