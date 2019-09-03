@@ -1,0 +1,63 @@
+---
+title: Workshops and events
+permalink: /learn/
+layout: list
+---
+
+  <h1 class="content-title">Workshops & events</h1>
+
+  <h2>Booking details</h2>
+  <p>Please note, your booking is only confirmed once you've paid. I'll send a link to pay online as soon as I've received your request. I'm at liberty to give the booking to someone else if you haven't paid for a few weeks and not responded to emails.</p>
+  <p>If a booking is cancelled up to 7 days before the workshop date, you will receive a full refund.</p>
+
+  <!-- <h2>Gift voucher holders</h2>
+  <p>If you have been gifted a darkroom voucher, you can also book yourself on to one of the available dates below. Alternatively, <a href="mailto:info@lightbox.photo">get in touch</a> to arrange an different date.</p> -->
+
+  <!-- {% assign events = site.data.calendar %} -->
+  {% for event in site.data.calendar %} <!-- Get everything in the calendar file -->
+    <h3 class="event-list-month">{{ event.month }}</h3> <!-- print the month -->
+    <ul class="post-list events-list">
+
+      {% if event.event.type == "exhibition" %}
+      <li class="post-list-item events-list-item events-list-item-exhibition">
+        {% else %}
+      <li class="post-list-item events-list-item">
+        {% endif %}
+        <div class="event-list-item-dateinfo">
+          <span class="event-list-item-day">{{ event.day }}</span>
+          <span class="event-list-item-date">{{ event.date }}</span>
+          <span class="event-list-item-time">{{ event.event.time }}</span>
+        </div>
+        <strong class="event-type">{{ event.event.type }}</strong>
+
+        <a href="{{ event.event.link }}">
+          <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
+          <span>{{ event.event.title }}</span>
+        </a>
+        {% if event.event.type == "exhibition" %}
+        <strong>{{ event.event.location }}</strong>
+        {% else %}
+        <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }}
+        {% endif %}
+
+
+          {% if event.event.spaces == 1 and event.event.spaces !="na" %}
+            space left)</strong>
+          {% elsif event.event.spaces !="na" %}
+            spaces left)</strong>
+          {% endif %}
+
+        {% if event.event.spaces == "na" %}
+          <em class="event-enddate">Until {{ event.event.enddate }}
+        {% elsif event.event.spaces == 0 %}
+          <button class="soldout">All booked up!</button>
+        {% elsif event.event.spaces > 0 %}
+          <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
+        {% endif %}
+      </li>
+    </ul>
+
+  {% endfor %}
+
+
+<p>More events to be announced soon. <a href="mailto:info@lightbox.photo">Email me</a> if you have a suggestion for a workshop.</p>

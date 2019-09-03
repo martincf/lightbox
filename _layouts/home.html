@@ -1,0 +1,44 @@
+    {% include header.html %}
+
+    <div class="home-intro">
+      {{ content }}
+    </div>
+
+        <section class="cta-wrap">
+            <aside class="cta-item learn">
+              <a class="cta-item--link" href="/learn">
+                <strong>Join a workshop</strong>
+              </a>
+            </aside>
+
+            <aside class="cta-item sixteen cta-exhibition">
+              <a class="cta-item--link" href="/gallery/sixteen-exhibition">
+                <strong>Exhibition</strong>
+              </a>
+              <!-- {% include sticker.html %} -->
+            </aside>
+
+          <aside class="cta-item create">
+            <a class="cta-item--link" href="/darkroom-hire">
+              <strong>Darkroom membership</strong>
+            </a>
+          </aside>
+          <aside class="cta-item gallery">
+            <a class="cta-item--link" href="/gallery">
+              <strong>Gallery</strong>
+            </a>
+          </aside>
+          {% for post in site.posts %}
+          {% if post.tags contains 'pinned' %}
+          <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
+            <a class="cta-item--link" href="{{ post.url }}">
+              <strong>
+                {{ post.title }}
+              </strong>
+            </a>
+          </aside>
+          {% endif %}
+          {% endfor %}
+        </section>
+
+    {% include footer.html %}
