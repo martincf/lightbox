@@ -398,15 +398,15 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: 18th September 2019
-- date: 31st Aug 2019
-  day: Saturday
-  event:
-    type: workshop
-    time: 10:00am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 45
-    spaces: 0
+# - date: 31st Aug 2019
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 10:00am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 45
+#    spaces: 0
 - date: 28th Sep 2019
   day: Saturday
   month: September
