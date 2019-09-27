@@ -2,7 +2,7 @@
 layout: post
 tag: blog
 title: January 2017 darkroom progress update
-date: 2017-1-26
+date: 2017-01-26
 published: true
 permalink: /posts/darkroom-progress-update-january-2017.html
 excerpt: How have we been getting on with the darkroom build?
