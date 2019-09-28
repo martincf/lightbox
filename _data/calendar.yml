@@ -40,9 +40,18 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: early November 2019
-- date: 23rd Nov 2019
+- date: 16th Nov 2019
   day: Saturday
   month: November
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white film development morning
+    link: /learn/black-and-white-film-development
+    price: 25
+    spaces: 3
+- date: 23rd Nov 2019
+  day: Saturday
   event:
     type: workshop
     time: 10:00am-5:00pm
