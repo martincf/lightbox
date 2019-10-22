@@ -31,6 +31,7 @@
 #     spaces: 0
 - date: 24th Oct 2019
   day: Thursday
+  month: October
   event:
     type: exhibition
     time: 7:00pm
