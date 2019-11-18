@@ -53,6 +53,7 @@
 #     spaces: 0
 - date: 23rd Nov 2019
   day: Saturday
+  month: November
   event:
     type: workshop
     time: 10:00am-5:00pm
