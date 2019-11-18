@@ -7,13 +7,9 @@ published: true
 permalink: /learn/black-and-white-film-development
 excerpt: Learn how to develop your own black and white film
 heroimage: photo1
-eventprice: £20 per session (max 3 people per session).
-eventfreq: Usually twice per month
-eventdate: 10am, 4th Sep; 10am, 25th Sep
-booklink: https://bookwhen.com/lightbox-workshops
 ---
 
-**The easiest process within the world of darkroom processing is the task of developing black and white film. Mostly science (and a dash of luck), there's nothing more exciting than developing your own roll of film.**
+**The first process worth learning within the world of the darkroom is the task of developing black and white film. Mostly science (and a dash of luck), there's nothing more exciting than developing your own roll of film.**
 
 ## What to expect on the day
 - A class of up to three people only, of any skill level (from absolute beginners to those refreshing their memory);

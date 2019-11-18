@@ -41,16 +41,16 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: early November 2019
-- date: 16th Nov 2019
-  day: Saturday
-  month: November
-  event:
-    type: workshop
-    time: 9:30am-12:30pm
-    title: Black & white film development morning
-    link: /learn/black-and-white-film-development
-    price: 25
-    spaces: 0
+# - date: 16th Nov 2019
+#   day: Saturday
+#   month: November
+#   event:
+#     type: workshop
+#     time: 9:30am-12:30pm
+#     title: Black & white film development morning
+#     link: /learn/black-and-white-film-development
+#     price: 25
+#     spaces: 0
 - date: 23rd Nov 2019
   day: Saturday
   event:
@@ -59,7 +59,7 @@
     title: Black & white development and printing workshop
     link: /learn/black-and-white-workshop
     price: 45
-    spaces: 0
+    spaces: 1
 - date: 7th Dec 2019
   day: Saturday
   month: December
@@ -70,3 +70,51 @@
     link: /learn/black-and-white-workshop
     price: 45
     spaces: 0
+- date: 18th Jan 2020
+  day: Saturday
+  month: January
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white printing morning
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 25
+    spaces: 2
+- date: 8th Feb 2020
+  day: Saturday
+  month: February
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white film development morning
+    link: /learn/black-and-white-film-development
+    price: 25
+    spaces: 3
+- date: 22nd Feb 2020
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white printing morning
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 25
+    spaces: 2
+- date: 7th Mar 2020
+  day: Saturday
+  month: March
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white film development morning
+    link: /learn/black-and-white-film-development
+    price: 25
+    spaces: 3
+- date: 28th Mar 2020
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-12:30pm
+    title: Black & white printing morning
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 25
+    spaces: 2
