@@ -61,16 +61,16 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
-- date: 7th Dec 2019
-  day: Saturday
-  month: December
-  event:
-    type: workshop
-    time: 10:00am-5:00pm
-    title: Black & white development and printing workshop
-    link: /learn/black-and-white-workshop
-    price: 45
-    spaces: 0
+# - date: 7th Dec 2019
+#   day: Saturday
+#   month: December
+#   event:
+#     type: workshop
+#     time: 10:00am-5:00pm
+#     title: Black & white development and printing workshop
+#     link: /learn/black-and-white-workshop
+#     price: 45
+#     spaces: 0
 - date: 18th Jan 2020
   day: Saturday
   month: January
@@ -120,12 +120,12 @@
     link: /learn/black-and-white-film-development
     price: 25
     spaces: 3
-- date: 28th Mar 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-12:30pm
-    title: Black & white printing morning
-    link: /learn/black-and-white-darkroom-printing-workshop
-    price: 25
-    spaces: 2
+# - date: 28th Mar 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-12:30pm
+#     title: Black & white printing morning
+#     link: /learn/black-and-white-darkroom-printing-workshop
+#     price: 25
+#     spaces: 2
