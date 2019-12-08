@@ -29,18 +29,18 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
-- date: 24th Oct 2019
-  day: Thursday
-  month: October
-  event:
-    type: exhibition
-    time: 7:00pm
-    title: "Berlin: After the Wall"
-    link: /gallery/berlin-after-the-wall
-    price: 0
-    spaces: na
-    location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 4th December 2019
+# - date: 24th Oct 2019
+#   day: Thursday
+#   month: October
+#   event:
+#     type: exhibition
+#     time: 7:00pm
+#     title: "Berlin: After the Wall"
+#     link: /gallery/berlin-after-the-wall
+#     price: 0
+#     spaces: na
+#     location: "Ropes & Twines, 70 Bold Street, Liverpool"
+#     enddate: 4th December 2019
 # - date: 16th Nov 2019
 #   day: Saturday
 #   month: November
@@ -71,6 +71,18 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
+- date: 5th Dec 2019
+  day: Thursday
+  month: December
+  event:
+    type: exhibition
+    time: 7:00pm
+    title: "The Kings of England"
+    link: /gallery/the-kings-of-england
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: January 2020
 - date: 18th Jan 2020
   day: Saturday
   month: January

@@ -25,7 +25,7 @@ Here’s my list of UK camera shops that I’ve either visited, or ordered from,
 ## My top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
-* **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
+* **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have a nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com)
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
