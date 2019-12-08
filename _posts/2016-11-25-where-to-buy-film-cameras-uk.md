@@ -9,9 +9,9 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 5th April 2019 {#top}
+### Last updated 8th December 2019 {#top}
 
-In light of forever assessing and wanting to add to an unnecessarily growing collection of film cameras and lenses here’s my list of UK camera shops that I’ve either visited, or ordered from, or just keep checking for that desirable rare piece.
+Here’s my list of UK camera shops that I’ve either visited, or ordered from, or have come across over time.
 
 #### Quick links
 
@@ -25,7 +25,7 @@ In light of forever assessing and wanting to add to an unnecessarily growing col
 ## My top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
-
+* **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com)
 * **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). They also have a Leica-centric website at [http://www.rangefinder.uk.com](http://www.rangefinder.uk.com)
@@ -65,7 +65,6 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
-* **The Real Camera Company (Manchester):** [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Rocky Cameras (Dorset):** a pretty big online collection. However, apparently something of a ‘sold as seen’ shop. Some pretty good prices; quality may or may not match. [http://www.rockycameras.com](http://www.rockycameras.com)
 * **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection. [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
 * **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. Quite a varied collection on the website. [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
