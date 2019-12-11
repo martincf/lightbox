@@ -5,10 +5,10 @@ heroimage: bg-white-01
 layout: default
 ---
 
-**Newly established and located in the [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is an open film photography darkroom available for hire and for learning.**
+**Established in 2017 and located in [West Kirby Arts Centre](https://goo.gl/maps/vzU4Jmw8bYu), Wirral, Lightbox darkroom is an open film photography darkroom available for hire and for learning.**
 
 ## Why open a darkroom?
-Film photography is experiencing something of a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
+Film photography is experiencing a resurgence. A generation who have never experienced film are discovering the creative potential of developing and printing.
 
 I\'m opening the darkroom to satisfy my own creative endeavours and to help others fuel their own creative output through film photography.
 

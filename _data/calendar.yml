@@ -95,7 +95,6 @@
     spaces: 0
 - date: 25th Jan 2020
   day: Saturday
-  month: January
   event:
     type: workshop
     time: 9:30am-12:30pm
