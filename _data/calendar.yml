@@ -82,7 +82,7 @@
     price: 0
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: January 2020
+    enddate: 30th January 2020
 - date: 18th Jan 2020
   day: Saturday
   month: January
@@ -130,7 +130,7 @@
     title: Black & white film development morning
     link: /learn/black-and-white-film-development
     price: 25
-    spaces: 3
+    spaces: 2
 # - date: 28th Mar 2020
 #   day: Saturday
 #   event:
