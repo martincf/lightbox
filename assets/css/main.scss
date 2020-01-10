@@ -207,10 +207,35 @@ a:hover, a:active {
   a:link, a:visited {
     border-bottom: 1px solid lighten($red, 20%);
   }
+
+  ol {
+    margin: 1em 0;
+    list-style: none;
+    counter-reset: lightbox-counter;
+
+    li {
+      margin: 0 1.5em .5em;
+      counter-increment: lightbox-counter;
+
+      &:before {
+        // content: "\2022";
+        content: counter(lightbox-counter) ". ";
+
+        float: left;
+        text-align: right;
+        margin: -1px 0 0 -2.5em;
+        width: 2em;
+        font-size: 24px;
+        color: $red;
+      }
+    }
+
+  }
+
   ul {
     margin: 1em 0;
     li {
-      margin: 0 1.5em 1em;
+      margin: 0 1.5em .5em;
       &:before {
         content: "\2022";
         float: left;

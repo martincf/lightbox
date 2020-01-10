@@ -83,6 +83,16 @@
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
     enddate: 30th January 2020
+- date: 13th Jan 2020
+  day: Saturday
+  month: January
+  event:
+    type: workshop
+    time: 9:30am-5:30pm
+    title: Intermediate black & white darkroom printing
+    link: /learn/intermediate-black-and-white-darkroom-printing-workshop
+    price: 85
+    spaces: 0
 - date: 18th Jan 2020
   day: Saturday
   month: January
