@@ -48,7 +48,11 @@ Just one thing, a developed roll of black and white 35mm or medium format.
 
 ## About Les
 
-A traditional photographer who has written books about photography. With clients such as Habitat, Les ran a successful photography studio in London before recently moving back to the Northwest.
+Recently returned to his roots in the Northwest, Les has been a professional photographer for over 35 years. Having run his own London based commercial studio for many years, he is an expert in studio lighting and a specialist in analogue photography and black and white printing in all formats up to 8 x 10.
+
+Les is a passionate and experienced photography tutor and has conducted workshops in the UK, France, and more recently in Spain. He also has had solo exhibitions in the UK, France and Spain and is the author of seven commissioned books on photography (both analogue and digital).
+
+Les has a mission – to help make you a more skilled photographer!
 
 ## Membership to the darkroom
 
