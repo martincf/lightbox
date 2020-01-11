@@ -13,7 +13,7 @@ heroimage: hero3
 
 This year (2020) sees the introduction of the intermediate level darkroom printing workshop. A workshop designed to help darkroom users to print with a greater level of control and efficiency, to professional standards.
 
-This day-long workshop will teach you how to
+This day-long workshop will teach you how to:
 1. make ‘one-exposure’ proof sheets;
 1. use the f/Stop printing method;
 1. use two different split-grade printing methods;
@@ -46,7 +46,7 @@ Just one thing, a developed roll of black and white 35mm or medium format.
 * Part 5: creative adjustments
 * Finishing off and Q&A
 
-## About Les
+## About your tutor, Les Meehan
 
 Recently returned to his roots in the Northwest, Les has been a professional photographer for over 35 years. Having run his own London based commercial studio for many years, he is an expert in studio lighting and a specialist in analogue photography and black and white printing in all formats up to 8 x 10.
 

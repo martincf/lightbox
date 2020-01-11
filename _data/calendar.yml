@@ -95,7 +95,6 @@
     spaces: 0
 - date: 18th Jan 2020
   day: Saturday
-  month: January
   event:
     type: workshop
     time: 9:30am-12:30pm
@@ -131,6 +130,15 @@
     link: /learn/black-and-white-darkroom-printing-workshop
     price: 25
     spaces: 0
+- date: 29th Feb 2020
+  day: Saturday
+  event:
+    type: workshop
+    time: 9:30am-5:30pm
+    title: Intermediate black & white darkroom printing
+    link: /learn/intermediate-black-and-white-darkroom-printing-workshop
+    price: 55 members & students, else £75
+    spaces: 2
 - date: 7th Mar 2020
   day: Saturday
   month: March
