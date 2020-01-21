@@ -82,7 +82,7 @@
     price: 0
     spaces: na
     location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 30th January 2020
+    enddate: 28th January 2020
 # - date: 13th Jan 2020
 #   day: Saturday
 #   month: January
@@ -111,6 +111,18 @@
 #     link: /learn/black-and-white-darkroom-printing-workshop
 #     price: 25
 #     spaces: 0
+- date: 30th Jan 2020
+  day: Thursday
+  month: January
+  event:
+    type: exhibition
+    time: 7:00pm
+    title: "To Build a Home"
+    link: /gallery/to-build-a-home
+    price: 0
+    spaces: na
+    location: "Ropes & Twines, 70 Bold Street, Liverpool"
+    enddate: 10th March 2020
 # - date: 8th Feb 2020
 #   day: Saturday
 #   month: February
