@@ -30,7 +30,7 @@ Anyone who has used a traditional film camera to make images and wants to learn 
 
 ## What you will need
 
-Just one thing, a developed roll of black and white 35mm or medium format.
+Just one thing, a roll of black and white 35mm or medium format film for developing.
 
 ## Schedule for the day
 
