@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 8th December 2019 {#top}
+### Last updated 24th January 2020 {#top}
 
 Here’s my list of UK camera shops that I’ve either visited, or ordered from, or have come across over time.
 
@@ -22,7 +22,7 @@ Here’s my list of UK camera shops that I’ve either visited, or ordered from,
 - [Online stores abroad](#abroad)
 {: .nobullets}
 
-## My top picks {#toppicks}
+## Top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
 * **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have a nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
@@ -61,8 +61,8 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 ## Those I check for kit but haven’t bought from (yet!) {#notused}
 * **Leica Store Manchester (Central Manchester):** Catering for Leica cameras only, of course. The store has a tidy collection of very good quality secondhand M cameras and lenses. [https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/](https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/)
 * **Filtr (North Yorkshire):** Dan and Jack have started an online camera sales business catering for beginners  and 35mm cameras at the less expensive end of the price range. The site looks great and they're super eager to help newcomers experience the wonders of film photography. [https://www.filtrfilmcameras.co.uk](https://www.filtrfilmcameras.co.uk)   
-* **Nicholas Cameras (Camden, London):** A wide range of film camera kit at decent looking prices. [https://nicholascamera.com](https://nicholascamera.com)
-* **305C:** A wonderful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
+* **Nicholas Cameras (Camden, London):** A wide range of film camera kit but if Google reviews is anything to go by, it may be best you stay away from this place. [https://nicholascameras.com](https://nicholascameras.com)
+* **305C:** A successful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
 * **Rocky Cameras (Dorset):** a pretty big online collection. However, apparently something of a ‘sold as seen’ shop. Some pretty good prices; quality may or may not match. [http://www.rockycameras.com](http://www.rockycameras.com)
