@@ -71,18 +71,18 @@
 #     link: /learn/black-and-white-workshop
 #     price: 45
 #     spaces: 0
-- date: 5th Dec 2019
-  day: Thursday
-  month: December
-  event:
-    type: exhibition
-    time: 7:00pm
-    title: "The Kings of England"
-    link: /gallery/the-kings-of-england
-    price: 0
-    spaces: na
-    location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 28th January 2020
+# - date: 5th Dec 2019
+#   day: Thursday
+#   month: December
+#   event:
+#     type: exhibition
+#     time: 7:00pm
+#     title: "The Kings of England"
+#     link: /gallery/the-kings-of-england
+#     price: 0
+#     spaces: na
+#     location: "Ropes & Twines, 70 Bold Street, Liverpool"
+#     enddate: 28th January 2020
 # - date: 13th Jan 2020
 #   day: Saturday
 #   month: January
@@ -179,7 +179,7 @@
     title: Intermediate black & white darkroom printing
     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
     price: 75 (£55 members & students)
-    spaces: 1
+    spaces: 0
 - date: 21st Mar 2020
   day: Saturday
   event:
