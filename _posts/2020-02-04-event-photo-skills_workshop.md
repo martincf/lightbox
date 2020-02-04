@@ -22,7 +22,7 @@ This day-long workshop will teach you how to:
 
 
 ## Who should attend this workshop?
-Anyone with basic camera skills. No darkroom skills are required for this workshop. However, you'd like to take things further and learn how to develop and/or print your own work you can [browse our list of basic workshops](/learn).
+Anyone with basic camera skills. No darkroom skills are required for this workshop. However, when you'd like to take things further and learn how to develop and/or print your own work you can [browse our list of basic workshops](/learn).
 
 ## What to expect on the day
 - a class of up to twelve people – in groups of two or three;
