@@ -7,6 +7,7 @@ published: true
 permalink: /posts/where-to-buy-film-cameras-in-the-UK.html
 excerpt: A not so comprehensive list of places to buy film cameras and lenses. Some I've bought from, some I haven't (yet)
 heroimage: photo-cameras
+adsense: true
 ---
 
 ### Last updated 24th January 2020 {#top}

@@ -53,6 +53,11 @@
     {% endif %}
     <!-- END GUMROAD -->
 
+    <!-- ADSENSE -->
+    {% if page.adsense == true %}
+      <script data-ad-client="ca-pub-3388641423668347" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% endif %}
+    
   </head>
   <body class="{{ page.layout }} {% if page.title == "Gallery" %}gallery{% elsif page.tags contains "exhibition" %}gallery{% endif %}">
     <main class="wrap-page">

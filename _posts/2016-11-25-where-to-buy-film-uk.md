@@ -7,6 +7,7 @@ published: true
 permalink: /posts/where-to-buy-film-uk.html
 excerpt: An even less comprehensive list of places to buy film in the UK.
 heroimage: bg-white-01
+adsense: true
 ---
 
 ### Last updated 26th March 2019
