@@ -104,3 +104,37 @@
     max-width: 40%;
   }
 }
+blockquote {
+  margin: 2em 2em 1em;
+  background-color: lighten($red,28%);
+  padding: 1em;
+  font-style: italic;
+  position: relative;
+  @include mq(narrow) {
+    margin: 1em 1em 1em;
+    padding: .5em;
+  }
+  &:before {
+    content: "\201C";
+    position: absolute;
+    left: -30px;
+    top: 15px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    color: $red;
+  }
+  p {
+    margin-bottom: .5em;
+  }
+  cite {
+    display: block;
+    margin: 0.5em 0;
+    font-weight: 700;
+    &:before {
+      display: inline-block;
+      content: "—";
+      margin-right: .2em;
+    }
+  }
+}

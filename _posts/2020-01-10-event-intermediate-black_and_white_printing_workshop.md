@@ -25,6 +25,9 @@ This day-long workshop will teach you how to:
 ## Who should attend this workshop?
 Anyone with the basic darkroom skills i.e. capable of making a normal black & white print on resin-coated multigrade paper. If you need to learn the basics of darkroom printing first, please [browse our list of basic workshops](/learn).
 
+>  I’ve been developing and printing my own black and white material for over 40 years and always wondered why my prints were not anywhere near the standard of some of the great stuff I’d seen in books and magazines. Having been on the intermediate printing course I can now see exactly what I was doing wrong and Les has given me a set of techniques and a level of understanding to enable me to make consistently high quality prints without huge amounts of trial and (mostly) error. I thoroughly enjoyed the course and Les’s teaching style and can heartily recommend it.
+> <cite>Tim P, recent workshop attendee
+
 ## What to expect on the day
 - A class of up to two people only;
 - a relaxed atmosphere where making mistakes is expected;
