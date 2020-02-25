@@ -133,16 +133,16 @@
 #     link: /learn/black-and-white-film-development
 #     price: 25
 #     spaces: 0
-- date: 15th Feb 2020
-  day: Saturday
-  month: February
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 0
+# - date: 15th Feb 2020
+#   day: Saturday
+#   month: February
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 0
 # - date: 22nd Feb 2020
 #   day: Saturday
 #   event:
