@@ -10,24 +10,23 @@
                 <strong>Join a workshop</strong>
               </a>
             </aside>
-
+<!-- 
             <aside class="cta-item cta-exhibition buildahome">
               <a class="cta-item--link" href="/gallery/to-build-a-home">
                 <strong>Exhibition</strong>
               </a>
-              <!-- {% include sticker.html %} -->
-            </aside>
+            </aside> -->
 
           <aside class="cta-item create">
             <a class="cta-item--link" href="/darkroom-hire">
               <strong>Darkroom membership</strong>
             </a>
           </aside>
-          <aside class="cta-item gallery">
+          <!-- <aside class="cta-item gallery">
             <a class="cta-item--link" href="/gallery">
               <strong>Gallery</strong>
             </a>
-          </aside>
+          </aside> -->
           {% for post in site.posts %}
           {% if post.tags contains 'pinned' %}
           <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">

@@ -111,18 +111,18 @@
 #     link: /learn/black-and-white-darkroom-printing-workshop
 #     price: 25
 #     spaces: 0
-- date: 30th Jan 2020
-  day: Thursday
-  month: January
-  event:
-    type: exhibition
-    time: 7:00pm
-    title: "To Build a Home"
-    link: /gallery/to-build-a-home
-    price: 0
-    spaces: na
-    location: "Ropes & Twines, 70 Bold Street, Liverpool"
-    enddate: 10th March 2020
+# - date: 30th Jan 2020
+#   day: Thursday
+#   month: January
+#   event:
+#     type: exhibition
+#     time: 7:00pm
+#     title: "To Build a Home"
+#     link: /gallery/to-build-a-home
+#     price: 0
+#     spaces: na
+#     location: "Ropes & Twines, 70 Bold Street, Liverpool"
+#     enddate: 10th March 2020
 # - date: 8th Feb 2020
 #   day: Saturday
 #   month: February
@@ -152,15 +152,15 @@
 #     link: /learn/black-and-white-darkroom-printing-workshop
 #     price: 25
 #     spaces: 0
-- date: 29th Feb 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Intermediate black & white darkroom printing
-    link: /learn/intermediate-black-and-white-darkroom-printing-workshop
-    price: 75 (£55 members & students)
-    spaces: 0
+# - date: 29th Feb 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Intermediate black & white darkroom printing
+#     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
+#     price: 75 (£55 members & students)
+#     spaces: 0
 - date: 7th Mar 2020
   day: Saturday
   month: March
@@ -208,3 +208,23 @@
     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
     price: 75 (£55 members & students)
     spaces: 1
+- date: 9th May 2020
+  day: Saturday
+  month: May
+  event:
+    type: workshop
+    time: 9:30am-5:30pm
+    title: Basic black & white film processing and printing
+    link: /learn/basic-black-and-white-film-and-printing-workshop
+    price: 55 (£45 students)
+    spaces: 2
+- date: 5th Jun 2020
+  day: Saturday
+  month: June
+  event:
+    type: workshop
+    time: 9:30am-5:30pm
+    title: Basic black & white film processing and printing
+    link: /learn/basic-black-and-white-film-and-printing-workshop
+    price: 55 (£45 students)
+    spaces: 2
