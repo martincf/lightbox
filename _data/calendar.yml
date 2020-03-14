@@ -171,15 +171,15 @@
 #     link: /learn/black-and-white-film-development
 #     price: 25
 #     spaces: 0
-- date: 14th Mar 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Intermediate black & white darkroom printing
-    link: /learn/intermediate-black-and-white-darkroom-printing-workshop
-    price: 75 (£55 members & students)
-    spaces: 0
+# - date: 14th Mar 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Intermediate black & white darkroom printing
+#     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
+#     price: 75 (£55 members & students)
+#     spaces: 0
 - date: 21st Mar 2020
   day: Saturday
   event:
