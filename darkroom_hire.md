@@ -26,35 +26,34 @@ To use the darkroom you will need to pay for a monthly membership. You can pay f
 Both memberships will allow you to use the darkroom when it's available. General availability is listed in the table below.
 
 <div class="membership-cta-wrap">
+
+<div class="membership-cta">
+  <h1 class="membership-cta-title">Daily</h1>
+  <ul class="membership-cta-list">
+    <li>&pound;15 per day</li>
+    <li>Pay for a day only via <a href="http://www.gocardless.com">GoCardless</a></li>
+    <li>A full day only from 9.00am – 9.00pm, or anything in between.</li>
+  </ul>
+</div>
+
   <div class="membership-cta">
     <h1 class="membership-cta-title">Monthly</h1>
     <ul class="membership-cta-list">
       <li>&pound;30 per month</li>
-      <li>Pay by the month via <a href="http://www.gocardless.com">GoCardless</a></li>
+      <li>Pay for a month only via <a href="http://www.gocardless.com">GoCardless</a></li>
       <li>As much reasonable access as you need and is available</li>
       <li>Equivalent to &pound;360 annually</li>
     </ul>
-    <!-- <button class="membership-cta-book">
-      <a href="#">£15 per month</a>
-    </button> -->
-    <!-- <p class="membership-cta-footnote">
-      Equivalent to £180 annually
-    </p> -->
   </div>
+
   <div class="membership-cta">
     <h1 class="membership-cta-title">Annual</h1>
     <ul class="membership-cta-list">
       <li>&pound;12.50 per month, paid monthly</li>
       <li>12 monthly payments setup via <a href="http://www.gocardless.com">GoCardless</a></li>
       <li>As much reasonable access as you need and is available</li>
-      <li>Equivalent to &pound;150 annually</li>
+      <li>Equals &pound;150 annually</li>
     </ul>
-    <!-- <button class="membership-cta-book">
-      <a href="#">£10 per month</a>
-    </button> -->
-    <!-- <p class="membership-cta-footnote">
-      Equivalent to £120 annually
-    </p> -->
   </div>
 </div>
 
