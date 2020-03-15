@@ -30,7 +30,7 @@ Both memberships will allow you to use the darkroom when it's available. General
 <div class="membership-cta">
   <h1 class="membership-cta-title">Daily</h1>
   <ul class="membership-cta-list">
-    <li>&pound;15 per day</li>
+    <li>&pound;20 per day</li>
     <li>Pay for a day only via <a href="http://www.gocardless.com">GoCardless</a></li>
     <li>A full day only from 9.00am – 9.00pm, or anything in between.</li>
   </ul>
