@@ -6,10 +6,14 @@ date: 2020-01-10
 published: true
 permalink: /learn/film-studio-portrait-workshop
 excerpt: Learn how to shoot studio portraiture using your film camera
-heroimage: hero3
+heroimage: workshop-portrait4
 ---
 
 **Learn how to traditional shoot studio portraiture using your film camera – from a professional**
+
+## First date announced: Saturday 13th June 2020
+
+[Request a place, £95 per person](mailto:info@lightbox.photo?subject=Booking%20request%20-%20{{ page.title }})
 
 This year (2020) sees the introduction of the traditional film studio portrait workshop. A workshop designed to teach attendees how to setup lighting for portraiture and correctly expose for film (35mm or medium format on the day).
 

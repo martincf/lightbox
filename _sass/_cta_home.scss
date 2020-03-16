@@ -141,8 +141,30 @@
       max-width: 85%;
     }
   }
-
 }
+.hero {
+  width: 100%;
+  margin-right: 0;
+  background-image: url(/assets/images/workshop-portrait1.jpg);
+  @include mq(small-smartphone) {
+    padding-bottom: 25px;
+
+  }
+  .cta-item--link {
+    @include mq(small-smartphone) {
+      min-height: 100px;
+    }
+  }
+  .sticker {
+    @include mq(small-smartphone) {
+      right: 0;
+      top: 0;
+      position: static;
+      margin: -1em auto 1em;
+    }
+  }
+}
+
 // .cta-item--desc {
 //   position: absolute;
 //   // bottom: 0;
