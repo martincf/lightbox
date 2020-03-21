@@ -180,79 +180,79 @@
 #     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
 #     price: 75 (£55 members & students)
 #     spaces: 0
-- date: 21st Mar 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 0
-- date: 4th Apr 2020
-  day: Saturday
-  month: April
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 0
-- date: 25th Apr 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Intermediate black & white darkroom printing
-    link: /learn/intermediate-black-and-white-darkroom-printing-workshop
-    price: 75 (£55 members & students)
-    spaces: 1
-- date: 9th May 2020
-  day: Saturday
-  month: May
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 0
-- date: 6th Jun 2020
-  day: Saturday
-  month: June
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 1
-- date: 13th June 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: "NEW: Traditional film studio portraiture"
-    link: /learn/film-studio-portrait-workshop
-    price: 95
-    spaces: 12
-- date: 27th Jun 2020
-  day: Saturday
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 1
-- date: 11th Jul 2020
-  day: Saturday
-  month: July
-  event:
-    type: workshop
-    time: 9:30am-5:30pm
-    title: Basic black & white film processing and printing
-    link: /learn/basic-black-and-white-film-and-printing-workshop
-    price: 55 (£45 students)
-    spaces: 2
+# - date: 21st Mar 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 0
+# - date: 4th Apr 2020
+#   day: Saturday
+#   month: April
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 0
+# - date: 25th Apr 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Intermediate black & white darkroom printing
+#     link: /learn/intermediate-black-and-white-darkroom-printing-workshop
+#     price: 75 (£55 members & students)
+#     spaces: 0
+# - date: 9th May 2020
+#   day: Saturday
+#   month: May
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 0
+# - date: 6th Jun 2020
+#   day: Saturday
+#   month: June
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 1
+# - date: 13th June 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: "NEW: Traditional film studio portraiture"
+#     link: /learn/film-studio-portrait-workshop
+#     price: 95
+#     spaces: 12
+# - date: 27th Jun 2020
+#   day: Saturday
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 1
+# - date: 11th Jul 2020
+#   day: Saturday
+#   month: July
+#   event:
+#     type: workshop
+#     time: 9:30am-5:30pm
+#     title: Basic black & white film processing and printing
+#     link: /learn/basic-black-and-white-film-and-printing-workshop
+#     price: 55 (£45 students)
+#     spaces: 2
