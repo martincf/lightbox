@@ -15,7 +15,7 @@
 }
 .navigation-list-link {
   display: inline-block;
-  background-color: rgba(0,0,0,0.25);
+  background-color: transparentize($black,0.25);
   padding: .2em .5em;
   margin: 0 0 .15em 0;
   font-weight: 700;

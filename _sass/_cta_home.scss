@@ -5,7 +5,7 @@
   padding: 40px 25px;
   margin: 50px 0;
   color: white;
-  background-color: transparentize($black, 0.9);
+  background-color: transparentize($black, 0.25);
   &:after {
     content: "";
     display: table;
