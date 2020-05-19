@@ -45,16 +45,16 @@ body {
   background-image: url(/assets/images/darkroom-safelight34.jpg);
 }
 .home.test {
-  
+
 }
 .home {
   background: #fff url(/assets/images/bg-film-red.jpg) 0 0 no-repeat;
   background-attachment: fixed;
   background-size: cover;
   @include mq(small-smartphone) {
-   background-size: 500px;
+   // background-size: 500px;
    background-position: top center;
-   background-attachment: local;
+   background-attachment: cover;
    }
 }
 .gallery {
