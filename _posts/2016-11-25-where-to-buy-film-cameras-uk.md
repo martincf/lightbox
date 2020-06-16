@@ -10,7 +10,7 @@ heroimage: photo-cameras
 adsense: true
 ---
 
-### Last updated 5th June 2020 {#top}
+### Last updated 16th June 2020 {#top}
 
 Here’s my list of UK camera shops that I’ve either visited, or ordered from, or have come across over time.
 
@@ -22,13 +22,17 @@ Here’s my list of UK camera shops that I’ve either visited, or ordered from,
 - [Online stores abroad](#abroad)
 {: .nobullets}
 
+#### Looking for a specific camera model?
+A new service has been launched online forthe UK market. You can use their search to find an item across all of the list below, at [Used Lens](https://usedlens.co.uk/).
+
+
 ## Top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
 * **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have a nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. More recently have split the shop into two locations, one being a dedicated Leica store close by. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com) and [https://apertureleica.com/pre-owned-leica/](https://apertureleica.com/pre-owned-leica/)
-* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home). 
+* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home).
 * **London Camera Exchange, (UK-wide):** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
 
 ## London {#london}
