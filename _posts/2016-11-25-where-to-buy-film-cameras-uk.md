@@ -22,9 +22,6 @@ Here’s my list of UK camera shops that I’ve either visited, or ordered from,
 - [Online stores abroad](#abroad)
 {: .nobullets}
 
-#### Looking for a specific camera model?
-A new service has been launched online forthe UK market. You can use their search to find an item across all of the list below, at [Used Lens](https://usedlens.co.uk/).
-
 
 ## Top picks {#toppicks}
 
@@ -83,6 +80,10 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 ## Stores abroad who are worth checking out {#abroad}
 
 * **Kamerastore (Finland)** I'm always a bit confused by how many different sites these guys have, but Kamerastore are very active in the film camera world for repairs and sales. The main one linked here has an extensive range of kit, well described. I've bought Pentax 6x7 extension tubes from them and they arrived pretty fast, for a reasonable delivery price. [https://kameratori.fi/en](https://kameratori.fi/en)
+
+## Looking for a specific camera model?
+A new service has been launched online forthe UK market. You can use their search to find an item across all of the list below, at [Used Lens](https://usedlens.co.uk/).
+
 
 [Back to top](#top)
 {: .backtotop}
