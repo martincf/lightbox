@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [blog, pinned]
+tags: [blog]
 title: Inspirational photography videos
 date: 2019-04-24
 published: true

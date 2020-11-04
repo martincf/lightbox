@@ -10,13 +10,17 @@ heroimage: photo-cameras
 adsense: true
 ---
 
-### Last updated 16th June 2020 {#top}
+### Last updated 4th November 2020 {#top}
 
-Here’s my list of UK camera shops that I’ve either visited, or ordered from, or have come across over time.
+<article class="advertise">
+  <h1>Advertise your camera store here!</h1>
+  <p>This blog post attracts over 3,500 page views per month. Help fund a community darkroom by advertising your camera or film supply store here.</p>
+  <p><a href="mailto:info@lightbox.photo">Email me and let's strike a deal</a></p>
+</article>
 
 #### Quick links
 
-- [My top picks](#toppicks)
+- [Top picks](#toppicks)
 - [London](#london)
 - [Rest of the UK](#restofuk)
 - [Online stores abroad](#abroad)
@@ -26,6 +30,7 @@ Here’s my list of UK camera shops that I’ve either visited, or ordered from,
 ## Top picks {#toppicks}
 
 These are the camera sales companies I've bought from a few times and trust very much. I judge them by the quality of their descriptions, customer service, quality of their website, and, price (I don't mean cheap, I mean not overpricing!)
+
 * **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have a nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
 * **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. More recently have split the shop into two locations, one being a dedicated Leica store close by. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com) and [https://apertureleica.com/pre-owned-leica/](https://apertureleica.com/pre-owned-leica/)
@@ -48,20 +53,21 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Peter Loy (London):** An afternoon can be spent just browsing the collection of stock on this website. Lots of rarities. Seems to be mail/tel order only. [http://www.peterloy.com](http://www.peterloy.com)
 * **Richard Caplan (Pall Mall, London):** Another mainly Leica, but also Hasselblad and FujiFilm. Another well respected 'red dot' dealer. [http://www.richardcaplan.co.uk](http://www.richardcaplan.co.uk)
 * **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had variable service from MW Classic, mostly not good. It appears I'm not the only one if you read Google reviews, too. Consider purchasing from MW with caution. [https://www.mwclassic.com](https://www.mwclassic.com)
+* **Nicholas Cameras (Camden, London):** A wide range of film camera kit but if Google reviews is anything to go by, it may be best you stay away from this place. [https://nicholascameras.com](https://nicholascameras.com)
 
 [Back to top](#top)
 {: .backtotop}
 
 ## Rest of the UK {#restofuk}
+
+* **Latent Image (Shrewsbury):** Quality over quantity. A nice average-sized selection of 35mm, medium and large format cameras. Careful, lots of items are marked as 'out of stock' when browsing, which can throw you off a bit (especially when you wanted that thing!) [https://www.tli-processing.com/](https://www.tli-processing.com/)
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. I’ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Camley Photographic (Hove):** A good collection of some decent kit. They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products but no images! [http://mifsuds.com](http://mifsuds.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 * **Leica Store Manchester (Central Manchester):** Catering for Leica cameras only, of course. The store has a tidy collection of very good quality secondhand M cameras and lenses. [https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/](https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/)
-
 * **Filtr (North Yorkshire):** Dan and Jack have started an online camera sales business catering for beginners  and 35mm cameras at the less expensive end of the price range. The site looks great and they're super eager to help newcomers experience the wonders of film photography. [https://www.filtrfilmcameras.co.uk](https://www.filtrfilmcameras.co.uk)   
-* **Nicholas Cameras (Camden, London):** A wide range of film camera kit but if Google reviews is anything to go by, it may be best you stay away from this place. [https://nicholascameras.com](https://nicholascameras.com)
 * **305C:** A successful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)

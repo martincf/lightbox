@@ -5,7 +5,17 @@
     </div>
 
         <section class="cta-wrap">
-
+          {% for post in site.posts %}
+          {% if post.tags contains 'pinned' %}
+          <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
+            <a class="cta-item--link" href="{{ post.url }}">
+              <strong>
+                {{ post.title }}
+              </strong>
+            </a>
+          </aside>
+          {% endif %}
+          {% endfor %}
           <!-- <section class="cta-item hero">
             <a class="cta-item--link" href="/learn/film-studio-portrait-workshop">
               <strong>Traditional film studio portraiture</strong>
@@ -40,17 +50,7 @@
               <strong>Gallery</strong>
             </a>
           </aside> -->
-          {% for post in site.posts %}
-          {% if post.tags contains 'pinned' %}
-          <aside class="cta-item latest" style="background-image: url({{ site.baseurl }}/assets/images/{{ post.heroimage }}.jpg)">
-            <a class="cta-item--link" href="{{ post.url }}">
-              <strong>
-                {{ post.title }}
-              </strong>
-            </a>
-          </aside>
-          {% endif %}
-          {% endfor %}
+
         </section>
 
     {% include footer.html %}
