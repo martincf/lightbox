@@ -61,6 +61,7 @@ All of the below are easy to get to over a couple of hours. Very useful if youâ€
 ## Rest of the UK {#restofuk}
 
 * **Latent Image (Shrewsbury):** Quality over quantity. A nice average-sized selection of 35mm, medium and large format cameras. Careful, lots of items are marked as 'out of stock' when browsing, which can throw you off a bit (especially when you wanted that thing!) [https://www.tli-processing.com/](https://www.tli-processing.com/)
+* **Camera House (Staffordshire):** An interesting camera seller that deals in prop hire as well as selling camera gear. Not the biggest or best collection, but a few gems can be found. [https://www.camera-house.co.uk/index.php](https://www.camera-house.co.uk/index.php)
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. Iâ€™ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Camley Photographic (Hove):** A good collection of some decent kit. They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
