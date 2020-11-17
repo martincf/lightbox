@@ -43,7 +43,7 @@ All of the below are easy to get to over a couple of hours. Very useful if youâ€
 
 * **Mr Cad, nr Victoria Station, London:** Worth the visit if only to speak to Alex, Mr Cad, himself. A wonderfully knowledgeable owner with an amazing collection. [http://www.mrcad.co.uk](http://www.mrcad.co.uk)
 * **Camera World, nr Oxford Rd, London:** A small collection, but worth a look. Friendly helpful staff as well. [https://www.cameraworld.co.uk](https://www.cameraworld.co.uk)
-* **Vintage Camera Hut (London):** A camera stall in London and (currently) an Etsy shop with some decent kit: [https://www.etsy.com/uk/shop/VintageCameraHut](https://www.etsy.com/uk/shop/VintageCameraHut)
+* **Vintage Camera Hut (London):** A camera stall in London and (currently) an Etsy shop with some decent kit: [https://www.vintagecamerahut.com/](https://www.vintagecamerahut.com/)
 * **The Classic Camera, nr British Museum, London:** Mainly Leica but sell other brands too. Some decent priced bodies that look well chosen. I previously bought a Leica M4-2 and lens from these guys. Service was great, so was the Leica! [http://theclassiccamera.com](http://theclassiccamera.com)
 * **Teamwork, nr Tottenham Court Rd, London:** mainly high spec large and medium format kit. A shop mainly catering for pro photographers. Nice staff. [http://www.teamworkphoto.com](http://www.teamworkphoto.com)
 * **Camera City, nr British Museum, London:** A shop I chanced across, but has a really impressive collection of mainly 35mm film cameras. Priced high though. [http://cameracity.co.uk](http://cameracity.co.uk)
