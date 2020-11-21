@@ -16,8 +16,8 @@
     color: $red;
     text-align: center;
     @include mq(small-smartphone) {
-      margin-top: 0;
-      text-align: left;
+      margin: 10px auto 25px;
+      text-align: center;
       font-size: 24px !important;
     }
   }
@@ -30,7 +30,7 @@
   padding: 50px 150px;
   @include mq(small-smartphone) {
     // display: block;
-    padding: 0;
+    padding: 0 25px;
     align-items: flex-start;
 
   }
@@ -67,7 +67,7 @@
   background-color: transparentize($red, 0.75);
   @include mq(small-smartphone) {
     clear: left;
-    margin: 50px 0;
+    margin: 50px 0 0;
 
   }
 }
