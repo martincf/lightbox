@@ -6,60 +6,34 @@ layout: list
 
   <h1 class="content-title">Workshops & events</h1>
 
-  <h2>Darkroom workshops and the Coronavirus pandemic</h2>
+  <h2>Booking details</h2>
+  <p>Your booking is only confirmed once you've paid. I'll send a link to pay online as soon as I've received your request. I'm at liberty to give the booking to someone else if you haven't paid for a few weeks and not responded to emails.</p>
+  <p>If a booking is cancelled up to 7 days before the workshop date, you will receive a full refund.</p>
 
-  <h3>New workshops</h3>
-  <p>Whilst the UK government advises the public to social distance, there will be no new darkroom workshops scheduled until it's deemed safe to do so.</p>
-
-  <h3>Already booked upcoming workshops</h3>
-  <p>If you've booked onto a recent upcoming workshop, you will have received an email with a suggested reschedule date later in the year. Contact me on the details below if you've not received the email.</p>
-
-  <h3>Darkroom hire for members</h3>
-  <p>As of the week commencing 8th June 2020, the darkroom will be available for use for members once more. Members have been emailed with guidelines regarding proper conduct in light of the Covid-19 government guidelines.</p>
-  <!-- <h2>Booking details</h2>
-  <p>Please note, your booking is only confirmed once you've paid. I'll send a link to pay online as soon as I've received your request. I'm at liberty to give the booking to someone else if you haven't paid for a few weeks and not responded to emails.</p>
-  <p>If a booking is cancelled up to 7 days before the workshop date, you will receive a full refund.</p> -->
-
-  <!-- <h2>Gift voucher holders</h2>
-  <p>If you have been gifted a darkroom voucher, you can also book yourself on to one of the available dates below. Alternatively, <a href="mailto:info@lightbox.photo">get in touch</a> to arrange an different date.</p> -->
-
-  <!-- {% assign events = site.data.calendar %} -->
   {% for event in site.data.calendar %} <!-- Get everything in the calendar file -->
     <h3 class="event-list-month">{{ event.month }}</h3> <!-- print the month -->
     <ul class="post-list events-list">
-
-      {% if event.event.type == "exhibition" %}
-      <li class="post-list-item events-list-item events-list-item-exhibition">
-        {% else %}
       <li class="post-list-item events-list-item">
-        {% endif %}
         <div class="event-list-item-dateinfo">
           <span class="event-list-item-day">{{ event.day }}</span>
           <span class="event-list-item-date">{{ event.date }}</span>
           <span class="event-list-item-time">{{ event.event.time }}</span>
         </div>
         <strong class="event-type">{{ event.event.type }}</strong>
-
         <a href="{{ event.event.link }}">
-          <!-- <img src="{{ site.baseurl }}/assets/images/{{ event.event.image }}.jpg" alt="" /> -->
           <span>{{ event.event.title }}</span>
         </a>
-        {% if event.event.type == "exhibition" %}
-        <strong>{{ event.event.location }}</strong>
-        {% else %}
+
         <strong>&pound;{{ event.event.price }} per person ({{ event.event.spaces }}
-        {% endif %}
 
 
-          {% if event.event.spaces == 1 and event.event.spaces !="na" %}
+          {% if event.event.spaces == 1 %}
             space left)</strong>
-          {% elsif event.event.spaces !="na" %}
+          {% elsif event.event.spaces != 1 %}
             spaces left)</strong>
           {% endif %}
 
-        {% if event.event.spaces == "na" %}
-          <em class="event-enddate">Until {{ event.event.enddate }}
-        {% elsif event.event.spaces == 0 %}
+        {% if event.event.spaces == 0 %}
           <button class="soldout">All booked up!</button>
         {% elsif event.event.spaces > 0 %}
           <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
