@@ -4,56 +4,52 @@
         <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p> -->
         {{ content }}
 
-        <!-- Load Stripe.js on your website. -->
-        <script src="https://js.stripe.com/v3"></script>
+    <!-- Load Stripe.js on your website. -->
+    <script src="https://js.stripe.com/v3"></script>
 
-        <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-        <button
-          style="background-color: red; color: white; padding: 10px;"
-          id="sku_Grub4ONApQnZ3k"
-          class="checkout-button"
-          role="link"
-          type="button"
-        >
-          Checkout
-        </button>
+    <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+    <aside class="payment-device">
+    <button
+      id="checkout-button-sku_Grub4ONApQnZ3k"
+      role="link"
+      type="button"
+    >
+      Pay £45 booking now
+    </button>
+        <img src="{{ baseurl }}/assets/images/logo-stripe.png" class="payment-device--stripe" alt="Powered by Stripe" />
+    <div id="error-message"></div>
+    </aside>
 
-        <div id="error-message"></div>
+    <script>
+    (function() {
+      var stripe = Stripe('pk_test_5xNHxZLFcgol6dLmFRw4ibRG');
 
-        <script>
-        (function() {
-          var stripe = Stripe('pk_test_5xNHxZLFcgol6dLmFRw4ibRG');
-
-          // var checkoutButton = document.getElementById('checkout-button-sku_Grub4ONApQnZ3k');
-          var checkoutButton = document.getElementsByClassName('checkout-button')[0];
-          checkoutButton.addEventListener('click', function () {
-            // When the customer clicks on the button, redirect
-            // them to Checkout.
-            stripe.redirectToCheckout({
-              submitType: 'pay',
-              // lineItems: [{price: 'sku_Grub4ONApQnZ3k', quantity: 1}],
-              lineItems: [{price: (event.target.id), quantity: 1}],
-
-              mode: 'payment',
-              // Do not rely on the redirect to the successUrl for fulfilling
-              // purchases, customers may not always reach the success_url after
-              // a successful payment.
-              // Instead use one of the strategies described in
-              // https://stripe.com/docs/payments/checkout/fulfill-orders
-              successUrl: 'http://lightbox.photo/success',
-              cancelUrl: 'http://lightbox.photo/canceled',
-            })
-            .then(function (result) {
-              if (result.error) {
-                // If `redirectToCheckout` fails due to a browser or network
-                // error, display the localized error message to your customer.
-                var displayError = document.getElementById('error-message');
-                displayError.textContent = result.error.message;
-              }
-            });
-          });
-        })();
-        </script>
+      var checkoutButton = document.getElementById('checkout-button-sku_Grub4ONApQnZ3k');
+      checkoutButton.addEventListener('click', function () {
+        // When the customer clicks on the button, redirect
+        // them to Checkout.
+        stripe.redirectToCheckout({
+          lineItems: [{price: 'sku_Grub4ONApQnZ3k', quantity: 1}],
+          mode: 'payment',
+          // Do not rely on the redirect to the successUrl for fulfilling
+          // purchases, customers may not always reach the success_url after
+          // a successful payment.
+          // Instead use one of the strategies described in
+          // https://stripe.com/docs/payments/checkout/fulfill-orders
+          successUrl: 'http://lightbox.photo/thanks',
+          cancelUrl: 'http://lightbox.photo/canceled',
+        })
+        .then(function (result) {
+          if (result.error) {
+            // If `redirectToCheckout` fails due to a browser or network
+            // error, display the localized error message to your customer.
+            var displayError = document.getElementById('error-message');
+            displayError.textContent = result.error.message;
+          }
+        });
+      });
+    })();
+    </script>
 
 
       </article>
