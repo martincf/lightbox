@@ -2,9 +2,10 @@
 .home-intro {
   clear: both;
   position: relative;
-  padding: 40px 25px;
-  margin: 50px 0;
+  padding: 20px 5px;
+  margin: 25px 0 0;
   color: white;
+  transform: rotate(-3deg);
   background-color: transparentize($black, 0.25);
   &:after {
     content: "";
@@ -12,9 +13,11 @@
     clear: both;
   }
   p {
-    font-size: 32px;
+    font-size: 24px;
     line-height: 1.25;
     margin: 0;
+    text-align: center;
+    font-weight: 900;
   }
   .sticker {
     left: -160px;

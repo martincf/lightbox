@@ -259,6 +259,7 @@
 - date: 9th Jan 2021
   day: Saturday
   month: January
+  sku: sku_Grub4ONApQnZ3k
   event:
     type: workshop
     time: 9am-12pm
@@ -268,6 +269,7 @@
     spaces: 2
 - date: 23rd Jan 2021
   day: Saturday
+  sku: TEST
   event:
     type: workshop
     time: 9am-12pm

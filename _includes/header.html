@@ -58,6 +58,11 @@
       <script data-ad-client="ca-pub-6504038250822496" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {% endif %}
 
+    <!-- NOINDEX -->
+    {% if page.searchindexing == false %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+
   </head>
   <body class="{{ page.layout }} {% if page.title == "Gallery" %}gallery{% elsif page.tags contains "exhibition" %}gallery{% endif %}">
     <main class="wrap-page">

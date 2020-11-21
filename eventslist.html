@@ -3,7 +3,6 @@ title: Workshops and events
 permalink: /learn/
 layout: list
 ---
-
   <h1 class="content-title">Workshops & events</h1>
 
   <h2>Booking details</h2>
@@ -36,12 +35,15 @@ layout: list
         {% if event.event.spaces == 0 %}
           <button class="soldout">All booked up!</button>
         {% elsif event.event.spaces > 0 %}
-          <button class="event-price-book"><a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a></button>
+          <button class="event-price-book" role="link" type="button">
+            <a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a>
+          </button>
         {% endif %}
       </li>
     </ul>
 
   {% endfor %}
+  <div id="error-message"></div>
 
 
 <p>More events to be announced soon. <a href="mailto:info@lightbox.photo">Email me</a> if you have a suggestion for a workshop.</p>
