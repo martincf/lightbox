@@ -2,7 +2,7 @@
 .payment-device {
   margin: 25px 100px;
   button {
-    background-color: $red;
+    background-color: darken($red, 20%);
     color: white;
     padding: 10px 15px;
     border-radius:4px;
@@ -11,12 +11,12 @@
     @include transition();
     &:hover {
       transform: scale(1.05);
-      background-color: darken($red, 15%);
+      background-color: darken($red, 10%);
     }
   }
 }
 .payment-device--stripe {
-  max-height: 40px;
+  max-height: 30px;
   vertical-align: middle;
   opacity: 0.35;
   margin: 0 10px;

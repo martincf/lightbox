@@ -1,8 +1,8 @@
 ---
-title: Workshop payment (one booking)
-sku: sku_IQtxiS4S23zeRc
-price: 45
-permalink: /payment-one/
+title: Workshop payment (two bookings)
+sku: sku_IQtxAOhwYOgJIp
+price: 85
+permalink: /payment-two/
 bgcolour: dark
 layout: payment
 searchindexing: false
