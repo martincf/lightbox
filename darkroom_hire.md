@@ -122,17 +122,17 @@ Lightbox darkroom will be open 7 days a week, between 9:00am and 9:00pm, you wil
 <section class="highlight" id="induction">
 
   <h1 class="highlight-title">Darkroom induction</h1>
-  <p>An induction is simply our <a href="/learn/basic-black-and-white-film-and-printing-workshop">Basic black & white film processing and printing workshop</a> and can be booked on the <a href="/learn/">Workshop & Events</a> page. Each workshop session can accommodate a maximum of two attendees.</p>
+  <p>An induction is the basic black & white film processing and printing workshop and can be booked on the <a href="/learn/">Workshop</a> page. Each workshop session can accommodate a maximum of two attendees. We can accept just the printing workshop as an induction if you plan to or already process your film at home.</p>
 
   <p>During the workshop we'll cover:</p>
   <ul>
     <li>darkroom and building safety procedures;</li>
-    <li>how to use chemicals to develop film;</li>
-    <li>how to use the enlargers;</li>
-    <li>how to use chemicals to print a photograph.</li>
+    <li>how to use chemicals to develop film (film workshop only);</li>
+    <li>how to use the enlargers (print workshop only);</li>
+    <li>how to use chemicals to print a photograph (print workshop only).</li>
   </ul>
 
-  <p>All you need to bring for the session is a roll of black and white film to develop and print from; your ID, proof of address (a recent household bill), and payment.</p>
+  <p>Please ensure you bring your ID, proof of address (a recent household bill) for insurance purposes.</p>
 
   <h2>Booking an induction</h2>
   To attend a workshop, please book on the <a href="/learn/">events page</a>.

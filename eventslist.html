@@ -1,13 +1,9 @@
 ---
-title: Workshops and events
+title: Workshops
 permalink: /learn/
 layout: list
 ---
-  <h1 class="content-title">Workshops & events</h1>
-
-  <h2>Booking details</h2>
-  <p>Your booking is only confirmed once you've paid. I'll send a link to pay online as soon as I've received your request. I'm at liberty to give the booking to someone else if you haven't paid for a few weeks and not responded to emails.</p>
-  <p>If a booking is cancelled up to 7 days before the workshop date, you will receive a full refund.</p>
+  <h1 class="content-title">Workshops</h1>
 
   {% for event in site.data.calendar %} <!-- Get everything in the calendar file -->
     <h3 class="event-list-month">{{ event.month }}</h3> <!-- print the month -->
@@ -43,7 +39,11 @@ layout: list
     </ul>
 
   {% endfor %}
-  <div id="error-message"></div>
 
 
-<p>More events to be announced soon. <a href="mailto:info@lightbox.photo">Email me</a> if you have a suggestion for a workshop.</p>
+  <h2>Booking details</h2>
+  <p>Your booking is only confirmed once you've paid. I'll send a link to pay online as soon as I've received your request. I'm at liberty to give the booking to someone else if you haven't paid for a few weeks and not responded to emails.</p>
+  <p>If a booking is cancelled up to 7 days before the workshop date, you will receive a full refund.</p>
+
+  <h3>COVID-19</h3>
+  <p>We expect rules to be relaxed enough to allow these dates to go ahead in the new year. However, we reserve the right to change the dates if lockdown rules are tightened. The usual precautions must be taken on the day and will be communicated separatly should you make a booking.</p>
