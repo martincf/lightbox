@@ -4,6 +4,7 @@
         <!-- <p class="photo"><img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}.jpg" alt="" /></p> -->
         {{ content }}
 
+{% if page.paymentrequest == true %}
     <!-- Load Stripe.js on your website. -->
     <script src="https://js.stripe.com/v3"></script>
 
@@ -59,6 +60,6 @@
     <h3>COVID-19</h3>
     <p>We expect rules to be relaxed enough to allow these dates to go ahead in the new year. However, we reserve the right to change the dates if lockdown rules dictate. The usual precautions must be taken on the day and will be communicated separatly should you make a booking.</p>
 
-
+{% endif %}
       </article>
     {% include footer.html %}
