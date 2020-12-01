@@ -20,7 +20,12 @@ So, here's a list of online and London-based film sellers. Assume each entry cov
 
 ## Online
 
-[![Parallax Photographic](/assets/images/banner-parallax.jpg)](https://parallaxphotographic.coop/product-category/film/#banner-parallax)
+<article class="advertise">
+  <h1>Advertise your film store here!</h1>
+  <p>This blog post attracts over 1,500 page views per month. Help fund a community darkroom by advertising your film supply store here.</p>
+  <p><a href="mailto:info@lightbox.photo">Email me and let's strike a deal</a></p>
+</article>
+
 
 When it comes to buying online, I'm normally going for who's selling the cheapest and delivery cost. These are the sites I've ordered from at good prices, and received good customer service and delivery.
 
