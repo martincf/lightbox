@@ -10,7 +10,7 @@ heroimage: photo-cameras
 adsense: true
 ---
 
-### Last updated 4th November 2020 {#top}
+### Last updated 10th December 2020 {#top}
 
 <article class="advertise">
   <h1>Advertise your camera store here!</h1>
@@ -33,9 +33,10 @@ These are the camera sales companies I've bought from a few times and trust very
 
 * **The Real Camera Company (Liverpool & Manchester):** Recently opened in Liverpool, The Real Camera Co. have been in Manchester for some time. The lads in Liverpool are lovely people and they have a nice little collection. [http://www.realcamera.co.uk](http://www.realcamera.co.uk)
 * **Wy Cameras (Leeds):** A wonderful and diverse online collection of cameras and lenses. I’ve bought many things from them, always in excellent condition and a very good price. [http://wycameras.com](http://wycameras.com)
-* **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. More recently have split the shop into two locations, one being a dedicated Leica store close by. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com) and [https://apertureleica.com/pre-owned-leica/](https://apertureleica.com/pre-owned-leica/)
-* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com/home](http://www.ffordes.com/home).
+* **Aperture, nr Tottenham Court Rd, London:** Totally dedicated to buying, selling, and fixing film cameras. More recently have split the shop into two locations, one being a dedicated Leica store close by. Also has a smaller shop near the British Museum, with a cafe, camera museum, and selling mainly Hasselblad kit. [http://www.apertureuk.com](http://www.apertureuk.com) and [https://apertureleica.com](https://apertureleica.com/pre-owned-leica/)
+* **Ffordes (Scotland):** An extensive collection of used (and new) kit. If you're struggling to find anything specific, you probably haven't browsed Ffordes's website yet. [http://www.ffordes.com](http://www.ffordes.com/home).
 * **London Camera Exchange, (UK-wide):** A fairly large network of city-based camera resellers with a great secondhand section (on their website). A good deal can normally be had if you keep an eye out here. [https://www.lcegroup.co.uk](https://www.lcegroup.co.uk)
+* **Ian B Foto (Hertfordshire):** Ian B Foto may be the best kept secret if you're after Bronica, Mamiya, or Fujifilm film camera gear. Ian specialises in the manufacturers and kit he knows intimately. So much so he has a downloads section of manuals and leaflets that put the renowned [Butkus website](https://www.butkus.org/chinon/index.html) to shame (for Bronica, Mamiya, and Fujifilm of course). [http://ianbfoto.com](http://ianbfoto.com/home.php)
 
 ## London {#london}
 
