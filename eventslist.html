@@ -29,7 +29,7 @@ layout: list
           {% endif %}
 
         {% if event.event.spaces == 0 %}
-          <button class="soldout">All booked up!</button>
+          <button class="soldout">Reserved!</button>
         {% elsif event.event.spaces > 0 %}
           <button class="event-price-book" role="link" type="button">
             <a href="mailto:info@lightbox.photo?subject=Booking%20request:%20{{ event.date }}%20-%20{{ event.event.title }}">Request booking</a>
