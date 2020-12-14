@@ -32,7 +32,11 @@
         // them to Checkout.
         stripe.redirectToCheckout({
           lineItems: [{price: '{{ page.sku }}', quantity: 1}],
-          mode: 'payment',
+          {% if page.mode == 'payment' %}
+            mode: 'payment',
+          {% elsif page.mode == 'subscription' %}
+            mode: 'subscription',
+          {% endif %}
           // Do not rely on the redirect to the successUrl for fulfilling
           // purchases, customers may not always reach the success_url after
           // a successful payment.

@@ -7,6 +7,7 @@ bgcolour: dark
 layout: payment
 searchindexing: false
 paymentrequest: true
+mode: payment
 ---
 
 ## Discount applied (£160, was £180)

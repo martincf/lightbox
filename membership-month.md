@@ -7,6 +7,7 @@ bgcolour: dark
 layout: payment
 searchindexing: false
 paymentrequest: true
+mode: subscription
 ---
 
 Please use the button below to set up your single month membership by debit or credit card. Once I've received confirmation of payment set up, I'll email you to confirm the membership and set up your account for the online darkroom booking system.
