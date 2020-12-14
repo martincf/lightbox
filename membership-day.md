@@ -1,6 +1,6 @@
 ---
 title: Membership payment (one day access only)
-sku: sku_IQtxiS4S23zeRc
+sku: price_1Hq2etAITBhrRyxG2uWTd1nE
 price: 20
 permalink: /membership-day/
 bgcolour: dark

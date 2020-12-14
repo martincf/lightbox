@@ -1,6 +1,6 @@
 ---
 title: Membership payment (one month only)
-sku: sku_IQtxiS4S23zeRc
+sku: price_1Hq2etAITBhrRyxGZbxnS1Rt
 price: 30
 permalink: /membership-month/
 bgcolour: dark

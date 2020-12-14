@@ -1,6 +1,6 @@
 ---
 title: Membership payment (annual, paid monthly)
-sku: sku_IQtxiS4S23zeRc
+sku: price_1Hq2esAITBhrRyxGZRReBtA2
 price: 12.50
 permalink: /membership-annual/
 bgcolour: dark
