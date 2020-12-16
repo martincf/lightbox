@@ -303,7 +303,7 @@
     title: Basic black & white film processing
     link: /learn/black-and-white-film-development
     price: 45
-    spaces: 2
+    spaces: 1
 - date: 24th Apr 2021
   day: Saturday
   event:
@@ -312,4 +312,4 @@
     title: Basic black & white printing
     link: /learn/black-and-white-darkroom-printing-workshop
     price: 45
-    spaces: 1
+    spaces: 2
