@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 10th December 2020 {#top}
+### Last updated 1st January 2021 {#top}
 
 
 #### Quick links
