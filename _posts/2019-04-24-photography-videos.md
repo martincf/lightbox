@@ -21,3 +21,4 @@ I love hunting for inspirational (and mostly well dated) videos of the photograp
 * **[William Klein – William Klein: In Pictures](https://youtu.be/7g9IksGqiUM)**
 * **[Do Not Bend: The Photographic Life of Bill Jay](https://youtu.be/wd47549knOU)**
 * **[Photography Secrets of Edward Weston's Darkroom](https://www.youtube.com/watch?v=yT2-xpKBafs)**
+* **[Henri Cartier-Bresson interview, and Richard Avendon (2000)](https://youtu.be/aKBSkNuUqAc)**
