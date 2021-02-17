@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 13th January 2021 {#top}
+### Last updated 17th February 2021 {#top}
 
 
 #### Quick links
@@ -72,7 +72,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
 * **Rocky Cameras (Dorset):** I've never ordered from Rocky. I've had emails from disgruntled customers of their's asking to remove the listing, and the online reviews imply malpractice on Rocky's behalf. However, found on the website is a statement of the owner's health issues which are affecting them and their business. The decision is yours whether to use Rocky or not. [http://www.rockycameras.com](http://www.rockycameras.com)
 * **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection but leave sold items online giving the impression some great gear is available, but isn't! [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
-* **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. Quite a varied collection on the website. [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
+* **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. However, be warned! Whilst buyers seem to be happy with his services, Peter seems to be increasingly [damaging his own reputation concerning commission sales](https://www.dpreview.com/forums/thread/3666710) – [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
 * **Camtech Photographic (Cambridge):** Seem to have a decent used film collection of used gear with condition stated, but no specific images to view. [http://www.camtechuk.com/index.php](http://www.camtechuk.com/index.php)
 * **The Camera House (West Yorkshire):** An old looking website with a lot of lists of used kit. Some choice stuff by the looks of things. [http://www.the-camera-house.co.uk](http://www.the-camera-house.co.uk)
 * **Commercial Cameras (Shropshire):** High spec professional camera sellers with a small but tidy used section on their website (Leicas, Mamiya, Hasselblad, large format, etc.) [http://www.commercialcameras.co.uk](http://www.commercialcameras.co.uk)
