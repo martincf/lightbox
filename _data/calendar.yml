@@ -313,3 +313,22 @@
     link: /learn/black-and-white-darkroom-printing-workshop
     price: 45
     spaces: 2
+- date: 17 Jul 2021
+  day: Saturday
+  month: July
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black & white film processing
+    link: /learn/black-and-white-film-development
+    price: 45
+    spaces: 2
+- date: 31st Jul 2021
+  day: Saturday
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black & white printing
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 45
+    spaces: 2
