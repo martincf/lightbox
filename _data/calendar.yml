@@ -256,37 +256,9 @@
 #     link: /learn/basic-black-and-white-film-and-printing-workshop
 #     price: 55 (£45 students)
 #     spaces: 2
-- date: 13th Mar 2021
-  day: Saturday
-  month: March
-  event:
-    type: workshop
-    time: 9am-12pm
-    title: Basic black & white film processing
-    link: /learn/black-and-white-film-development
-    price: 45
-    spaces: 0
-- date: 27th Mar 2021
-  day: Saturday
-  event:
-    type: workshop
-    time: 9am-12pm
-    title: Basic black & white printing
-    link: /learn/black-and-white-darkroom-printing-workshop
-    price: 45
-    spaces: 1
-- date: 10th Apr 2021
-  day: Saturday
-  month: April
-  event:
-    type: workshop
-    time: 9am-12pm
-    title: Basic black & white film processing
-    link: /learn/black-and-white-film-development
-    price: 45
-    spaces: 1
 - date: 24th Apr 2021
   day: Saturday
+  month: April
   event:
     type: workshop
     time: 9am-12pm
@@ -303,8 +275,36 @@
     title: Basic black & white film processing
     link: /learn/black-and-white-film-development
     price: 45
-    spaces: 2
+    spaces: 0
 - date: 8th May 2021
+  day: Saturday
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black & white printing
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 45
+    spaces: 1
+- date: 15th May 2021
+  day: Saturday
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black & white film processing
+    link: /learn/black-and-white-film-development
+    price: 45
+    spaces: 1
+- date: 5th Jun 2021
+  day: Saturday
+  month: June
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black & white film processing
+    link: /learn/black-and-white-film-development
+    price: 45
+    spaces: 2
+- date: 19th Jun 2021
   day: Saturday
   event:
     type: workshop
