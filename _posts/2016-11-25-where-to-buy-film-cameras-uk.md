@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 18th March 2021 {#top}
+### Last updated 31 March 2021 {#top}
 
 
 #### Quick links
@@ -17,6 +17,7 @@ heroimage: photo-cameras
 - [Top picks](#toppicks)
 - [London](#london)
 - [Rest of the UK](#restofuk)
+- [Caution advised](#caution)
 - [Online stores abroad](#abroad)
 {: .nobullets}
 
@@ -77,7 +78,10 @@ All of the below are easy to get to over a couple of hours. Very useful if youâ€
 * **Soperfect Images (Plymouth):** A film camera shop based in Plymouth dealing in anything from 35mm to large format. [https://www.soperfectimages.co.uk](https://www.soperfectimages.co.uk)
 * **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection but leave sold items online giving the impression some great gear is available, but isn't! [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
 
-## Caution advised
+[Back to top](#top)
+{: .backtotop}
+
+## Caution advised {#caution}
 
 * **Film Camera Store (Unknown location):** Going by [Trustpilot reviews](https://uk.trustpilot.com/review/filmcamerastore.co.uk), this is a reseller to approach cautiously. They also operate on Depop. [https://filmcamerastore.co.uk/](https://filmcamerastore.co.uk/)
 * **Rocky Cameras (Dorset):** I've never ordered from Rocky. I've had emails from disgruntled customers of their's asking to remove the listing, and the online reviews imply malpractice on Rocky's behalf. However, found on the website is a statement of the owner's health issues which are affecting them and their business. The decision is yours whether to use Rocky or not. [http://www.rockycameras.com](http://www.rockycameras.com)
