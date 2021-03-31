@@ -70,14 +70,19 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **305C:** A successful Instagram presence and a reseller who prides themselves on their knowledge and high quality items. Stuff sells quick so move quick if you want to buy from them. [https://matthewtou.com](https://matthewtou.com)
 * **Skears Photographic (Northampton):** [http://www.skearsphoto.com](http://www.skearsphoto.com)
 * **Dale Photographic (Leeds):** [http://www.dalephotographic.co.uk](http://www.dalephotographic.co.uk)
-* **Rocky Cameras (Dorset):** I've never ordered from Rocky. I've had emails from disgruntled customers of their's asking to remove the listing, and the online reviews imply malpractice on Rocky's behalf. However, found on the website is a statement of the owner's health issues which are affecting them and their business. The decision is yours whether to use Rocky or not. [http://www.rockycameras.com](http://www.rockycameras.com)
-* **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection but leave sold items online giving the impression some great gear is available, but isn't! [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
-* **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. However, be warned! Whilst buyers seem to be happy with his services, Peter seems to be increasingly [damaging his own reputation concerning commission sales](https://www.dpreview.com/forums/thread/3666710) – [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
 * **Camtech Photographic (Cambridge):** Seem to have a decent used film collection of used gear with condition stated, but no specific images to view. [http://www.camtechuk.com/index.php](http://www.camtechuk.com/index.php)
 * **The Camera House (West Yorkshire):** An old looking website with a lot of lists of used kit. Some choice stuff by the looks of things. [http://www.the-camera-house.co.uk](http://www.the-camera-house.co.uk)
 * **Commercial Cameras (Shropshire):** High spec professional camera sellers with a small but tidy used section on their website (Leicas, Mamiya, Hasselblad, large format, etc.) [http://www.commercialcameras.co.uk](http://www.commercialcameras.co.uk)
 * **The Vintage & Classic Camera Co. (Hayling Island, nr Portsmouth):** A large collection of 35mm, medium format, and large format cameras and lenses. [http://vintageclassiccamera.com](http://vintageclassiccamera.com)
 * **Soperfect Images (Plymouth):** A film camera shop based in Plymouth dealing in anything from 35mm to large format. [https://www.soperfectimages.co.uk](https://www.soperfectimages.co.uk)
+* **Worldwide Camera Exchange (nr London):** Around for a long time. A mix of film and digital. Fairly big collection but leave sold items online giving the impression some great gear is available, but isn't! [http://www.worldwidecameraexchange.co.uk](http://www.worldwidecameraexchange.co.uk)
+
+## Caution advised
+
+* **Film Camera Store (Unknown location):** Going by [Trustpilot reviews](https://uk.trustpilot.com/review/filmcamerastore.co.uk), this is a reseller to approach cautiously. They also operate on Depop. [https://filmcamerastore.co.uk/](https://filmcamerastore.co.uk/)
+* **Rocky Cameras (Dorset):** I've never ordered from Rocky. I've had emails from disgruntled customers of their's asking to remove the listing, and the online reviews imply malpractice on Rocky's behalf. However, found on the website is a statement of the owner's health issues which are affecting them and their business. The decision is yours whether to use Rocky or not. [http://www.rockycameras.com](http://www.rockycameras.com)
+* **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. However, be warned! Whilst buyers seem to be happy with his services, Peter seems to be increasingly [damaging his own reputation concerning commission sales](https://www.dpreview.com/forums/thread/3666710) – [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
+
 
 [Back to top](#top)
 {: .backtotop}
