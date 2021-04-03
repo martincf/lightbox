@@ -52,7 +52,6 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Peter Loy (London):** An afternoon can be spent just browsing the collection of stock on this website. Lots of rarities. Seems to be mail/tel order only. [http://www.peterloy.com](http://www.peterloy.com)
 * **Richard Caplan (Pall Mall, London):** Sadly closed down December 2020 – leaving the listing here for posterity, for now.
 * **MW Classic Cameras (London):** Caters for classics such as Leica and similar. There’s some very cheap regular film bodies and lens, as well as some more obscure items. I had variable service from MW Classic, mostly not good. It appears I'm not the only one if you read Google reviews, too. Consider purchasing from MW with caution. [https://www.mwclassic.com](https://www.mwclassic.com)
-* **Nicholas Cameras (Camden, London):** A wide range of film camera kit but if Google reviews is anything to go by, it may be best you stay away from this place. [https://nicholascameras.com](https://nicholascameras.com)
 
 [Back to top](#top)
 {: .backtotop}
@@ -86,6 +85,7 @@ All of the below are easy to get to over a couple of hours. Very useful if you�
 * **Film Camera Store (Unknown location):** Going by [Trustpilot reviews](https://uk.trustpilot.com/review/filmcamerastore.co.uk), this is a reseller to approach cautiously. They also operate on Depop. [https://filmcamerastore.co.uk/](https://filmcamerastore.co.uk/)
 * **Rocky Cameras (Dorset):** I've never ordered from Rocky. I've had emails from disgruntled customers of their's asking to remove the listing, and the online reviews imply malpractice on Rocky's behalf. However, found on the website is a statement of the owner's health issues which are affecting them and their business. The decision is yours whether to use Rocky or not. [http://www.rockycameras.com](http://www.rockycameras.com)
 * **Peter Walnes (Cornwall):** Something of a one-man band who’s been trading for a long time. However, be warned! Whilst buyers seem to be happy with his services, Peter seems to be increasingly [damaging his own reputation concerning commission sales](https://www.dpreview.com/forums/thread/3666710) – [https://secure.peterwalnes.com](https://secure.peterwalnes.com)
+* **Nicholas Cameras (Camden, London):** A wide range of film camera kit but if Google reviews is anything to go by, it may be best you stay away from this place. [https://nicholascameras.com](https://nicholascameras.com)
 
 
 [Back to top](#top)
