@@ -256,16 +256,16 @@
 #     link: /learn/basic-black-and-white-film-and-printing-workshop
 #     price: 55 (£45 students)
 #     spaces: 2
-- date: 24th Apr 2021
-  day: Saturday
-  month: April
-  event:
-    type: workshop
-    time: 9am-12pm
-    title: Basic black & white printing
-    link: /learn/black-and-white-darkroom-printing-workshop
-    price: 45
-    spaces: 0
+# - date: 24th Apr 2021
+#   day: Saturday
+#   month: April
+#   event:
+#     type: workshop
+#     time: 9am-12pm
+#     title: Basic black & white printing
+#     link: /learn/black-and-white-darkroom-printing-workshop
+#     price: 45
+#     spaces: 0
 - date: 1st May 2021
   day: Saturday
   month: May

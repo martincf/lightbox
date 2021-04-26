@@ -650,3 +650,7 @@ a:hover, a:active {
     background-color: lighten($red, 28%);
   }
 }
+img[alt~="Parallax"] {
+  display: block;
+  margin: 0 auto;
+}
