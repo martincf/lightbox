@@ -31,7 +31,7 @@ Both memberships will allow you to use the darkroom when it's available. General
   <h1 class="membership-cta-title">Daily</h1>
   <ul class="membership-cta-list">
     <li>&pound;20 per day</li>
-    <li>Pay for a day only via <a href="http://www.gocardless.com">GoCardless</a></li>
+    <li>Pay for a day only via <a href="http://www.stripe.com">Stripe</a></li>
     <li>A full day only from 9.00am – 9.00pm, or anything in between.</li>
   </ul>
 </div>
@@ -40,7 +40,7 @@ Both memberships will allow you to use the darkroom when it's available. General
     <h1 class="membership-cta-title">Monthly</h1>
     <ul class="membership-cta-list">
       <li>&pound;30 per month</li>
-      <li>Pay for a month only via <a href="http://www.gocardless.com">GoCardless</a></li>
+      <li>Pay for a month only via <a href="http://www.stripe.com">Stripe</a></li>
       <li>As much reasonable access as you need and is available</li>
       <li>Equivalent to &pound;360 annually</li>
     </ul>
@@ -50,7 +50,7 @@ Both memberships will allow you to use the darkroom when it's available. General
     <h1 class="membership-cta-title">Annual</h1>
     <ul class="membership-cta-list">
       <li>&pound;12.50 per month, paid monthly</li>
-      <li>12 monthly payments setup via <a href="http://www.gocardless.com">GoCardless</a></li>
+      <li>12 monthly payments setup via <a href="http://www.stripe.com">Stripe</a></li>
       <li>As much reasonable access as you need and is available</li>
       <li>Equals &pound;150 annually</li>
     </ul>
