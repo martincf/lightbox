@@ -9,7 +9,7 @@ excerpt: A not so comprehensive list of places to buy film cameras and lenses. S
 heroimage: photo-cameras
 ---
 
-### Last updated 28 April 2021 {#top}
+### Last updated 5 May 2021 {#top}
 
 
 #### Quick links
@@ -61,6 +61,7 @@ All of the below are easy to get to over a couple of hours. Very useful if youâ€
 * **Student Photo Store (Plymouth):** Mainly darkroom kit sellers, but do sell a solid collection of the 35mm (Nikon, Olympus, Pentax, etc) and medium format standard bodies. Not a huge collection of separate lens though. Iâ€™ve only bought darkroom kit from these guys. Service and prices were very good though. [http://www.studentphotostore.co.uk](http://www.studentphotostore.co.uk)
 * **Camley Photographic (Hove):** A good collection of some decent kit. They sell a lot on Ebay too. [http://www.camleyphotographic.com](http://www.camleyphotographic.com)
 * **Harrison Cameras (Sheffield):** Another regular camera store selling new gear but with a decent used section online. Some good film bargains crop up from time to time. [http://www.harrisoncameras.co.uk/Used/](http://www.harrisoncameras.co.uk/Used/)
+* **Vintage Analogue Classic Cameras (Online):** New (to me) online Leica and Hasselblad reseller offering what looks like a well curated set of vintage classic models. Some nice stuff at reasonable prices. [https://vaclassiccameras.co.uk](https://vaclassiccameras.co.uk)
 * **Mifsuds (Devon):** I bought a medium format camera from Mifsuds which unfortunately died (electronics). The problem should've been spotted before sending, but they were gracious in how they dealt with the issue. A good range of products. [http://mifsuds.com](http://mifsuds.com)
 * **Carmarthen Cameras (Wales):** I've bought stuff from Camarthen Cameras via Ebay, but not their website. Always had great service. [https://carmarthencameras.com](https://carmarthencameras.com)
 * **Leica Store Manchester (Central Manchester):** Catering for Leica cameras only, of course. The store has a tidy collection of very good quality secondhand M cameras and lenses. [https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/](https://www.leicastoremanchester.com/leica-pre-owned/leica-m/leica-m-analogue/)
