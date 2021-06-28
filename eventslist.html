@@ -29,7 +29,7 @@ layout: list
           {% endif %}
 
         {% if event.event.spaces == 0 %}
-          <button class="soldout">Reserved!</button>
+          <button class="soldout">Sold out!</button>
         {% elsif event.event.spaces > 0 %}
         <button class="event-price-book" role="link" type="button">
           <a href="{{ event.event.paylink }}">Book now</a>
