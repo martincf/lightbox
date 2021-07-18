@@ -19,6 +19,28 @@
     price: 45
     spaces: 0
     paylink: https://buy.stripe.com/fZe5mu4bjfipfra6op
+- date: 14th Aug 2021
+  day: Saturday
+  month: August
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black and white film processing
+    link: /learn/black-and-white-film-development
+    price: 45
+    spaces: 2
+    paylink: https://buy.stripe.com/6oE4iqePX8U17YI8wy
+- date: 28th Aug 2021
+  day: Saturday
+  event:
+    type: workshop
+    time: 9am-12pm
+    title: Basic black and white printing
+    link: /learn/black-and-white-darkroom-printing-workshop
+    price: 45
+    spaces: 2
+    paylink: https://buy.stripe.com/28o2aigY5dah92MdQT
+
 - date: 11th Sep 2021
   day: Saturday
   month: September
@@ -29,7 +51,7 @@
     link: /learn/black-and-white-film-development
     price: 45
     spaces: 2
-    paylink: https://buy.stripe.com/6oE4iqePX8U17YI8wy
+    paylink: https://buy.stripe.com/cN28yGePXc6ddj2dQV
 - date: 25th Sep 2021
   day: Saturday
   event:
@@ -38,5 +60,5 @@
     title: Basic black and white printing
     link: /learn/black-and-white-darkroom-printing-workshop
     price: 45
-    spaces: 2
-    paylink: https://buy.stripe.com/28o2aigY5dah92MdQT
+    spaces: 1
+    paylink: https://buy.stripe.com/6oE7uCdLT0nv4Mw6ou
